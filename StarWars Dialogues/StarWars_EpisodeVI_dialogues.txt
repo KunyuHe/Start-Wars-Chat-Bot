@@ -656,9 +656,9 @@ COMMANDER	It's too late!
 VADER	Luke, help me take this mask off.
 LURE	But you'll die.
 VADER	Nothing can stop that now. Just for once... let me look on you with my own eyes.
-VADER	Now...go, my son. Leave me.
+ANAKIN	Now...go, my son. Leave me.
 LUKE	No. You're coming with me. I can't leave you here. I've got to save you.
-VADER	You already have, Luke. You were right about me. Tell your sister...you were right.
+ANAKIN	You already have, Luke. You were right about me. Tell your sister...you were right.
 LUKE	Father... I won't leave you.
 WEDGE	There it is!
 LANDO	All right, Wedge. Go for the power regulator on the north tower.
