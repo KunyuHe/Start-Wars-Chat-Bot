@@ -1,13 +1,13 @@
-THREEPIO	Did you hear that?  They've shut down the main reactor.  We'll be destroyed for sure.  This is madness!
-THREEPIO	We're doomed!
-THREEPIO	There'll be no escape for the Princess this time.
-THREEPIO	What's that?
-THREEPIO	I should have known better than to trust the logic of a half-sized thermocapsulary dehousing assister...
+C-3PO	Did you hear that?  They've shut down the main reactor.  We'll be destroyed for sure.  This is madness!
+C-3PO	We're doomed!
+C-3PO	There'll be no escape for the Princess this time.
+C-3PO	What's that?
+C-3PO	I should have known better than to trust the logic of a half-sized thermocapsulary dehousing assister...
 LUKE	Hurry up!  Come with me!  What are you waiting for?!  Get in gear!
-THREEPIO	Artoo! Artoo-Detoo, where are you?
-THREEPIO	At last!  Where have you been?
-THREEPIO	They're heading in this direction. What are we going to do?  We'll be sent to the spice mines of Kessel or smashed into who knows what!
-THREEPIO	Wait a minute, where are you going?
+C-3PO	Artoo! Artoo-Detoo, where are you?
+C-3PO	At last!  Where have you been?
+C-3PO	They're heading in this direction. What are we going to do?  We'll be sent to the spice mines of Kessel or smashed into who knows what!
+C-3PO	Wait a minute, where are you going?
 IMPERIAL OFFICER	The Death Star plans are not in the main computer.
 VADER	Where are those transmissions you intercepted?
 REBEL OFFICER	We intercepted no transmissions. Aaah...  This is a consular ship. Were on a diplomatic mission.
@@ -15,14 +15,14 @@ VADER	If this is a consular ship... where is the Ambassador?
 VADER	Commander, tear this ship apart until you've found those plans and bring me the Ambassador.  I want her alive!
 TROOPER	There she is! Set for stun!
 TROOPER	She'll be all right. Inform Lord Vader we have a prisoner.
-THREEPIO	Hey, you're not permitted in there.  It's restricted. You'll be deactivated for sure..
-THREEPIO	Don't call me a mindless philosopher, you overweight glob of grease!  Now come out before somebody sees you.
-THREEPIO	Secret mission?  What plans?  What are you talking about?  I'm not getting in there!
-THREEPIO	I'm going to regret this.
+C-3PO	Hey, you're not permitted in there.  It's restricted. You'll be deactivated for sure..
+C-3PO	Don't call me a mindless philosopher, you overweight glob of grease!  Now come out before somebody sees you.
+C-3PO	Secret mission?  What plans?  What are you talking about?  I'm not getting in there!
+C-3PO	I'm going to regret this.
 CHIEF PILOT	There goes another one.
 CAPTAIN	Hold your fire.  There are no life forms.  It must have been short-circuited.
-THREEPIO	That's funny, the damage doesn't look as bad from out here.
-THREEPIO	Are you sure this things safe?
+C-3PO	That's funny, the damage doesn't look as bad from out here.
+C-3PO	Are you sure this things safe?
 WOMAN	I've told you kids to slow down!
 FIXER	Did I hear a young noise blast through here?
 CAMIE	It was just Wormie on another rampage.
@@ -52,18 +52,18 @@ VADER	Leave that to me.  Send a distress signal and then inform the senate that 
 SECOND OFFICER	Lord Vader, the battle station plans are not aboard this ship!  And no transmissions were made.  An escape pod was jettisoned during the fighting, but no life forms were aboard.
 VADER	She must have hidden the plans in the escape pod.  Send a detachment down to retrieve them.  See to it personally, Commander.  There'll be no one to stop us this time.
 COMMANDER	Yes, sir.
-THREEPIO	How did I get into this mess?  I really don't know how.  We seem to be made to suffer.  It's our lot in life.
-THREEPIO	I've got to rest before I fall apart.  My joints are almost frozen. THREEPIO	What a desolate place this is.
-THREEPIO	Where are you going?
-THREEPIO	Well, I'm not going that way.  It's much too rocky.  This way is much easier.
-THREEPIO	What makes you think there are settlements over there?
-THREEPIO	Don't get technical with me.
-THREEPIO	What mission?  What are you talking about?  I've had just about enough of you!  Go that way!  You'll be malfunctioning within a day, you nearsighted scrap pile!
-THREEPIO	And don't let me catch you following me begging for help, because you won't get it.
-THREEPIO	No more adventures.  I'm not going that way.
-THREEPIO	That malfunctioning little twerp.  This is all his fault!  He tricked me into going this way, but he'll do no better.
-THREEPIO	Wait, what's that?  A transport!  I'm saved!
-THREEPIO	Over here!  Help!  Please, help!
+C-3PO	How did I get into this mess?  I really don't know how.  We seem to be made to suffer.  It's our lot in life.
+C-3PO	I've got to rest before I fall apart.  My joints are almost frozen. C-3PO	What a desolate place this is.
+C-3PO	Where are you going?
+C-3PO	Well, I'm not going that way.  It's much too rocky.  This way is much easier.
+C-3PO	What makes you think there are settlements over there?
+C-3PO	Don't get technical with me.
+C-3PO	What mission?  What are you talking about?  I've had just about enough of you!  Go that way!  You'll be malfunctioning within a day, you nearsighted scrap pile!
+C-3PO	And don't let me catch you following me begging for help, because you won't get it.
+C-3PO	No more adventures.  I'm not going that way.
+C-3PO	That malfunctioning little twerp.  This is all his fault!  He tricked me into going this way, but he'll do no better.
+C-3PO	Wait, what's that?  A transport!  I'm saved!
+C-3PO	Over here!  Help!  Please, help!
 LUKE	... so I cut off my power, shut down the afterburners and came in low on Deak's trail.  I was so close I thought I was going to fry my instruments. As it was I busted up the Skyhopper pretty bad.  Uncle Owen was pretty upset.  He grounded me for the rest of the season.  You should have been there... it was fantastic.
 BIGGS	You ought to take it a little easy Luke.  You may be the hottest bushpilot this side of Mos Eisley, but those little Skyhoppers are dangerous.  Keep it up, and one day, whammo, you're going to be nothing more than a dark spot on the down side of a canyon wall.
 LUKE	Look who's talking.  Now that you've been around those giant starships you're beginning to sound like my uncle. You've gotten soft in the city...
@@ -91,23 +91,23 @@ LUKE	Then I guess I won't see you.
 BIGGS	Maybe someday...  I'll keep a lookout.
 LUKE	Well, I'll be at the Academy next season... after that who knows.  I won't be drafted into the Imperial Starfleet that's for sure...  Take care of yourself, you'll always be the best friend I've got.
 BIGGS	So long, Luke.
-THREEPIO	Artoo-Detoo!  It's you!  It's you!
+C-3PO	Artoo-Detoo!  It's you!  It's you!
 FIRST TROOPER	Someone was in the pod.  The tracks go off in this direction. SECOND TROOPER	Look, sir - droids.
-THREEPIO	Wake up!  Wake up!
-THREEPIO	We're doomed.
-THREEPIO	Do you think they'll melt us down?
-THREEPIO	Don't shoot!  Don't shoot!  Will this never end?
+C-3PO	Wake up!  Wake up!
+C-3PO	We're doomed.
+C-3PO	Do you think they'll melt us down?
+C-3PO	Don't shoot!  Don't shoot!  Will this never end?
 BERU	Luke, tell Owen that if he gets a translator to be sure it speaks Bocce.
 LUKE	It looks like we don't have much of a choice but I'll remind him.
 OWEN	I have no need for a protocol droid.
-THREEPIO	Sir - not in an environment such as this - that's why I've also been programmed for over thirty secondary functions that...
+C-3PO	Sir - not in an environment such as this - that's why I've also been programmed for over thirty secondary functions that...
 OWEN	What I really need is a droid that understands the binary languages of moisture vaporators.
-THREEPIO	Vaporators!  Sir - My first job was programming binary load lifters
+C-3PO	Vaporators!  Sir - My first job was programming binary load lifters
 ... very similar to your vaporators.  You could say...
 OWEN	Do you speak Bocce?
-THREEPIO	Of course I can, sir.  It's like a second language for me...  I'm as fluent in Bocce...
+C-3PO	Of course I can, sir.  It's like a second language for me...  I'm as fluent in Bocce...
 OWEN	All right; shut up! I'll take this one.
-THREEPIO	Shutting up, sir.
+C-3PO	Shutting up, sir.
 OWEN	Luke, take these two over to the garage, will you?  I want you to have both of them cleaned up before dinner.
 LUKE	But I was going into Toshi Station to pick up some power converters...
 OWEN	You can waste time with your friends when your chores are done.  Now, come on, get to it!
@@ -116,64 +116,64 @@ LUKE	Uncle Owen...
 OWEN	Yeah?
 LUKE	This R2 unit has a bad motivator.  Look!
 OWEN	Hey, what're you trying to push on us?
-THREEPIO	Excuse me, sir, but that R2 unit is in prime condition.  A real bargain.
+C-3PO	Excuse me, sir, but that R2 unit is in prime condition.  A real bargain.
 LUKE	Uncle Owen...
 OWEN	Yeah?
 LUKE	What about that one?
 OWEN	What about that blue one?  We'll take that one.
 LUKE	Yeah, take it away.
-THREEPIO	Uh, I'm quite sure you'll be very pleased with that one, sir.  He really is in first-class condition.  I've worked with him before.  Here he comes.
+C-3PO	Uh, I'm quite sure you'll be very pleased with that one, sir.  He really is in first-class condition.  I've worked with him before.  Here he comes.
 LUKE	Okay, let's go.
-THREEPIO	Now, don't forget this!  Why I should stick my neck out for you is quite beyond my capacity!
-THREEPIO	Thank the maker!  This oil bath is going to feel so good.  I've got such a bad case of dust contamination, I can barely move!
+C-3PO	Now, don't forget this!  Why I should stick my neck out for you is quite beyond my capacity!
+C-3PO	Thank the maker!  This oil bath is going to feel so good.  I've got such a bad case of dust contamination, I can barely move!
 LUKE	It just isn't fair.  Oh, Biggs is right.  I'm never gonna get out of here!
-THREEPIO	Is there anything I might do to help? LUKE	Well, not unless you can alter time, speed up the harvest, or teleport me off this rock!
-THREEPIO	I don't think so, sir.  I'm only a droid and not very knowledgeable about such things.  Not on this planet, anyways.  As a matter of fact, I'm not even sure which planet I'm on.
+C-3PO	Is there anything I might do to help? LUKE	Well, not unless you can alter time, speed up the harvest, or teleport me off this rock!
+C-3PO	I don't think so, sir.  I'm only a droid and not very knowledgeable about such things.  Not on this planet, anyways.  As a matter of fact, I'm not even sure which planet I'm on.
 LUKE	Well, if there's a bright center to the universe, you're on the planet that it's farthest from.
-THREEPIO	I see, sir.
+C-3PO	I see, sir.
 LUKE	Uh, you can call me Luke.
-THREEPIO	I see, sir Luke.
+C-3PO	I see, sir Luke.
 LUKE	Just Luke.
-THREEPIO	And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo.
+C-3PO	And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo.
 LUKE	Hello.
 LUKE	You got a lot of carbon scoring here.  It looks like you boys have seen a lot of action.
-THREEPIO	With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the Rebellion and all.
+C-3PO	With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the Rebellion and all.
 LUKE	You know of the Rebellion against the Empire?
-THREEPIO	That's how we came to be in your service, if you take my meaning, sir.
+C-3PO	That's how we came to be in your service, if you take my meaning, sir.
 LUKE	Have you been in many battles?
-THREEPIO	Several, I think.  Actually, there's not much to tell.  I'm not much more than an interpreter, and not very good at telling stories.  Well, not at making them interesting, anyways.
+C-3PO	Several, I think.  Actually, there's not much to tell.  I'm not much more than an interpreter, and not very good at telling stories.  Well, not at making them interesting, anyways.
 LUKE	Well, my little friend, you've got something jammed in here real good.  Were you on a starcruiser or...
 LEIA	Help me, Obi-Wan Kenobi.  You're
 my only hope.
 LUKE	What's this?
-THREEPIO	What is what?!?  He asked you a question...
+C-3PO	What is what?!?  He asked you a question...
 What is that?
 LEIA	Help me, Obi-Wan Kenobi.  You're my only hope.  Help me, Obi-Wan Kenobi.  You're my only hope.
-THREEPIO	Oh, he says it's nothing, sir.  Merely a malfunction.  Old data.  Pay it no mind.
+C-3PO	Oh, he says it's nothing, sir.  Merely a malfunction.  Old data.  Pay it no mind.
 LUKE	Who is she?  She's beautiful.
-THREEPIO	I'm afraid I'm not quite sure, sir.
+C-3PO	I'm afraid I'm not quite sure, sir.
 LEIA	Help me, Obi-Wan Kenobi...
-THREEPIO	I think she was a passenger on our last voyage.  A person of some importance, sir - I believe.  Our captain was attached to...
+C-3PO	I think she was a passenger on our last voyage.  A person of some importance, sir - I believe.  Our captain was attached to...
 LUKE	Is there more to this recording?
-THREEPIO	Behave yourself, Artoo.  You're going to get us in trouble.  It's all right, you can trust him.  He's our new master.
-THREEPIO	He says he's the property of Obi-
+C-3PO	Behave yourself, Artoo.  You're going to get us in trouble.  It's all right, you can trust him.  He's our new master.
+C-3PO	He says he's the property of Obi-
 Wan Kenobi, a resident of these parts.  And it's a private message for him.  Quite frankly, sir, I don't know what he's talking about.  Our last master was Captain Antilles, but with what we've been through, this little R2 unit has become a bit eccentric.
 LUKE	Obi-Wan Kenobi?  I wonder if he means old Ben Kenobi?
-THREEPIO	I beg your pardon, sir, but do you know what he's talking about?
+C-3PO	I beg your pardon, sir, but do you know what he's talking about?
 LUKE	Well, I don't know anyone named Obi-Wan, but old Ben lives out beyond the dune sea.  He's kind of a strange old hermit.
 LUKE	I wonder who she is.  It sounds like she's in trouble.  I'd better play back the whole thing.
-THREEPIO	He says the restraining bolt has short circuited his recording system.  He suggests that if you remove the bolt, he might be able to play back the entire recording.
+C-3PO	He says the restraining bolt has short circuited his recording system.  He suggests that if you remove the bolt, he might be able to play back the entire recording.
 LUKE	H'm?  Oh, yeah, well, I guess you're too small to run away on me if I take this off!  Okay.
 LUKE	There you go.
 LUKE	Well, wait a minute.  Where'd she go?  Bring her back!  Play back the entire message.
-THREEPIO	What message?  The one youÕve just
+C-3PO	What message?  The one youÕve just
 been playing.  The one you're carrying inside your rusty innards! AUNT BERU	Luke?  Luke!  Come to dinner!
 LUKE	All right, I'll be right there, Aunt Beru.
-THREEPIO	I'm sorry, sir, but he appears to have picked up a slight flutter.
+C-3PO	I'm sorry, sir, but he appears to have picked up a slight flutter.
 LUKE	Well, see what you can do with him.  I'll be right back.
-THREEPIO	Just you reconsider playing that message for him.
-THREEPIO	No, I don't think he likes you at all.
-THREEPIO	No, I don't like you either.
+C-3PO	Just you reconsider playing that message for him.
+C-3PO	No, I don't think he likes you at all.
+C-3PO	No, I don't like you either.
 LUKE	You know, I think that R2 unit we bought might have been stolen.
 OWEN	What makes you think that?
 LUKE	Well, I stumbled across a recording while I was cleaning him.  He says he belongs to someone called Obi-
@@ -199,15 +199,15 @@ OWEN	I'll make it up to him next year.  I promise.
 AUNT BERU	Luke's just not a farmer, Owen.  He has too much of his father in him.
 OWEN	That's what I'm afraid of.
 LUKE	What are you doing hiding there?
-THREEPIO	It wasn't my fault, sir.  Please don't deactivate me.  I told him not to go, but he's faulty, malfunctioning; kept babbling on about his mission.
+C-3PO	It wasn't my fault, sir.  Please don't deactivate me.  I told him not to go, but he's faulty, malfunctioning; kept babbling on about his mission.
 LUKE	Oh, no!
-THREEPIO	That R2 unit has always been a problem.  These astro-droids are getting quite out of hand.  Even I can't understand their logic at times. LUKE	How could I be so stupid?  He's nowhere in sight.  Blast it!
-THREEPIO	Pardon me, sir, but couldn't we go after him?
+C-3PO	That R2 unit has always been a problem.  These astro-droids are getting quite out of hand.  Even I can't understand their logic at times. LUKE	How could I be so stupid?  He's nowhere in sight.  Blast it!
+C-3PO	Pardon me, sir, but couldn't we go after him?
 LUKE	It's too dangerous with all the Sand People around.  We'll have to wait until morning.
 OWEN	Luke, I'm shutting the power down for the night.
 LUKE	All right, I'll be there in a few minutes.  Boy, am I gonna get it.
 LUKE	You know that little droid is going to cause me a lot of trouble.
-THREEPIO	Oh, he excels at that, sir.
+C-3PO	Oh, he excels at that, sir.
 OWEN	Luke?  Luke?  Luke?  Where could he be loafing now!
 OWEN	Have you seen Luke this morning?
 AUNT BERU	He said he had some things to do before he started today, so he left early.
@@ -217,70 +217,70 @@ OWEN	Well, he'd better have those units in the south range repaired be
 midday or there'll be hell to pay!
 LUKE	How's that.
 LUKE	Old Ben Kenobi lives out in this direction somewhere, but I don't see how that R2 unit could have come this far.  We must have missed him.  Uncle Owen isn't going to take this very well.
-THREEPIO	Sir, would it help if you told him it was my fault.
+C-3PO	Sir, would it help if you told him it was my fault.
 LUKE	Sure.  He needs you.  He'd probably only deactivate you for a day or so...
-THREEPIO	Deactivate!  Well, on the other hand if you hadn't removed his restraining bolt...
+C-3PO	Deactivate!  Well, on the other hand if you hadn't removed his restraining bolt...
 LUKE	Wait, there's something dead ahead on the scanner.  It looks like our droid... hit the accelerator.
 LUKE	Hey, whoa, just where do you think you're going?
-THREEPIO	Master Luke here is your rightful owner.  We'll have no more of this Obi-Wan Kenobi jibberish... and don't talk to me of your mission, either.  You're fortunate he doesn't blast you into a million pieces right here.
+C-3PO	Master Luke here is your rightful owner.  We'll have no more of this Obi-Wan Kenobi jibberish... and don't talk to me of your mission, either.  You're fortunate he doesn't blast you into a million pieces right here.
 LUKE	Well, come on. It's getting late.  I only hope we can get back before Uncle Owen really blows up.
-THREEPIO	If you don't mind my saying so, sir, I think you should deactivate the little fugitive until you've gotten him back to your workshop.
+C-3PO	If you don't mind my saying so, sir, I think you should deactivate the little fugitive until you've gotten him back to your workshop.
 LUKE	No, he's not going to try anything.
 LUKE	What's wrong with him now?
-THREEPIO	Oh my... sir, he says there are several creatures approaching from the southeast.
+C-3PO	Oh my... sir, he says there are several creatures approaching from the southeast.
 LUKE	Sand People!  Or worse!  Come on, let's have a look.  Come on.
 LUKE	There are two Banthas down there but I don't see any... wait a second, they're Sand People all right.  I can see one of them now.
-BEN	Hello there!  Come here my little friend.  Don't be afraid.
-BEN	Don't worry, he'll be all right.
+OBI-WAN	Hello there!  Come here my little friend.  Don't be afraid.
+OBI-WAN	Don't worry, he'll be all right.
 LUKE	What happened?
-BEN	Rest easy, son, you've had a busy day.  You're fortunate you're still in one piece.
-LUKE	Ben?  Ben Kenobi!  Boy, am I glad to see you! BEN	The Jundland Wastes are not to be traveled lightly.  Tell me, young Luke, what brings you out this far?
+OBI-WAN	Rest easy, son, you've had a busy day.  You're fortunate you're still in one piece.
+LUKE	Ben?  Ben Kenobi!  Boy, am I glad to see you! OBI-WAN	The Jundland Wastes are not to be traveled lightly.  Tell me, young Luke, what brings you out this far?
 LUKE	Oh, this little droid!  I think he's searching for his former master
 ...  I've never seen such devotion in a droid before... there seems to
 be no stopping him.  He claims to be the property of an Obi-Wan Kenobi.  Is he a relative of yours?  Do you know who he's talking about?
-BEN	Obi-Wan Kenobi... Obi-Wan?  Now thats a name I haven't heard in a long time... a long time.
+OBI-WAN	Obi-Wan Kenobi... Obi-Wan?  Now thats a name I haven't heard in a long time... a long time.
 LUKE	I think my uncle knew him.  He said he was dead.
-BEN	Oh, he's not dead, no... not yet.
+OBI-WAN	Oh, he's not dead, no... not yet.
 LUKE	You know him!
-BEN	Well of course, of course I know him.  He's me!  I haven't gone by the name Obi-Wan since oh, before you were born.
+OBI-WAN	Well of course, of course I know him.  He's me!  I haven't gone by the name Obi-Wan since oh, before you were born.
 LUKE	Then the droid does belong to you.
-BEN	Don't seem to remember ever owning a droid.  Very interesting... BEN	I think we better get indoors.  The Sand People are easily startled but they will soon be back and in greater numbers.
+OBI-WAN	Don't seem to remember ever owning a droid.  Very interesting... OBI-WAN	I think we better get indoors.  The Sand People are easily startled but they will soon be back and in greater numbers.
 LUKE	... Threepio!
-THREEPIO	Where am I?  I must have taken a bad step...
+C-3PO	Where am I?  I must have taken a bad step...
 LUKE	Can you stand?  We've got to get out of here before the Sand People return.
-THREEPIO	I don't think I can make it.  You go on, Master Luke.  There's no sense in you risking yourself on my account.  I'm done for.
+C-3PO	I don't think I can make it.  You go on, Master Luke.  There's no sense in you risking yourself on my account.  I'm done for.
 LUKE	No, you're not.  What kind of talk is that?
-BEN	Quickly, son... they're on the move.
+OBI-WAN	Quickly, son... they're on the move.
 LUKE	No, my father didn't fight in the wars.  He was a navigator on a spice freighter.
-BEN	That's what your uncle told you.  He didn't hold with your father's ideals.  Thought he should have stayed here and not gotten involved.
+OBI-WAN	That's what your uncle told you.  He didn't hold with your father's ideals.  Thought he should have stayed here and not gotten involved.
 LUKE	You fought in the Clone Wars?
-BEN	Yes, I was once a Jedi Knight the same as your father.
+OBI-WAN	Yes, I was once a Jedi Knight the same as your father.
 LUKE	I wish I'd known him.
-BEN	He was the best star-pilot in the galaxy, and a cunning warrior.  I understand you've become quite a good pilot yourself.  And he was a good friend.  Which reminds me...
-BEN	I have something here for you.  Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it.  He feared you might follow old Obi-Wan on some damned-fool idealistic crusade like your father did. THREEPIO	Sir, if you'll not be needing me, I'll close down for awhile.
+OBI-WAN	He was the best star-pilot in the galaxy, and a cunning warrior.  I understand you've become quite a good pilot yourself.  And he was a good friend.  Which reminds me...
+OBI-WAN	I have something here for you.  Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it.  He feared you might follow old Obi-Wan on some damned-fool idealistic crusade like your father did. C-3PO	Sir, if you'll not be needing me, I'll close down for awhile.
 LUKE	Sure, go ahead.
 LUKE	What is it?
-BEN	Your fathers lightsaber.  This is the weapon of a Jedi Knight.  Not as clumsy or as random as a blaster.
-BEN	An elegant weapon for a more
+OBI-WAN	Your fathers lightsaber.  This is the weapon of a Jedi Knight.  Not as clumsy or as random as a blaster.
+OBI-WAN	An elegant weapon for a more
 civilized time.  For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic.  Before the dark times, before the Empire.
 LUKE	How did my father die?
-BEN	A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi Knights.  He betrayed and murdered your father.  Now the Jedi are all but extinct.  Vader was seduced by the dark side of the Force.
+OBI-WAN	A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi Knights.  He betrayed and murdered your father.  Now the Jedi are all but extinct.  Vader was seduced by the dark side of the Force.
 LUKE	The Force?
-BEN	Well, the Force is what gives the Jedi his power.  It's an energy field created by all living things.  It surrounds us and penetrates us.  It binds the galaxy together.
-BEN	Now, let's see if we can't figure out what you are, my little friend.  And where you come from.
+OBI-WAN	Well, the Force is what gives the Jedi his power.  It's an energy field created by all living things.  It surrounds us and penetrates us.  It binds the galaxy together.
+OBI-WAN	Now, let's see if we can't figure out what you are, my little friend.  And where you come from.
 LUKE	I saw part of the message he was...
-BEN	I seem to have found it.
+OBI-WAN	I seem to have found it.
 LEIA	General Kenobi, years ago you served my father in the Clone Wars.  Now he begs you to help him in his struggle against the Empire.  I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed.  I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit.  My father will know how to retrieve it.  You must see this droid safely delivered to him on Alderaan.  This is our most desperate hour.  Help me, Obi-Wan Kenobi, you're my only hope.
-BEN	You must learn the ways of the Force if you're to come with me to Alderaan.
+OBI-WAN	You must learn the ways of the Force if you're to come with me to Alderaan.
 LUKE	Alderaan?  I'm not going to Alderaan.  I've got to go home.  It's late, I'm in for it as it is.
-BEN	I need your help, Luke.  I'm getting too old for this sort of thing.
+OBI-WAN	I need your help, Luke.  I'm getting too old for this sort of thing.
 She needs your help.
 LUKE	I can't get involved!  I've got work to do!  It's not that I like the Empire.  I hate it!  But there's nothing I can do about it right now.  It's such a long way from here.
-BEN	That's your uncle talking.
+OBI-WAN	That's your uncle talking.
 LUKE	Oh, God, my uncle.  How am I ever going to explain this?
-BEN	Learn about the Force, Luke.
+OBI-WAN	Learn about the Force, Luke.
 LUKE	Look, I can take you as far as Anchorhead.  You can get a transport there to Mos Eisley or wherever you're going.
-BEN	You must do what you feel is right, of course.
+OBI-WAN	You must do what you feel is right, of course.
 TAGGE	Until this battle station is fully operational we are vulnerable.  The Rebel Alliance is too well equipped.  They're more dangerous than you realize.
 MOTTI	Dangerous to your starfleet, Commander; not to this battle station!
 TAGGE	The Rebellion will continue to gain support in the Imperial Senate as long as....
@@ -297,41 +297,41 @@ TARKIN	Enough of this!  Vader, release him!
 VADER	As you wish.
 TARKIN	This bickering is pointless.  Lord Vader will provide us with the location of the Rebel fortress by the time this station is operational.  We will then crush the Rebellion with one swift stroke.
 LUKE	It looks like Sand People did this, all right.  Look, here are gaffi sticks, bantha tracks.  It's just... I never heard of them hitting anything this big before.
-BEN	They didn't.  But we are meant to think they did.  These tracks are side by side.  Sand People always ride single file to hide there numbers.
+OBI-WAN	They didn't.  But we are meant to think they did.  These tracks are side by side.  Sand People always ride single file to hide there numbers.
 LUKE	These are the same Jawas that sold us Artoo and Threepio.
-BEN	And these blast points, too accurate for Sand People.  Only Imperial stormtroopers are so precise.
+OBI-WAN	And these blast points, too accurate for Sand People.  Only Imperial stormtroopers are so precise.
 LUKE	Why would Imperial troops want to slaughter Jawas?
 LUKE	If they traced the robots here, they may have learned who they sold them to.  And that would lead them back home!
-BEN	Wait, Luke!  It's too dangerous.
+OBI-WAN	Wait, Luke!  It's too dangerous.
 LUKE	Uncle Owen!  Aunt Beru!  Uncle Owen!
 VADER	And, now Your Highness, we will discuss the location of your hidden Rebel base.
-BEN	There's nothing you could have done, Luke, had you been there.  You'd have been killed, too, and the droids would now be in the hands of the Empire.
+OBI-WAN	There's nothing you could have done, Luke, had you been there.  You'd have been killed, too, and the droids would now be in the hands of the Empire.
 LUKE	I want to come with you to Alderaan.  There's nothing here for me now.  I want to learn the ways of the Force and become a Jedi like my father.
-BEN	Mos Eisley Spaceport.  You will never find a more wretched hive of scum and villainy.  We must be cautious.
+OBI-WAN	Mos Eisley Spaceport.  You will never find a more wretched hive of scum and villainy.  We must be cautious.
 TROOPER	How long have you had these droids?
 LUKE	About three or four seasons.
-BEN	They're for sale if you want them.
+OBI-WAN	They're for sale if you want them.
 TROOPER	Let me see your identification.
-BEN	You don't need to see his identification.
+OBI-WAN	You don't need to see his identification.
 TROOPER	We don't need to see his identification.
-BEN	These are not the droids youÕre looking for.
+OBI-WAN	These are not the droids youÕre looking for.
 TROOPER	These are not the droids we're looking for.
-BEN	He can go about his business.
+OBI-WAN	He can go about his business.
 TROOPER	You can go about your business.
-BEN	Move along.
+OBI-WAN	Move along.
 TROOPER	Move along.  Move along.
-THREEPIO	I can't abide these Jawas.  Disgusting creatures.
+C-3PO	I can't abide these Jawas.  Disgusting creatures.
 LUKE	Go on, go on.  I can't understand how we got by those troopers.  I thought we were dead.
-BEN	The Force can have a strong influence on the weak-minded.  You will find it a powerful ally.
+OBI-WAN	The Force can have a strong influence on the weak-minded.  You will find it a powerful ally.
 LUKE	Do you really think we're going to find a pilot here that'll take us to Alderaan?
-BEN	Well, most of the best freighter pilots can be found here.  Only watch your step.  This place can be a little rough.
+OBI-WAN	Well, most of the best freighter pilots can be found here.  Only watch your step.  This place can be a little rough.
 LUKE	I'm ready for anything.
-THREEPIO	Come along, Artoo.
+C-3PO	Come along, Artoo.
 BARTENDER	We don't serve their kind here!
 LUKE	What?
 BARTENDER	Your droids. They'll have to wait outside.  We don't want them here.
 LUKE	Listen, why don't you wait out by the speeder.  We don't want any trouble.
-THREEPIO	I heartily agree with you sir.
+C-3PO	I heartily agree with you sir.
 CREATURE	Negola dewaghi wooldugger?!?
 HUMAN	He doesn't like you.
 LUKE	I'm sorry.
@@ -339,32 +339,32 @@ HUMAN	I don't like you either
 HUMAN	Don't insult us.  You just watch yourself.  We're wanted men.  I have the death sentence on twelve systems.
 LUKE	I'll be careful than.
 HUMAN	You'll be dead.
-BEN	This little one isn't worth the effort.  Come let me buy you something...
+OBI-WAN	This little one isn't worth the effort.  Come let me buy you something...
 BARTENDER	No blasters!  No blaster!
-BEN	This is Chewbacca.  He's first-
+OBI-WAN	This is Chewbacca.  He's first-
 mate on a ship that might suit our needs.
-THREEPIO	I don't like the look of this.
+C-3PO	I don't like the look of this.
 HAN	Han Solo.  I'm captain of the Millennium Falcon.  Chewie here tells me you're looking for passage to the Alderaan system.
-BEN	Yes, indeed.  If it's a fast ship.
+OBI-WAN	Yes, indeed.  If it's a fast ship.
 HAN	Fast ship?  You've never heard of the Millennium Falcon?
-BEN	Should I have?
+OBI-WAN	Should I have?
 HAN	It's the ship that made the Kessel run in less than twelve parsecs!
 HAN	I've outrun Imperial starships, not the local bulk-cruisers, mind you.  I'm talking about the big Corellian ships now.  She's fast enough for you, old man.  What's the cargo?
-BEN	Only passengers.  Myself, the boy, two droids, and no questions asked.
+OBI-WAN	Only passengers.  Myself, the boy, two droids, and no questions asked.
 HAN	What is it?  Some kind of local trouble?
-BEN	Let's just say we'd like to avoid any Imperial entanglements.
+OBI-WAN	Let's just say we'd like to avoid any Imperial entanglements.
 HAN	Well, that's the real trick, isn't it?  And it's going to cost you something extra.  Ten thousand in advance.
 LUKE	Ten thousand?  We could almost buy our own ship for that!
 HAN	But who's going to fly it, kid!  You?
 LUKE	You bet I could.  I'm not such a bad pilot myself!  We don't have to sit here and listen...
-BEN	We haven't that much with us.  But we could pay you two thousand now, plus fifteen when we reach Alderaan.
+OBI-WAN	We haven't that much with us.  But we could pay you two thousand now, plus fifteen when we reach Alderaan.
 HAN	Seventeen, huh!
 HAN	Okay.  You guys got yourself a ship.  We'll leave as soon as you're ready.  Docking bay Ninety-four.
-BEN	Ninety-four.
+OBI-WAN	Ninety-four.
 HAN	Looks like somebody's beginning to take an interest in your handiwork.
 TROOPER	All right, we'll check it out.
 HAN	Seventeen thousand!  Those guys must really be desperate.  This could really save my neck.  Get back to the ship and get her ready.
-BEN	You'll have to sell your speeder.
+OBI-WAN	You'll have to sell your speeder.
 LUKE	That's okay.  I'm never coming back to this planet again.
 GREEDO	Going somewhere, Solo?
 HAN	Yes, Greedo.  As a matter of fact, I was just going to see your boss.  Tell Jabba that I've got his money.
@@ -386,13 +386,13 @@ VADER	What do you mean?
 TARKIN	I think it is time we demonstrate the full power of this station.
 Set your course for Princess Leia's home planet of Alderaan.
 TROOPER	With pleasure.
-THREEPIO	Lock the door, Artoo.
+C-3PO	Lock the door, Artoo.
 TROOPER	All right, check that side of the street.  It's secure.  Move on to the next door.
-THREEPIO	I would much rather have gone with Master Luke than stay here with you.  I don't know what all this trouble is about, but I'm sure it must be your fault.
-THREEPIO	You watch your language!
+C-3PO	I would much rather have gone with Master Luke than stay here with you.  I don't know what all this trouble is about, but I'm sure it must be your fault.
+C-3PO	You watch your language!
 LUKE	He says it's the best he can do.  Since the XP-38 came out, they just arenÕt in demand.
-BEN	It will be enough.
-BEN	If the ship's as fast as he's boasting, we ought to do well.
+OBI-WAN	It will be enough.
+OBI-WAN	If the ship's as fast as he's boasting, we ought to do well.
 JABBA	Come on out, Solo!
 HAN	I've been waiting for you, Jabba.
 JABBA	I expected you would be.
@@ -409,19 +409,19 @@ HAN	Jabba, I'll pay you because it's my pleasure.
 LUKE	What a piece of junk.
 HAN	She'll make point five beyond the speed of light.  She may not look like much, but she's got it where it counts, kid.  I've added some special modifications myself.
 HAN	We're a little rushed, so if you'll hurry aboard we'll get out of here.
-THREEPIO	Hello, sir.
+C-3PO	Hello, sir.
 TROOPER	Which way?
 TROOPER	All right, men.  Load your weapons!
 TROOPER	Stop that ship!
 TROOPER	Blast 'em!
 HAN	Chewie, get us out of here!
-THREEPIO	Oh, my.  I'd forgotten how much I hate space travel.
+C-3PO	Oh, my.  I'd forgotten how much I hate space travel.
 HAN	It looks like an Imperial cruiser.  Our passengers must be hotter than I thought.  Try and hold them off.  Angle the deflector shield while I make the calculations for the jump to light speed.
 HAN	Stay sharp!  There are two more coming in; they're going to try to cut us off.
 LUKE	Why don't you outrun them?  I thought you said this thing was fast.
 HAN	Watch your mouth, kid, or you're going to find yourself floating home.  We'll be safe enough once we make the jump to hyperspace.  Besides, I know a few maneuvers. We'll lose them!
 HAN	Here's where the fun begins!
-BEN	How long before you can make the jump to light speed?
+OBI-WAN	How long before you can make the jump to light speed?
 HAN	It'll take a few moments to get the coordinates from the navi-
 computer.
 LUKE	Are you kidding?  At the rate they're gaining...
@@ -445,35 +445,35 @@ LEIA	What?
 TARKIN	You're far too trusting.  Dantooine is too remote to make an effective demonstration.  But don't worry.  We will deal with your Rebel friends soon enough. LEIA	No!
 VADER	Commence primary ignition.
 LUKE	Are you all right?  What's wrong?
-BEN	I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror and were suddenly silenced.  I fear something terrible has happened.
-BEN	You'd better get on with your exercises.
+OBI-WAN	I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror and were suddenly silenced.  I fear something terrible has happened.
+OBI-WAN	You'd better get on with your exercises.
 HAN	Well, you can forget your troubles with those Imperial slugs.  I told you I'd outrun 'em.
 HAN	Don't everyone thank me at once.
 HAN	Anyway, we should be at Alderaan about oh-two-hundred hours.
-THREEPIO	Now be careful, Artoo.
-THREEPIO	He made a fair move.  Screaming about it won't help you.
+C-3PO	Now be careful, Artoo.
+C-3PO	He made a fair move.  Screaming about it won't help you.
 HAN	Let him have it. It's not wise to upset a Wookiee.
-THREEPIO	But sir, nobody worries about upsetting a droid.
+C-3PO	But sir, nobody worries about upsetting a droid.
 HAN	That's 'cause droids don't pull people's arms out of their socket when they lose.  Wookiees are known to do that.
-THREEPIO	I see your point, sir.  I suggest a new strategy, Artoo.  Let the Wookiee win.
-BEN	Remember, a Jedi can feel the Force flowing through him.
+C-3PO	I see your point, sir.  I suggest a new strategy, Artoo.  Let the Wookiee win.
+OBI-WAN	Remember, a Jedi can feel the Force flowing through him.
 LUKE	You mean it controls your actions?
-BEN	Partially. But it also obeys your commands.
+OBI-WAN	Partially. But it also obeys your commands.
 HAN	Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
 LUKE	You don't believe in the Force, do you?
 HAN	Kid, I've flown from one side of this galaxy to the other.  I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful force controlling everything.  There's no mystical energy field that controls my destiny.
 HAN	It's all a lot of simple tricks and nonsense.
-BEN	I suggest you try it again, Luke.
-BEN	This time, let go your conscious self and act on instinct.
+OBI-WAN	I suggest you try it again, Luke.
+OBI-WAN	This time, let go your conscious self and act on instinct.
 LUKE	With the blast shield down, I can't even see.  How am I supposed to fight?
-BEN	Your eyes can deceive you.  Don't trust them.
-BEN	Stretch out with your feelings.
-BEN	You see, you can do it.
-HAN	I call it luck. BEN	In my experience, there's no such thing as luck.
+OBI-WAN	Your eyes can deceive you.  Don't trust them.
+OBI-WAN	Stretch out with your feelings.
+OBI-WAN	You see, you can do it.
+HAN	I call it luck. OBI-WAN	In my experience, there's no such thing as luck.
 HAN	Look, going good against remotes is one thing.  Going good against the living?  That's something else.
 HAN	Looks like we're coming up on Alderaan.
 LUKE	You know, I did feel something.  I could almost see the remote.
-BEN	That's good.  You have taken your first step into a larger world.
+OBI-WAN	That's good.  You have taken your first step into a larger world.
 TARKIN	Yes.
 OFFICER CASS	Our scout ships have reached Dantooine.  They found the remains of a Rebel base, but they estimate that it has been deserted for some time.  They are now conducting an extensive search of the surrounding systems.
 TARKIN	She lied!  She lied to us!
@@ -486,33 +486,33 @@ HAN	Our position is correct, except... no, Alderaan!
 LUKE	What do you mean?  Where is it?
 HAN	Thats what I'm trying to tell you, kid.  It ain't there.  It's been totally blown away.
 LUKE	What?  How?
-BEN	Destroyed... by the Empire!
+OBI-WAN	Destroyed... by the Empire!
 HAN	The entire starfleet couldn't destroy the whole planet.  It'd take a thousand ships with more fire power than I've...
 HAN	There's another ship coming in.
 LUKE	Maybe they know what happened.
-BEN	It's an Imperial fighter.
+OBI-WAN	It's an Imperial fighter.
 LUKE	It followed us!
-BEN	No.  It's a short range fighter.
+OBI-WAN	No.  It's a short range fighter.
 HAN	There aren't any bases around here.  Where did it come from?
 LUKE	It sure is leaving in a big hurry.  If they identify us, we're in big trouble.
 HAN	Not if I can help it.  Chewie... jam it's transmissions.
-BEN	It'd be as well to let it go.  It's too far out of range.
+OBI-WAN	It'd be as well to let it go.  It's too far out of range.
 HAN	Not for long...
-BEN	A fighter that size couldn't get this deep into space on its own.
+OBI-WAN	A fighter that size couldn't get this deep into space on its own.
 LUKE	Then he must have gotten lost, been part of a convoy or something...
 HAN	Well, he ain't going to be around long enough to tell anyone about us.
 LUKE	Look at him.  He's heading for that small moon.
 HAN	I think I can get him before he gets there... he's almost in range.
-BEN	That's no moon!  It's a space station.
+OBI-WAN	That's no moon!  It's a space station.
 HAN	It's too big to be a space station.
 LUKE	I have a very bad feeling about this.
-BEN	Turn the ship around!
+OBI-WAN	Turn the ship around!
 HAN	Yeah, I think your right.  Full reverse!  Chewie, lock in the auxiliary power.
 LUKE	Why are we still moving towards it?
 HAN	We're caught in a tractor beam!  It's pulling us in!
 LUKE	But there's gotta be something you can do!
 HAN	There's nothin' I can do about it, kid.  I'm in full power.  I'm going to have to shut down.  But they're not going to get me without a fight!
-BEN	You can't win.  But there are alternatives to fighting.
+OBI-WAN	You can't win.  But there are alternatives to fighting.
 VOICE OVER DEATH STAR INTERCOM	Clear Bay twenty-three-seven.  We are opening the magnetic field.
 OFFICER	To your stations!
 OFFICER	Come with me.
@@ -530,24 +530,24 @@ VADER	I sense something... a presence I haven't felt since...
 OFFICER	Get me a scanning crew in here on the double.  I want every part of this ship checked!
 LUKE	Boy, it's lucky you had these compartments.
 HAN	I use them for smuggling.  I never thought I'd be smuggling myself in them.  This is ridiculous.  Even if I could take off, I'd never get past the tractor beam.
-BEN	Leave that to me!
+OBI-WAN	Leave that to me!
 HAN	Damn fool. I knew that you were going to say that!
-BEN	Who's the more foolish... the fool or the fool who follows him?
+OBI-WAN	Who's the more foolish... the fool or the fool who follows him?
 TROOPER	The ship's all yours.  If the scanners pick up anything, report it immediately.  All right, let's go.
 HAN	Hey down there, could you give us a hand with this?
 GANTRY OFFICER	TX-four-one-two.  Why aren't you at your post?  TX-four-one-two, do you copy? GANTRY OFFICER	Take over.  We've got a bad transmitter.  I'll see what I can do.
 LUKE	You know, between his howling and your blasting everything in sight, it's a wonder the whole station doesn't know we're here.
 HAN	Bring them on!  I prefer a straight fight to all this sneaking around.
-THREEPIO	We found the computer outlet, sir.
-BEN	Plug in.  He should be able to interpret the entire Imperial computer network.
-THREEPIO	He says he's found the main control to the power beam that's holding the ship here.  He'll try to make the precise location appear on the monitor.
-THREEPIO	The tractor beam is coupled to the main reactor in seven locations.  A power loss at one of the terminals will allow the ship to leave.
-BEN	I don't think you boys can help.  I must go alone.
+C-3PO	We found the computer outlet, sir.
+OBI-WAN	Plug in.  He should be able to interpret the entire Imperial computer network.
+C-3PO	He says he's found the main control to the power beam that's holding the ship here.  He'll try to make the precise location appear on the monitor.
+C-3PO	The tractor beam is coupled to the main reactor in seven locations.  A power loss at one of the terminals will allow the ship to leave.
+OBI-WAN	I don't think you boys can help.  I must go alone.
 HAN	Whatever you say.  I've done more than I bargained for on this trip already.
 LUKE	I want to go with you.
-BEN	Be patient, Luke.  Stay and watch over the droids.
+OBI-WAN	Be patient, Luke.  Stay and watch over the droids.
 LUKE	But he can...
-BEN	They must be delivered safely or other star systems will suffer the same fate as Alderaan.  Your destiny lies along a different path from mine.  The Force will be with you
+OBI-WAN	They must be delivered safely or other star systems will suffer the same fate as Alderaan.  Your destiny lies along a different path from mine.  The Force will be with you
 ... always!
 HAN	Boy you said it, Chewie.
 HAN	Where did you dig up that old fossil?
@@ -557,15 +557,15 @@ LUKE	I didn't hear you give any ideas...
 HAN	Well, anything would be better than just hanging around waiting for them to pick us up...
 LUKE	Who do you think...
 LUKE	What is it?
-THREEPIO	I'm afraid I'm not quite sure, sir. He says "I found her," and keeps
+C-3PO	I'm afraid I'm not quite sure, sir. He says "I found her," and keeps
 repeating, "She's here."
 LUKE	Well, who... who has he found?
-THREEPIO	Princess Leia.
+C-3PO	Princess Leia.
 LUKE	The princess?  She's here?
 HAN	Princess?
 LUKE	Where... where is she?
 HAN	Princess?  What's going on?
-THREEPIO	Level five. Detention block AA-
+C-3PO	Level five. Detention block AA-
 twenty-three.  I'm afraid she's scheduled to be terminated.
 LUKE	Oh, no!  We've got to do something.
 HAN	What are you talking about?
@@ -592,10 +592,10 @@ LUKE	Uh... Threepio, hand me those binders there will you?
 LUKE	Okay.  Now, I'm going to put these on you.
 LUKE	Okay.  Han, you put these on.
 HAN	Don't worry, Chewie.  I think I know what he has in mind.
-THREEPIO	Master Luke, sir!  Pardon me for asking... but, ah... what should Artoo and I do if we're discovered here?
+C-3PO	Master Luke, sir!  Pardon me for asking... but, ah... what should Artoo and I do if we're discovered here?
 LUKE	Lock the door!
 HAN	And hope they don't have blasters.
-THREEPIO	That isn't very reassuring.
+C-3PO	That isn't very reassuring.
 LUKE	I can't see a thing in this helmet.
 HAN	This is not going to work.
 LUKE	Why didn't you say so before?
@@ -640,12 +640,12 @@ HAN	Can't get out that way.
 LEIA	Looks like you managed to cut off our only escape route.
 HAN	Maybe you'd like it back in your cell, Your Highness.
 LUKE	See-Threepio!  See-Threepio!
-THREEPIO	Yes sir?
+C-3PO	Yes sir?
 LUKE	We've been cut off!  Are there any other ways out of the cell bay?...
 What was that?  I didn't copy!
-THREEPIO	I said, all systems have been alerted to your presence, sir.  The main entrance seems to be the only way out; all other information on your level is restricted.
+C-3PO	I said, all systems have been alerted to your presence, sir.  The main entrance seems to be the only way out; all other information on your level is restricted.
 TROOPER VOICE	Open up in there!
-THREEPIO	Oh, no!
+C-3PO	Oh, no!
 LUKE	There isn't any other way out.
 HAN	I can't hold them off forever!  Now what?
 LEIA	This is some rescue.  When you came in here, didn't you have a plan for getting out?
@@ -684,29 +684,29 @@ LUKE	Wait a minute!
 LUKE	Threepio!  Come in Threepio!  Threepio!  Where could he be?
 FIRST TROOPER	Take over!
 See to him!  Look there!
-THREEPIO	They're madmen!  They're heading for the prison level.  If you hurry, you might catch them.
+C-3PO	They're madmen!  They're heading for the prison level.  If you hurry, you might catch them.
 FIRST OFFICER	Follow me!  You stand guard.
-THREEPIO	Come on!
-THREEPIO	Oh!  All this excitement has overrun the circuits of my counterpart here.  If you don't mind, I'd like to take him down to maintenance.
+C-3PO	Come on!
+C-3PO	Oh!  All this excitement has overrun the circuits of my counterpart here.  If you don't mind, I'd like to take him down to maintenance.
 TROOPER	All right.
 LUKE	Threepio!  Come in, Threepio!  Threepio!
 HAN	Get to the top!
 LEIA	I can't LUKE	Where could he be?  Threepio!  Threepio, will you come in?
-THREEPIO	They aren't here!  Something must have happened to them.  See if they've been captured.
-THREEPIO	Hurry!
+C-3PO	They aren't here!  Something must have happened to them.  See if they've been captured.
+C-3PO	Hurry!
 HAN	One thing's for sure.  We're all going to be a lot thinner!
 Get on top of it!
 LEIA	I'm trying!
-THREEPIO	Thank goodness, they haven't found them!  Where could they be?
-THREEPIO	Use the comlink?  Oh, my!  I forgot I turned it off!
-THREEPIO	Are you there, sir?
+C-3PO	Thank goodness, they haven't found them!  Where could they be?
+C-3PO	Use the comlink?  Oh, my!  I forgot I turned it off!
+C-3PO	Are you there, sir?
 LUKE	Threepio!
-THREEPIO	We've had some problems...
+C-3PO	We've had some problems...
 LUKE	Shut down all the garbage mashers on the detention level, will you?  Do you copy?
 LUKE	Shut down all the garbage mashers on the detention level.
 LUKE	Shut down all the garbage mashers on the detention level.
-THREEPIO	No.  Shut them all down!  Hurry!
-THREEPIO	Listen to them!  They're dying, Artoo!  Curse my metal body!  I wasn't fast enough.  It's all my fault!  My poor master!
+C-3PO	No.  Shut them all down!  Hurry!
+C-3PO	Listen to them!  They're dying, Artoo!  Curse my metal body!  I wasn't fast enough.  It's all my fault!  My poor master!
 LUKE	Threepio, we're all right!
 LUKE	We're all right.  You did great.
 LUKE	Hey... hey, open the pressure maintenance hatch on unit number
@@ -732,7 +732,7 @@ SECOND TROOPER	What was that?
 FIRST TROOPER	Oh, it's nothing.  Don't worry about it.
 HAN	There she is.
 LUKE	See-Threepio, do you copy?
-THREEPIO	For the moment.  Uh, we're in the main hangar across from the ship.
+C-3PO	For the moment.  Uh, we're in the main hangar across from the ship.
 LUKE	We're right above you.  Stand by.
 LEIA	You came in that thing?  You're braver that I thought.
 HAN	Nice!  Come on!
@@ -750,14 +750,14 @@ LEIA	They're coming through!
 LUKE	Here, hold this.
 LEIA	Here they come!
 LEIA	For luck!
-THREEPIO	Where could they be?
+C-3PO	Where could they be?
 TROOPER	Close the blast doors!
 TROOPER	Open the blast doors!  Open the blast doors!
 VADER	I've been waiting for you, Obi-Wan.  We meet again, at last.  The circle is now complete.
 VADER	When I left you, I was but the learner; now I am the master.
-BEN	Only a master of evil, Darth.
+OBI-WAN	Only a master of evil, Darth.
 VADER	Your powers are weak, old man.
-BEN	You can't win, Darth.  If you strike me down, I shall become more powerful than you can possibly imagine.
+OBI-WAN	You can't win, Darth.  If you strike me down, I shall become more powerful than you can possibly imagine.
 HAN	Didn't we just leave this party?
 HAN	What kept you?
 LEIA	We ran into some old friends.
@@ -765,13 +765,13 @@ LUKE	Is the ship all right?
 HAN	Seems okay, if we can get to it.
 Just hope the old man got the tractor beam out of commission.
 LUKE	Look!
-THREEPIO	Come on, Artoo, we're going!
+C-3PO	Come on, Artoo, we're going!
 HAN	Now's our chance!  Go!
 LUKE	No!
 HAN	Come on!
 LEIA	Come on!  Luke, its too late!
 HAN	Blast the door!  Kid!
-BEN	Run, Luke!  Run!
+OBI-WAN	Run, Luke!  Run!
 HAN	I hope the old man got that tractor beam out if commission, or this is going to be a real short trip.  Okay, hit it!
 HAN	We're coming up on the sentry ships.  Hold 'em off!  Angle the deflector shields while I charge up the main guns!
 LUKE	I can't believe he's gone.
@@ -780,7 +780,7 @@ HAN	Come on, buddy, we're not out of this yet!
 HAN	You in, kid?  Okay, stay sharp!
 LEIA	Here they come!
 LUKE	They're coming in too fast!
-THREEPIO	Oooh!
+C-3PO	Oooh!
 LEIA	We've lost lateral controls.
 HAN	Don't worry, she'll hold together.
 HAN	You hear me, baby?  Hold together!
@@ -789,7 +789,7 @@ HAN	Great kid!  Don't get cocky.
 LEIA	There are still two more of them out there!
 LUKE	That's it!  We did it!
 LEIA	We did it!
-THREEPIO	Help!  I think I'm melting!
+C-3PO	Help!  I think I'm melting!
 This is all your fault.
 TARKIN	Are they away?
 VADER	They have just made the jump into hyperspace.
@@ -854,9 +854,9 @@ CHIEF	This R2 unit of your seems a bit beat up.  Do you want a new one?
 LUKE	Not on your life!  That little droid and I have been through a lot together.
 You okay, Artoo?
 CHIEF	Okay, easy she goes!
-THREEPIO	Hang on tight, Artoo, you've got to come back.
-THREEPIO	You wouldn't want my life to get boring, would you?
-BEN	Luke, the Force will be with you.
+C-3PO	Hang on tight, Artoo, you've got to come back.
+C-3PO	You wouldn't want my life to get boring, would you?
+OBI-WAN	Luke, the Force will be with you.
 MASSASSI INTERCOM VOICE	Stand-by alert.  Death Star approaching.  Estimated time to firing range, fifteen minutes.
 RED LEADER	All wings report in.
 RED TEN	Red Ten standing by.
@@ -995,11 +995,11 @@ BIGGS	Hurry up, Luke!
 BIGGS	Wait!
 DEATH STAR INTERCOM VOICE	Rebel base, thirty seconds and closing.
 VADER	I'm on the leader.
-THREEPIO	Hang on, Artoo!
-BEN	Use the Force, Luke.
-BEN	Let go, Luke.
+C-3PO	Hang on, Artoo!
+OBI-WAN	Use the Force, Luke.
+OBI-WAN	Let go, Luke.
 VADER	The Force is strong with this one!
-BEN	Luke, trust me.
+OBI-WAN	Luke, trust me.
 BASE VOICE	His computer's off.  Luke, you switched off your targeting computer.  What's wrong?
 LUKE	Nothing.  I'm all right.
 LUKE	I've lost Artoo!
@@ -1016,15 +1016,15 @@ HAN	Now let's blow this thing and go home!
 INTERCOM VOICE	Stand by to fire at Rebel base.
 INTERCOM VOICE	Standing by.
 HAN	Great shot, kid.  That was one in a million.
-BEN	Remember, the Force will be with you... always.
+OBI-WAN	Remember, the Force will be with you... always.
 LEIA	Luke!  Luke!  Luke!
 HAN	Hey!  Hey!
 LUKE	I knew you'd come back!  I just knew it!
 HAN	Well, I wasn't gonna let you get all the credit and take all the reward.
 LEIA	Hey, I knew there was more to you than money.
 LUKE	Oh, no!
-THREEPIO	Oh, my!  Artoo!  Can you hear me?  Say something!
+C-3PO	Oh, my!  Artoo!  Can you hear me?  Say something!
 You can repair him, can't you?
 TECHNICIAN	We'll get to work on him right away.
-THREEPIO	You must repair him!  Sir, if any of my circuits or gears will help, I'll gladly donate them.
+C-3PO	You must repair him!  Sir, if any of my circuits or gears will help, I'll gladly donate them.
 LUKE	He'll be all right.

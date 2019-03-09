@@ -13,63 +13,63 @@ VADER	Then perhaps you can tell him when he arrives. JERJERROD	The Emperor's com
 VADER	That is correct, Commander. And he is most displeased with your apparent lack of progress.
 JERJERROD	We shall double our efforts.
 VADER	I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.
-THREEPIO	Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place.
-THREEPIO	Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, You'd probably short-circuit.
-THREEPIO	Artoo, are you sure this is the right place? I better knock, I suppose.
-THREEPIO	There doesn't seem to be anyone there. Let's go back and tell Master Luke.
+C-3PO	Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place.
+C-3PO	Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, You'd probably short-circuit.
+C-3PO	Artoo, are you sure this is the right place? I better knock, I suppose.
+C-3PO	There doesn't seem to be anyone there. Let's go back and tell Master Luke.
 STRANGE VOICE	Tee chuta hhat yudd!
-THREEPIO	Goodness gracious me!
-THREEPIO	Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.
-THREEPIO	I don't think they're going to let us in, Artoo. We'd better go.
-THREEPIO	Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this.
-THREEPIO	Oh, Artoo!  Artoo, wait for me!
-THREEPIO	Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no.
+C-3PO	Goodness gracious me!
+C-3PO	Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.
+C-3PO	I don't think they're going to let us in, Artoo. We'd better go.
+C-3PO	Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this.
+C-3PO	Oh, Artoo!  Artoo, wait for me!
+C-3PO	Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no.
 BIB	Die Wanna Wanga!
-THREEPIO	Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt.
-THREEPIO	... and a gift. (thinks a moment, then to Artoo) Gift, what gift?
+C-3PO	Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt.
+C-3PO	... and a gift. (thinks a moment, then to Artoo) Gift, what gift?
 BIB	Nee Jabba no badda. Me chaade su goodie.
-THREEPIO	He says that our instructions are to give it only to Jabba himself.
-THREEPIO	I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.
+C-3PO	He says that our instructions are to give it only to Jabba himself.
+C-3PO	I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.
 BIB	Nudd Chaa.
-THREEPIO	Artoo, I have a bad feeling about this.
-THREEPIO	Good morning.
+C-3PO	Artoo, I have a bad feeling about this.
+C-3PO	Good morning.
 JABBA	Bo Shuda!
-THREEPIO	The message, Artoo, the message.
+C-3PO	The message, Artoo, the message.
 LUKE	Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life. (Jabba's crowd laughs) With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids.
-THREEPIO	What did he say?
+C-3PO	What did he say?
 LUKE	... Both are hardworking and will serve you well.
-THREEPIO	This can't be! Artoo, you're playing the wrong message.
+C-3PO	This can't be! Artoo, you're playing the wrong message.
 JABBA	There will be no bargain.
-THREEPIO	We're doomed.
+C-3PO	We're doomed.
 JABBA	I will not give up my favorite decoration. I like Captain Solo where he is.
-THREEPIO	Artoo, look! Captain Solo. And he's still frozen in carbonite.
-THREEPIO	What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!
+C-3PO	Artoo, look! Captain Solo. And he's still frozen in carbonite.
+C-3PO	What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!
 NINEDENINE	Ah, good. New acquisitions. You are a protocol droid, are you not?
-THREEPIO	I am See-Threepio, human-cy...
+C-3PO	I am See-Threepio, human-cy...
 NINEDENINE	Yes or no will do.
-THREEPIO	Oh. Well, yes.
+C-3PO	Oh. Well, yes.
 NINEDENINE	How many languages do you speak?
-THREEPIO	I am fluent in over six million forms of communication, and can readily...
+C-3PO	I am fluent in over six million forms of communication, and can readily...
 NINEDENINE	Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
-THREEPIO	Disintegrated?
+C-3PO	Disintegrated?
 NINEDENINE	Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back to His Excellency's main audience chamber.
-THREEPIO	Artoo, don't leave me! Ohhh!
+C-3PO	Artoo, don't leave me! Ohhh!
 NINEDENINE	You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's Sail Barge. And I think you'll fit in nicely.
 JABBA	Da Eitha!
 OOLA	Na Chuba negatorie Na! Na! Natoota...
 JABBA	Boscka!
 BOUSHH	I have come for the bounty on this Wookiee.
-THREEPIO	Oh, no! Chewbacca!
+C-3PO	Oh, no! Chewbacca!
 JABBA	At last we have the mighty Chewbacca.
-THREEPIO	Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!
-THREEPIO	Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty- five thousand.
+C-3PO	Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!
+C-3PO	Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty- five thousand.
 BOUSHH	I want fifty thousand. No less.
-THREEPIO	Uh, oh... but what, what did I say? (to Boushh) Uh, the mighty Jabba asks why he must pay fifty thousand.
-THREEPIO	Because he's holding a thermal detonator.
+C-3PO	Uh, oh... but what, what did I say? (to Boushh) Uh, the mighty Jabba asks why he must pay fifty thousand.
+C-3PO	Because he's holding a thermal detonator.
 JABBA	This bounty hunter is my kind of scum. Fearless and inventive.
-THREEPIO	Jabba offers the sum of thirty-five. And I suggest you take it.
+C-3PO	Jabba offers the sum of thirty-five. And I suggest you take it.
 BOUSHH	Zeebuss.
-THREEPIO	He agrees!
+C-3PO	He agrees!
 BOUSHH	Just relax for a moment. You're free of the carbonite.
 BOUSHH	Shhh. You have hibernation sickness.
 HAN	I can't see.
@@ -90,7 +90,7 @@ JABBA	Bring her to me.
 LEIA	We have powerful friends. You're gonna regret this...
 JABBA	I'm sure.
 LEIA	Ugh!
-THREEPIO	Ohhh, I can't bear to watch.
+C-3PO	Ohhh, I can't bear to watch.
 HAN	Chewie? Chewie, is that you?
 HAN	Ah! Chew--Chewie!
 HAN	Wait. I can't see, pal. What's goin' on?
@@ -101,7 +101,7 @@ LUKE	I must speak with Jabba.
 LUKE	You will take me to Jabba now!
 LUKE	You serve your master well.
 LUKE	And you will be rewarded.
-THREEPIO	At last! Master Luke's come to rescue me.
+C-3PO	At last! Master Luke's come to rescue me.
 BIB	Master.
 BIB	...Luke Skywalker, Jedi Knight.
 JABBA	I told you not to admit him.
@@ -111,10 +111,10 @@ JABBA	You weak-minded fool! He's using an old Jedi mind trick.
 LUKE	You will bring Captain Solo and the Wookiee to me.
 JABBA	Your mind powers will not work on me, boy.
 LUKE	Nevertheless, I'm taking Captain Solo and his friends. You can either profit by this... or be destroyed! It's your choice. But I warn you not to underestimate my powers.
-THREEPIO	Master Luke, you're standing on...
+C-3PO	Master Luke, you're standing on...
 JABBA	There will be no bargain, young Jedi. I shall enjoy watching you die.
 JABBA	Bascka!
-THREEPIO	Oh, no! The Rancor!
+C-3PO	Oh, no! The Rancor!
 JABBA	Bring me Solo and the Wookiee. They will all suffer for this outrage.
 LUKE	Han!
 HAN	Luke!
@@ -125,11 +125,11 @@ HAN	How are we doing?
 LUKE	The same as always.
 HAN	That bad, huh? Where's Leia?
 LEIA	I'm here.
-THREEPIO	Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately.
+C-3PO	Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately.
 HAN	Good, I hate long waits.
-THREEPIO	You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc.
+C-3PO	You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc.
 HAN	Doesn't sound so bad.
-THREEPIO	In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.
+C-3PO	In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.
 HAN	On second thought, let's pass on that, huh?
 LUKE	You should have bargained, Jabba. That's the last mistake you'll ever make.
 HAN	I think my eyes are getting better. Instead of a big dark blur, I see a big light blur.
@@ -138,10 +138,10 @@ HAN	You're gonna die here, you know. Convenient.
 LUKE	Just stick close to Chewie and Lando. I've taken care of everything.
 HAN	Oh... great!
 JABBA	Soon you will learn to appreciate me.
-THREEPIO	Oh, I'm terribly sor... Artoo! What are you doing here?
-THREEPIO	Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!
-THREEPIO	Hmm.  I wish I had your confidence.
-THREEPIO	Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas.
+C-3PO	Oh, I'm terribly sor... Artoo! What are you doing here?
+C-3PO	Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!
+C-3PO	Hmm.  I wish I had your confidence.
+C-3PO	Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas.
 HAN	Threepio, you tell that slimy piece of... worm-ridden filth he'll get no such pleasure from us. Right?
 LUKE	Jabba! This is your last chance. Free us or die.
 JABBA	Move him into position.
@@ -167,10 +167,10 @@ HAN	It's all right. Trust me. Don't move.
 LANDO	All right! A little higher! Just a little higher!
 HAN	Chewie, Pull us up! Come on! Okay... up, Chewie, up!
 LEIA	Come on. We gotta get out of here quick.
-THREEPIO	Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast!
+C-3PO	Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast!
 LUKE	Get the gun! Point it at the deck!
 LUKE	Point it at the deck!
-THREEPIO	Artoo, where are we going? I couldn't possibly jump.
+C-3PO	Artoo, where are we going? I couldn't possibly jump.
 LUKE	Come on!
 LUKE	Let's go! And don't forget the droids.
 LANDO	We're on our way.
@@ -192,13 +192,13 @@ LEIA	Hurry. The Alliance should be assembled by now.
 LUKE	I will.
 HAN	Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.
 LUKE	That's right, Artoo. We're going to the  Dagobah system. I have a promise to keep...  to an old friend.
-EMPEROR	Rise, my friend.
+DARTH SIDIOUS	Rise, my friend.
 VADER	The Death Star will be completed on schedule.
-EMPEROR	You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.
+DARTH SIDIOUS	You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.
 VADER	Yes, my Master.
-EMPEROR	Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.
+DARTH SIDIOUS	Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.
 VADER	As you wish.
-EMPEROR	Everything is proceeding as I have foreseen.
+DARTH SIDIOUS	Everything is proceeding as I have foreseen.
 YODA	Hmm. That face you make. Look I so old to young eyes?
 LUKE	No... of course not.
 YODA	I do, yes, I do!  Sick have I become. Old and weak. (Points a crooked finger) When nine hundred years old you reach, look as good you will not. Hmm?
@@ -221,37 +221,37 @@ LUKE	Well, I'm sorry.
 YODA	Remember, a Jedi's strength flows from the Force.  But beware.  Anger, fear, aggression. The dark side are they.  Once you start down the dark path, forever will it dominate your destiny.
 YODA	Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I (cough), the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke... (with great effort) There is... another...Sky...Sky...walker.
 LUKE	I can't do it, Artoo. I can't go on alone.
-BEN	Yoda will always be with you.
+OBI-WAN	Yoda will always be with you.
 LUKE	Obi-Wan! Why didn't you tell me?
 LUKE	You told me Vader betrayed and murdered my father.
-BEN	You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view.
+OBI-WAN	You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view.
 LUKE	A certain point of view!
-BEN	Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
-BEN	I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault.
-BEN	Anakin was a good friend.
-BEN	When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him.  I took it upon myself to train him as a Jedi.  I thought that I could instruct him just as well as Yoda.  I was wrong.  My pride has had terrible consequences for the galaxy.
+OBI-WAN	Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
+OBI-WAN	I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault.
+OBI-WAN	Anakin was a good friend.
+OBI-WAN	When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him.  I took it upon myself to train him as a Jedi.  I thought that I could instruct him just as well as Yoda.  I was wrong.  My pride has had terrible consequences for the galaxy.
 LUKE	There's still good in him.
-BEN	I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.
+OBI-WAN	I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.
 LUKE	I can't do it, Ben.
-BEN	You cannot escape your destiny.
+OBI-WAN	You cannot escape your destiny.
 LUKE	I tried to stop him once. I couldn't do it.
-BEN	Vader humbled you when first you met him, Luke...but that experience was part of your training. It taught you, among other things, the value of patience.  Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared.
+OBI-WAN	Vader humbled you when first you met him, Luke...but that experience was part of your training. It taught you, among other things, the value of patience.  Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared.
 LUKE	But I had to help my friends.
-BEN	And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear.
+OBI-WAN	And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear.
 LUKE	I found out Darth Vader was my father.
-BEN	To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!
+OBI-WAN	To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!
 LUKE	I can't kill my own father.
-BEN	Then the Emperor has already won. You were our only hope.
+OBI-WAN	Then the Emperor has already won. You were our only hope.
 LUKE	Yoda spoke of another.
-BEN	The other he spoke of is your twin sister.
+OBI-WAN	The other he spoke of is your twin sister.
 LUKE	But I have no sister.
-BEN	Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous.
+OBI-WAN	Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous.
 LUKE	Leia! Leia's my sister.
-BEN	Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor.
-BEN	When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible.  So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan.
-BEN	The Organa household was high-born and politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy.  Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well.  That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause.  That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.
+OBI-WAN	Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor.
+OBI-WAN	When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible.  So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan.
+OBI-WAN	The Organa household was high-born and politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy.  Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well.  That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause.  That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.
 LUKE	But you can't let her get involved now, Ben. Vader will destroy her.
-BEN	She hasn't been trained in the ways of the Jedi the way you have, Luke ... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!
+OBI-WAN	She hasn't been trained in the ways of the Jedi the way you have, Luke ... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!
 HAN	Well, look at you, a general, huh?
 LANDO	Oh, well, someone must have told them about my little maneuver at the battle of Taanab.
 HAN	Well, don't look at me, pal. I just said you were a fair pilot. I didn't know they were lookin' for somebody to lead this crazy attack.
@@ -266,7 +266,7 @@ HAN	Good luck.
 HAN	You're gonna need it.
 ACKBAR	General Madine.
 GENERAL MADINE	We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator.
-THREEPIO	Sounds dangerous.
+C-3PO	Sounds dangerous.
 LEIA	I wonder who they found to pull that off.
 GENERAL MADINE	General Solo, is your strike team assembled?
 HAN	Uh, my team's ready. I don't have a command crew for the shuttle.
@@ -278,7 +278,7 @@ LEIA	What is it?
 LUKE	Ask me again sometime.
 HAN	Luke.
 LUKE	Hi, Han... Chewie.
-THREEPIO	"Exciting" is hardly the word I would use.
+C-3PO	"Exciting" is hardly the word I would use.
 HAN	Look. I want you to take her. I mean it. Take her. You need all the help you can get. She's the fastest ship in the fleet.
 LANDO	All right, old buddy. You know, I know what she means to you. I'll take good care of her. She-she won't get a scratch. All right?
 HAN	Right. I got your promise now. Not a scratch.
@@ -293,12 +293,12 @@ HAN	Yeah, I just got a funny feeling. Like I'm not gonna see her again.
 LEIA	Come on, General, let's move.
 HAN	Right. Chewie, let's see what this piece of junk can do. Ready, everybody?
 LUKE	All set.
-THREEPIO	Here we go again.
+C-3PO	Here we go again.
 HAN	All right, hang on.
 VADER	What is thy bidding, my Master?
-EMPEROR	Send the fleet to the far side of Endor. There it will stay until called for.
+DARTH SIDIOUS	Send the fleet to the far side of Endor. There it will stay until called for.
 VADER	What of the reports of the Rebel fleet massing near Sullust?
-EMPEROR	It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.
+DARTH SIDIOUS	It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.
 VADER	Yes, my Master.
 HAN	If they don't go for this, we're gonna have to get outta here pretty quick, Chewie.
 CONTROLLER	We have you on our screen now. Please identify.
@@ -323,7 +323,7 @@ PIETT	As you wish, my lord. (to controller) Carry on.
 HAN	They're not goin' for it, Chewie.
 CONTROLLER	Shuttle Tydirium, deactivation of the shield will commence immediately. Follow your present course.
 HAN	Okay! I told you it was gonna work. No problem.
-THREEPIO	Oh, I told you it was dangerous here.
+C-3PO	Oh, I told you it was dangerous here.
 LEIA	Shall we try and go around?
 HAN	It'll take time. This whole party'll be for nothing if they see us.
 HAN	Chewie and I will take care of this. You stay here.
@@ -339,7 +339,7 @@ LUKE	Move closer!
 LUKE	Get alongside that one!
 LUKE	Get him!
 LUKE	Keep on that one! I'll take these two!
-THREEPIO	Oh, General Solo, somebody's coming. Oh!
+C-3PO	Oh, General Solo, somebody's coming. Oh!
 HAN	Luke! Where's Leia?
 LUKE	What? She didn't come back?
 HAN	I thought she was with you.
@@ -347,8 +347,8 @@ LUKE	We got separated.
 LUKE	Hey, we better go look for her.
 HAN	Take the squad ahead.  We'll meet at the shield generator at 0300.
 LUKE	Come on, Artoo.  We'll need your scanners.
-THREEPIO	Don't worry, Master Luke.  We know what to do.
-THREEPIO	And you said it was pretty here. Ugh!
+C-3PO	Don't worry, Master Luke.  We know what to do.
+C-3PO	And you said it was pretty here. Ugh!
 LEIA	Cut it out!
 LEIA	I'm not gonna hurt you.
 LEIA	Well, looks like I'm stuck here. Trouble is, I don't know where here is.
@@ -365,22 +365,22 @@ LEIA	Come on, let's get outta here.
 GUARD	Halt! The Emperor does not wish to be disturbed at the moment.
 VADER	(raising his gloved hand to the two guards and choking them with the Force) The Emperor will see me, now!
 GUARD	(repeating Vader's command) The Emperor will see you, now.
-EMPEROR	I told you to remain on the command ship.
+DARTH SIDIOUS	I told you to remain on the command ship.
 VADER	A small Rebel force has penetrated the shield and landed on Endor.
-EMPEROR	Yes, I know.
+DARTH SIDIOUS	Yes, I know.
 VADER	My son is with them.
-EMPEROR	Are you sure?
+DARTH SIDIOUS	Are you sure?
 VADER	I have felt him, my Master.
-EMPEROR	Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.
+DARTH SIDIOUS	Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.
 VADER	They are clear, my Master.
-EMPEROR	Then you must go to the Sanctuary Moon and wait for them.
+DARTH SIDIOUS	Then you must go to the Sanctuary Moon and wait for them.
 VADER	He will come to me?
-EMPEROR	I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.
+DARTH SIDIOUS	I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.
 VADER	As you wish.
 HAN	Luke! Luke!
-THREEPIO	Oh, Master Luke.
+C-3PO	Oh, Master Luke.
 LUKE	There's two more wrecked speeders back there. And I found this.
-THREEPIO	I'm afraid that Artoo's sensors can find no trace of Princess Leia.
+C-3PO	I'm afraid that Artoo's sensors can find no trace of Princess Leia.
 HAN	I hope she's alright.
 HAN	What, Chewie? What? Chewie!
 HAN	Hey, I don't get it.
@@ -389,46 +389,46 @@ LUKE	Chewie, wa-wait!  Don't!
 HAN	Nice work. Great, Chewie! Great! Always thinking with your stomach.
 LUKE	Will you take it easy? Let's just figure out a way to get out of this thing. (trying to free an arm) Han, can you reach my lightsaber?
 HAN	Yeah, sure.
-THREEPIO	Artoo, I'm not sure that's such a good idea. It's a very long dro-o-op!!
+C-3PO	Artoo, I'm not sure that's such a good idea. It's a very long dro-o-op!!
 HAN	Wha--?  Hey!  Point that thing someplace else.
 HAN	Hey!
 LUKE	Han, don't. It'll be all right.
 LUKE	Chewie, give 'em your crossbow.
-THREEPIO	Oh, my head. Oh, my goodness!
+C-3PO	Oh, my head. Oh, my goodness!
 LUKE	Do you understand anything they're saying?
-THREEPIO	Oh, yes, Master Luke!  Remember that I am fluent in over six million forms of communication.
+C-3PO	Oh, yes, Master Luke!  Remember that I am fluent in over six million forms of communication.
 HAN	What are you telling them?
-THREEPIO	Hello, I think... I could be mistaken. They're using a very primitive dialect.  But I do believe they think I am some sort of god.
+C-3PO	Hello, I think... I could be mistaken. They're using a very primitive dialect.  But I do believe they think I am some sort of god.
 HAN	Well, why don't you use your divine influence and get us out of this?
-THREEPIO	I beg your pardon, General Solo, but that just wouldn't be proper.
+C-3PO	I beg your pardon, General Solo, but that just wouldn't be proper.
 HAN	Proper?!
-THREEPIO	It's against my programming to impersonate a deity.
+C-3PO	It's against my programming to impersonate a deity.
 HAN	Why, you--
 HAN	My mistake. He's an old friend of mine.
 HAN	I have a really bad feeling about this.
 HAN	What did he say?
-THREEPIO	I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor.
+C-3PO	I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor.
 HAN and LUKE	Leia!
 LEIA	Oh!
-THREEPIO	Your Royal Highness.
+C-3PO	Your Royal Highness.
 LEIA	But these are my friends. Threepio, tell them they must be set free.
 HAN	Somehow, I got the feeling that didn't help us very much.
 LUKE	Threepio, tell them if they don't do as you wish, you'll become angry and use your magic.
-THREEPIO	But Master Luke, what magic? couldn't possibly --
+C-3PO	But Master Luke, what magic? couldn't possibly --
 LUKE	Just tell them.
-THREEPIO	You see, Master Luke; they didn't believe me. Just...
-THREEPIO	... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!
-THREEPIO	Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!
-THREEPIO	Oh, oh, oh, oh! Thank goodness.
+C-3PO	You see, Master Luke; they didn't believe me. Just...
+C-3PO	... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!
+C-3PO	Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!
+C-3PO	Oh, oh, oh, oh! Thank goodness.
 LUKE	Thanks, Threepio.
-THREEPIO	I...I never knew I had it in me.
-THREEPIO	Yes, Artoo. I was just coming to that.
+C-3PO	I...I never knew I had it in me.
+C-3PO	Yes, Artoo. I was just coming to that.
 HAN	What's going on?
 LEIA	I don't know.
-THREEPIO	Wonderful! We are now a part of the tribe.
+C-3PO	Wonderful! We are now a part of the tribe.
 HAN	Just what I always wanted.
 HAN	Well, short help is better than no help at all, Chewie. (to Wicket) Thank you. Okay.
-THREEPIO	He says the scouts are going to show us the quickest way to the shield generator.
+C-3PO	He says the scouts are going to show us the quickest way to the shield generator.
 HAN	Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back.
 HAN	And hurry up, will ya? I haven't got all day.
 LUKE	Luke, what's wrong?
@@ -488,7 +488,7 @@ LUKE	Then my father is truly dead.
 LEIA	The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.
 HAN	Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this.
 LEIA	What's he saying?
-THREEPIO	He says there's a secret entrance on the other side of the ridge.
+C-3PO	He says there's a secret entrance on the other side of the ridge.
 LANDO	Admiral, we're in position. All fighters accounted for.
 ACKBAR	Proceed with the countdown. All groups assume attack coordinates.
 LANDO	Don't worry, my friends are down there. They'll have that shield down on time...(to himself) or this'll be the shortest offensive of all time.
@@ -498,36 +498,36 @@ HAN	Back door, huh? Good idea.
 HAN	It's only a few guards. This shouldn't be too much trouble.
 LEIA	Well, it only takes one to sound the alarm.
 HAN	Then we'll do it real quiet-like.
-THREEPIO	Oh! Oh, my. Uh, Princess Leia!
+C-3PO	Oh! Oh, my. Uh, Princess Leia!
 LEIA	Quiet.
-THREEPIO	I'm afraid our furry companion has gone and done something rather rash.
+C-3PO	I'm afraid our furry companion has gone and done something rather rash.
 LEIA	Oh, no.
 HAN	There goes our surprise attack.
 SCOUT	Look! Over there! Stop him!
 HAN	Not bad for a little furball. There's only one left. You stay here. We'll take care of this.
-THREEPIO	I have decided that we shall stay here.
-EMPEROR	Welcome, young Skywalker. I have been expecting you.
-EMPEROR	You no longer need those.
-EMPEROR	Guards, leave us.
-EMPEROR	I'm looking forward to completing your training. In time you will call me Master.
+C-3PO	I have decided that we shall stay here.
+DARTH SIDIOUS	Welcome, young Skywalker. I have been expecting you.
+DARTH SIDIOUS	You no longer need those.
+DARTH SIDIOUS	Guards, leave us.
+DARTH SIDIOUS	I'm looking forward to completing your training. In time you will call me Master.
 LUKE	You're gravely mistaken. You won't convert me as you did my father.
-EMPEROR	Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.
+DARTH SIDIOUS	Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.
 VADER	His lightsaber.
-EMPEROR	Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.
+DARTH SIDIOUS	Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.
 LUKE	You're wrong. Soon I'll be dead...and you with me.
-EMPEROR	Perhaps you refer to the imminent attack of your Rebel fleet.
-EMPEROR	Yes...I assure you we are quite safe from your friends here.
+DARTH SIDIOUS	Perhaps you refer to the imminent attack of your Rebel fleet.
+DARTH SIDIOUS	Yes...I assure you we are quite safe from your friends here.
 LUKE	Your overconfidence is your weakness.
-EMPEROR	Your faith in your friends is yours.
+DARTH SIDIOUS	Your faith in your friends is yours.
 VADER	It is pointless to resist, my son.
-EMPEROR	Everything that has transpired has done so according to my design. (indicates Endor) Your friends up there on the Sanctuary Moon...
-EMPEROR	...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.
-EMPEROR	Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.
+DARTH SIDIOUS	Everything that has transpired has done so according to my design. (indicates Endor) Your friends up there on the Sanctuary Moon...
+DARTH SIDIOUS	...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.
+DARTH SIDIOUS	Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.
 HAN	All right! Up! Move! Come on! Quickly! Quickly, Chewie.
 LEIA	Han! Hurry! The fleet will be here any moment.
 HAN	Charges!  Come on, come on!
-THREEPIO	Oh, my! They'll be captured!
-THREEPIO	Wa-wait! Wait, come back! Artoo, stay with me.
+C-3PO	Oh, my! They'll be captured!
+C-3PO	Wa-wait! Wait, come back! Artoo, stay with me.
 COMMANDER	Freeze! You Rebel scum.
 LANDO	All wings report in.
 WEDGE	Red Leader standing by.
@@ -546,23 +546,23 @@ LANDO	Fighters coming in.
 REBEL PILOT	There's too many of them!
 LANDO	Accelerate to attack speed! Draw their fire away from the cruisers.
 WEDGE	Copy, Gold Leader.
-EMPEROR	Come, boy. See for yourself.
-EMPEROR	From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion.
-EMPEROR	You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant.
+DARTH SIDIOUS	Come, boy. See for yourself.
+DARTH SIDIOUS	From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion.
+DARTH SIDIOUS	You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant.
 LUKE	No!
-EMPEROR	It is unavoidable. It is your destiny. You, like your father, are now mine!
+DARTH SIDIOUS	It is unavoidable. It is your destiny. You, like your father, are now mine!
 STORMTROOPER	All right, move it! I said move it! Go on!
-THREEPIO	Hello! I say, over there! Were you looking for me?
+C-3PO	Hello! I say, over there! Were you looking for me?
 BUNKER COMMANDER	Bring those two down here!
 STORMTROOPER	Let's go!
-THREEPIO	Well, they're on their way. Artoo, are you sure this was a good idea?
+C-3PO	Well, they're on their way. Artoo, are you sure this was a good idea?
 STORMTROOPER	Freeze! Don't move!
-THREEPIO	We surrender.
-THREEPIO	Ohhh! Stand back, Artoo.
+C-3PO	We surrender.
+C-3PO	Ohhh! Stand back, Artoo.
 LEIA	The code's changed. We need Artoo!
 HAN	Here's the terminal.
 LEIA	Artoo, where are you? We need you at the bunker right away.
-THREEPIO	Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!
+C-3PO	Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!
 LANDO	Watch yourself, Wedge! Three from above!
 WEDGE	Red Three, Red Two, pull in!
 RED TWO	Got it!
@@ -574,17 +574,17 @@ COMMANDER	We're in attack position now, sir.
 PIETT	Hold here.
 COMMANDER	We're not going to attack?
 PIETT	I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping.
-EMPEROR	As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station. (into comlink) Fire at will, Commander.
+DARTH SIDIOUS	As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station. (into comlink) Fire at will, Commander.
 JERJERROD	Fire!
 LANDO	That blast came from the Death Star! That thing's operational! (into comlink) Home One, this is Gold Leader.
 ACKBAR	We saw it. All craft prepare to retreat.
 LANDO	You won't get another chance at this, Admiral.
 ACKBAR	We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude.
 LANDO	Han will have that shield down. We've got to give him more time.
-THREEPIO	We're coming!
+C-3PO	We're coming!
 HAN	Come on! Come on!
-THREEPIO	Oh, Artoo, hurry!
-THREEPIO	My goodness! Artoo, why did you have to be so brave?
+C-3PO	Oh, Artoo, hurry!
+C-3PO	My goodness! Artoo, why did you have to be so brave?
 HAN	Well, I suppose I could hotwire this thing.
 LEIA	I'll cover you.
 LANDO	Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range.
@@ -592,23 +592,23 @@ ACKBAR	At that close range, we won't last long against those Star Destroyers.
 LANDO	We'll last longer then we will against that Death Star...and we might just take a few of them with us.
 REBEL PILOT	She's gonna blow!
 I'm hit!
-EMPEROR	Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.
-EMPEROR	Good. I can feel your anger. I am defenseless.  Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete.
+DARTH SIDIOUS	Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.
+DARTH SIDIOUS	Good. I can feel your anger. I am defenseless.  Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete.
 WALKER PILOT	Look!
 PILOT	Get him off of there!
 HAN	I think I got it. I got it!
-THREEPIO	Oh, Princess Leia, are you all right?
+C-3PO	Oh, Princess Leia, are you all right?
 HAN	Let's see.
 LEIA	It's not bad.
 STORMTROOPER	Freeze!
-THREEPIO	Oh, dear.
+C-3PO	Oh, dear.
 STORMTROOPER	Don't move!
 HAN	I love you.
 LEIA	I know.
 STORMTROOPER	Hands up! Stand up!
 HAN	Stay back.
 HAN	Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea.
-EMPEROR	Good.  Use your aggressive feelings, boy!  Let the hate flow through you.
+DARTH SIDIOUS	Good.  Use your aggressive feelings, boy!  Let the hate flow through you.
 VADER	Obi-Wan has taught you well.
 LUKE	I will not fight you, father.
 VADER	You are unwise to lower your defenses.
@@ -616,7 +616,7 @@ LUKE	Your thoughts betray you, father. I feel the good in you...the conflict.
 VADER	There is no conflict.
 LUKE	You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now.
 VADER	You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.
-EMPEROR	Good.  Good.
+DARTH SIDIOUS	Good.  Good.
 LANDO	Watch out. Squad at .06.
 REBEL PILOT	I'm on it, Gold Leader.
 WEDGE	Good shot, Red Two.
@@ -630,17 +630,17 @@ LUKE	I will not fight you.
 VADER	Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...
 VADER	Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.
 LUKE	Never-r-r!
-EMPEROR	Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!
+DARTH SIDIOUS	Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!
 LUKE	Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.
-EMPEROR	So be it...Jedi.
+DARTH SIDIOUS	So be it...Jedi.
 HAN	Move! Move!
 ACKBAR	The shield is down! Commence attack on the Death Star's main reactor.
 LANDO	We're on our way. Red Group, Gold Group, all fighters follow me. (laughs) Told you they'd do it!
-EMPEROR	If you will not be turned, you will be destroyed.
-EMPEROR	Young fool...only now, at the end, do you understand.
-EMPEROR	Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.
+DARTH SIDIOUS	If you will not be turned, you will be destroyed.
+DARTH SIDIOUS	Young fool...only now, at the end, do you understand.
+DARTH SIDIOUS	Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.
 LUKE	Father, please. Help me.
-EMPEROR	Now, young Skywalker...you will die.
+DARTH SIDIOUS	Now, young Skywalker...you will die.
 WEDGE	I'm going in.
 LANDO	Here goes nothing.
 LANDO	Now lock onto the strongest power source. It should be the power generator.
@@ -656,9 +656,9 @@ COMMANDER	It's too late!
 VADER	Luke, help me take this mask off.
 LURE	But you'll die.
 VADER	Nothing can stop that now. Just for once... let me look on you with my own eyes.
-ANAKIN	Now...go, my son. Leave me.
+VADER	Now...go, my son. Leave me.
 LUKE	No. You're coming with me. I can't leave you here. I've got to save you.
-ANAKIN	You already have, Luke. You were right about me. Tell your sister...you were right.
+VADER	You already have, Luke. You were right about me. Tell your sister...you were right.
 LUKE	Father... I won't leave you.
 WEDGE	There it is!
 LANDO	All right, Wedge. Go for the power regulator on the north tower.
@@ -668,5 +668,5 @@ LANDO	Wedge, I don't think we're going to make it.
 WEDGE	You'll make it. Just follow me Gold Leader.
 LANDO	I promised to return his ship without a scratch...I sure hope that old pirate forgives me.
 HAN	Lando...
-THREEPIO	(misinterpreting Han's reference) They did it!
+C-3PO	(misinterpreting Han's reference) They did it!
 FADE OUT	

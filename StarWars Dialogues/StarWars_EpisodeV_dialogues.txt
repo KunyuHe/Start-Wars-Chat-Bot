@@ -38,30 +38,30 @@ LEIA	You're imagining things.
 HAN	Am I? Then why are you following me? Afraid I was going to leave without giving you a goodbye kiss?
 LEIA	I'd just as soon kiss a Wookiee.
 HAN	I can arrange that. You could use a good kiss!
-THREEPIO	Don't try to blame me. I didn't ask you to turn on the thermal heater. I merely commented that it was freezing in the princess's chamber. But it's supposed to be freezing. How are we going to dry out all her clothes? I really don't know.
-THREEPIO	Oh, switch off.
+C-3PO	Don't try to blame me. I didn't ask you to turn on the thermal heater. I merely commented that it was freezing in the princess's chamber. But it's supposed to be freezing. How are we going to dry out all her clothes? I really don't know.
+C-3PO	Oh, switch off.
 HAN	Why do you take this apart now? I'm trying to get us out of here and you pull both of these.
-THREEPIO	Excuse me, sir.
+C-3PO	Excuse me, sir.
 HAN	Put them back together right now.
-THREEPIO	Might I have a word with you, please?
+C-3PO	Might I have a word with you, please?
 HAN	What do you want?
-THREEPIO	Well, it's Princess Leia, sir. She's been trying to get you on the communicator.
+C-3PO	Well, it's Princess Leia, sir. She's been trying to get you on the communicator.
 HAN	I turned it off. I don't want to talk to her.
-THREEPIO	Oh. Well, Princess Leia is wondering about Master Luke. He hasn't come back yet. She doesn't know where he is.
+C-3PO	Oh. Well, Princess Leia is wondering about Master Luke. He hasn't come back yet. She doesn't know where he is.
 HAN	I don't know where he is.
-THREEPIO	Nobody knows where he is.
+C-3PO	Nobody knows where he is.
 HAN	What do you mean, "nobody knows"?
-THREEPIO	Well, uh, you see...
+C-3PO	Well, uh, you see...
 HAN	Deck Officer. Deck Officer!
-THREEPIO	Excuse me, sir. Might I inqu-...
+C-3PO	Excuse me, sir. Might I inqu-...
 DECK OFFICER	Yes, sir?
 HAN	Do you know where Commander Skywalker is?
 DECK OFFICER	I haven't seen him. It's possible he came in through the south entrance.
 HAN	It's possible? Why don't you go find out? It's getting dark out there.
 DECK OFFICER	Yes, sir.
-THREEPIO	Excuse me, sir. Might I inquire what's going on?
+C-3PO	Excuse me, sir. Might I inquire what's going on?
 HAN	Why not?
-THREEPIO	Impossible man. Come along, Artoo, lets find Princess Leia. Between ourselves, I think Master Luke is in considerable danger.
+C-3PO	Impossible man. Come along, Artoo, lets find Princess Leia. Between ourselves, I think Master Luke is in considerable danger.
 DECK OFFICER	Sir, Commander Skywalker hasn't come in through the south entrance. He might have forgotten to check in.
 HAN	Not likely. Are the speeders ready?
 DECK OFFICER	Not yet. We're having some trouble adapting them to the cold.
@@ -71,20 +71,20 @@ HAN	That's right. And my friends out in it.
 ASSISTANT OFFICER	I'll cover sector twelve. Have com-control set screen alpha.
 DECK OFFICER	Your Tauntaun'll freeze before you reach the first marker.
 HAN	Then I'll see you in hell!
-THREEPIO	You must come along now, Artoo. There's really nothing more we can do. And my joints are freezing up.
-THREEPIO	Don't say thing like that! Of course we'll see Master Luke again. He'll be quite all right, you'll see. (to himself) Stupid little short-circuit. He'll be quite all right.
+C-3PO	You must come along now, Artoo. There's really nothing more we can do. And my joints are freezing up.
+C-3PO	Don't say thing like that! Of course we'll see Master Luke again. He'll be quite all right, you'll see. (to himself) Stupid little short-circuit. He'll be quite all right.
 LIEUTENANT	Sir, all the patrols are in. There's still no contact from Skywalker or Solo.
-THREEPIO	Mistress Leia, Artoo says he's been quite unable to pick up any signals, although he does admit that his own range is far too weak to abandon all hope.
+C-3PO	Mistress Leia, Artoo says he's been quite unable to pick up any signals, although he does admit that his own range is far too weak to abandon all hope.
 DERLIN	Your Highness, there's nothing more we can do tonight. The shield doors must be closed.
 DERLIN	Close the doors.
 LIEUTENANT	Yes, sir.
-THREEPIO	Artoo says the chances of survival are seven hundred seventy-five...to one.
-THREEPIO	Actually, Artoo has been known to make mistakes...from time to time. Oh, dear, oh, dear. Don't worry about Master Luke. I'm sure he'll be all right. He's quite clever, you know...for a human being.
-BEN	Luke...Luke.
+C-3PO	Artoo says the chances of survival are seven hundred seventy-five...to one.
+C-3PO	Actually, Artoo has been known to make mistakes...from time to time. Oh, dear, oh, dear. Don't worry about Master Luke. I'm sure he'll be all right. He's quite clever, you know...for a human being.
+OBI-WAN	Luke...Luke.
 LUKE	Ben?
-BEN	You will go to the Dagobah system.
+OBI-WAN	You will go to the Dagobah system.
 LUKE	Dagobah system?
-BEN	There you will learn from Yoda, the Jedi Master who instructed me.
+OBI-WAN	There you will learn from Yoda, the Jedi Master who instructed me.
 LUKE	Ben...Ben.
 HAN	Luke! Luke! Don't do this, Luke. Come on, give me a sign here.
 HAN	Not much time.
@@ -100,8 +100,8 @@ ZEV	Echo Base...I've got something! Not much, but it could be a life form.
 ZEV	This is Rouge Two. this is Rouge Two. Captain Solo, so you copy? Commander Skywalker, do you copy? This is Rouge Two.
 HAN	Good morning. Nice of you guys to drop by.
 ZEV	Echo Base...this is Rouge Two. I found them. Repeat, I found them.
-THREEPIO	Master Luke, sir, it's good to see you fully functional again.
-THREEPIO	Artoo expresses his relief, also.
+C-3PO	Master Luke, sir, it's good to see you fully functional again.
+C-3PO	Artoo expresses his relief, also.
 HAN	How are you feeling, kid? You don't look so bad to me. In fact, you look strong enough to pull the ears off a Gundark.
 LUKE	Thanks to you.
 HAN	That's two you owe me, junior.
@@ -116,14 +116,14 @@ HAN	Who's scruffy-looking?  I must have hit her pretty close to the mark to get 
 LEIA	Why, I guess you don't know everything about women yet?
 ANNOUNCER	Headquarters personnel, report to command center.
 HAN	Take it easy.
-THREEPIO	Excuse us, please.
+C-3PO	Excuse us, please.
 RIEEKAN	Princess...we have a visitor.
 RIEEKAN	We've picked up something outside the base in zone twelve, moving east.
 SENIOR CONTROLLER	It's metal.
 LEIA	Then it couldn't be one of those creatures that attacked Luke.
 HAN	It could be a speeder, one of ours.
 SENIOR CONTROLLER	No. Wait -- there's something very weak coming through.
-THREEPIO	Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code.
+C-3PO	Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code.
 HAN	It isn't friendly, whatever it is. Come on, Chewie, let's check it out.
 RIEEKAN	Send Rouges Ten and Eleven to station three-eight.
 HAN	Afraid there's not much left.
@@ -220,7 +220,7 @@ LEIA	It's risky, but we can't hold out much longer. We have no choice.
 RIEEKAN	Launch patrols.
 LEIA	Evacuate remaining ground staff.
 HAN	No, no! No! This one goes there, that one goes there. right?
-THREEPIO	Artoo, you take good care of Master Luke now, understand? And...do take care of yourself. Oh, dear, oh, dear.
+C-3PO	Artoo, you take good care of Master Luke now, understand? And...do take care of yourself. Oh, dear, oh, dear.
 VEERS	All troops will debark for ground assault. Prepare to target the main generator.
 LUKE	Rouge Two, are you all right?
 ZEV	Yeah. I'm with you, Rouge Leader.
@@ -235,31 +235,31 @@ LEIA	Why are you still here?
 HAN	I heard the command center had been hit.
 LEIA	You got your clearance to leave.
 HAN	Don't worry. I'll leave. First I'm going to get you to your ship.
-THREEPIO	Your Highness, we must take this last transport. It's our only hope.
+C-3PO	Your Highness, we must take this last transport. It's our only hope.
 LEIA	Send all troops in sector twelve to the south slope to protect the fighters.
 ANNOUNCER	Imperial troops have entered the base.
 HAN	Come on...that's it.
 LEIA	Give the evacuation code signal. And get to your transports!
 HEAD CONTROLLER	K-one-zero...all troops disengage.
-THREEPIO	Oh! Wait for me!
+C-3PO	Oh! Wait for me!
 OFFICER	Begin retreat!
 SECOND OFFICER	Fall back!
 VEERS	Distance to power generators?
 PILOT	One-seven, decimal two-eight.
 VEERS	Target. Maximum fire power.
 HAN	Transport, this is Solo. Better take off -- I can't get to you. I'll get the princess out on the Falcon.
-THREEPIO	But...but...but...where are you going? Uh...come back!!
+C-3PO	But...but...but...where are you going? Uh...come back!!
 the blocked passageway, Darth Vader strides behind them.
-THREEPIO	Wait! Wait for me! Wait! Stop!
-THREEPIO	How typical.
+C-3PO	Wait! Wait for me! Wait! Stop!
+C-3PO	How typical.
 HAN	Come on.
 HAN	Hurry up, goldenrod, or you're going to be a permanent resident!
-THREEPIO	Wait! Wait!
+C-3PO	Wait! Wait!
 HAN	How's this?
 LEIA	Would it helped if I got out and pushed?
 HAN	It might.
-THREEPIO	Captain Solo, Captain Solo...sir, might I suggest that you...
-THREEPIO	It can wait.
+C-3PO	Captain Solo, Captain Solo...sir, might I suggest that you...
+C-3PO	It can wait.
 LEIA	The bucket of bolts is never going to get us past that blockade.
 HAN	This baby's got a few surprises left in her, sweetheart.
 HAN	Come on! Come on! Switch over. Let's hope we don't have a burnout.
@@ -277,17 +277,17 @@ LUKE	That's all right. I'd like to keep it on manual control for a while.
 HAN	I saw them! I saw them!
 LEIA	Saw what?
 HAN	Star Destroyers, two of them, coming right at us.
-THREEPIO	Sir, sir! Might I suggest...
+C-3PO	Sir, sir! Might I suggest...
 HAN	Shut him up or shut him down!  Check the deflector shield!
 HAN	Oh, great. Well, we can still outmaneuver them.
 IMPERIAL OFFICER	Take evasive action!
 HAN	Prepare to make the jump to light-speed.
-THREEPIO	But, sir!
+C-3PO	But, sir!
 LEIA	They're getting closer!
 HAN	Oh yeah? Watch this.
 LEIA	Watch what?
 HAN	I think we're in trouble.
-THREEPIO	If I may say so, sir, I noticed earlier the hyperdrive motivator has been damaged. It's impossible to go to light-speed!
+C-3PO	If I may say so, sir, I noticed earlier the hyperdrive motivator has been damaged. It's impossible to go to light-speed!
 HAN	We're in trouble!
 HAN	Horizontal boosters...!
 HAN	Alluvial dampers...! Well that's not it.
@@ -302,20 +302,20 @@ HAN	Oh, no! Chewie, set two-seven-one.
 LEIA	What are you doing? You're not actually going into an asteroid field?
 HAN	They'd be crazy to follow us, wouldn't they?
 LEIA	You don't have to do this to impress me.
-THREEPIO	Sir, the possibility of successfully navigating an asteroid field is approximately three thousand, seven hundred and twenty to one.
+C-3PO	Sir, the possibility of successfully navigating an asteroid field is approximately three thousand, seven hundred and twenty to one.
 HAN	Never tell me the odds!
 HAN	You said you wanted to be around when I made a mistake; well, this could be it, sweetheart.
 LEIA	I take it back. We're going to get pulverized if we stay out here much longer.
 HAN	I'm not going to argue with that.
-THREEPIO	Pulverized?
+C-3PO	Pulverized?
 HAN	I'm going in closer to one of the big ones.
 LEIA	Closer?
-THREEPIO	Closer?!
-THREEPIO	Oh, this is suicide!
+C-3PO	Closer?!
+C-3PO	Oh, this is suicide!
 HAN	There. That looks pretty good.
 LEIA	What looks pretty good?
 HAN	Yeah. That'll do nicely.
-THREEPIO	Excuse me, ma'am, but where are we going?
+C-3PO	Excuse me, ma'am, but where are we going?
 LEIA	I hope you know what you're doing.
 HAN	Yeah, me too.
 LUKE	Yes, that's it. Dagobah.
@@ -335,11 +335,11 @@ PIETT	Our ships have sighted the Millennium Falcon, lord. But...it has entered a
 VADER	Asteroids do not concern me, Admiral. I want that ship and not excuses.
 PIETT	Yes, lord.
 HAN	I'm going to shut down everything but the emergency power systems. 
-THREEPIO	Sir, I'm almost afraid to ask, but...does that include shutting me down, too?
+C-3PO	Sir, I'm almost afraid to ask, but...does that include shutting me down, too?
 HAN	No, I need you to talk to the Falcon, find out what's wrong with the hyperdrive.
-THREEPIO	Sir, it's quite possible this asteroid is not entirely stable.
+C-3PO	Sir, it's quite possible this asteroid is not entirely stable.
 HAN	Not entirely stable? I'm glad you're here to tell us these things.  Chewie, take the professor in the back and plug him into the hyperdrive.
-THREEPIO	Oh! Sometimes I just don't understand human behavior. After all, I'm only trying to do my job in the most...
+C-3PO	Oh! Sometimes I just don't understand human behavior. After all, I'm only trying to do my job in the most...
 LEIA	Let go.
 HAN	Sshh!
 LEIA	Let go, please.
@@ -381,8 +381,8 @@ LUKE	You know him?
 CREATURE	Mmm. Take you to him, I will.  Yes, yes. But now, we must eat. Come. Good food. Come.
 CREATURE	Come, come.
 LUKE	Stay here and watch after the camp, Artoo.
-THREEPIO	Oh, where is Artoo when I need him?
-THREEPIO	Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect. I believe, sir, it says that the power coupling on the negative axis has been polarized. I'm afraid you'll have to replace it.
+C-3PO	Oh, where is Artoo when I need him?
+C-3PO	Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect. I believe, sir, it says that the power coupling on the negative axis has been polarized. I'm afraid you'll have to replace it.
 HAN	Well, of course I'll have to replace it.
 HAN	Here! And Chewie...
 HAN	...I think we'd better replace the negative power coupling.
@@ -404,9 +404,9 @@ HAN	You like me because I'm a scoundrel. There aren't enough scoundrels in your 
 LEIA	I happen to like nice men.
 HAN	I'm a nice man.
 LEIA	No, you're not. You're...
-THREEPIO	Sir, sir! I've isolated the reverse power flux coupling.
+C-3PO	Sir, sir! I've isolated the reverse power flux coupling.
 HAN	Thank you. Thank you very much.
-THREEPIO	Oh, you're perfectly welcome, sir.
+C-3PO	Oh, you're perfectly welcome, sir.
 NEEDA	...and that, Lord Vader, was the last time they appeared in any of our scopes. Considering the amount of damage we've sustained, they must have been destroyed.
 VADER	No, Captain, they're alive. I want every ship available to sweep the asteroid field until they are found.
 PIETT	Lord Vader.
@@ -415,15 +415,15 @@ PIETT	The Emperor commands you make contact with him.
 VADER	Move the ship out of the asteroid field so that we can send a clear transmission.
 PIETT	Yes, my lord.
 VADER	What is thy bidding, my master?
-EMPEROR	There is a great disturbance in the Force.
+DARTH SIDIOUS	There is a great disturbance in the Force.
 VADER	I have felt it.
-EMPEROR	We have a new enemy -- Luke Skywalker.
+DARTH SIDIOUS	We have a new enemy -- Luke Skywalker.
 VADER	Yes, my master.
-EMPEROR	He could destroy us.
+DARTH SIDIOUS	He could destroy us.
 VADER	He's just a boy. Obi-Wan can no longer help him.
-EMPEROR	The Force is strong with him. The son of Skywalker must not become a Jedi.
+DARTH SIDIOUS	The Force is strong with him. The son of Skywalker must not become a Jedi.
 VADER	If he could be turned, he would become a powerful ally.
-EMPEROR	Yes. Yes. He would be a great asset. Can it be done?
+DARTH SIDIOUS	Yes. Yes. He would be a great asset. Can it be done?
 VADER	He will join us or die, my master.
 LUKE	Look, I'm sure it's delicious. I just don't understand why we can't see Yoda now.
 CREATURE	Patience! For the Jedi it is time to eat as well. Eat, eat. Hot. Good food, hm? Good, hmm?
@@ -433,29 +433,29 @@ LUKE	Mostly because of my father, I guess.
 CREATURE	Ah, your father. Powerful Jedi was he, powerful Jedi, mmm.
 LUKE	Oh, come on. How could you know my father? You don't even know who I am. (fed up) Oh, I don't even know what I'm doing here. We're wasting our time.
 CREATURE	I cannot teach him. The boy has no patience.
-BEN	He will learn patience.
+OBI-WAN	He will learn patience.
 YODA	Hmmm. Much anger in him, like his father.
-BEN	Was I any different when you taught me?
+OBI-WAN	Was I any different when you taught me?
 YODA	Hah. He is not ready.
 LUKE	Yoda! I am ready. I...Ben! I can be a Jedi. Ben, tell him I'm ready.
 YODA	Ready, are you? What know you of ready? For eight hundred years have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind. (to the invisible Ben, indicating Luke) This one a long time have I watched. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. (turning to Luke) You are reckless!
-BEN	So was I, if you'll remember.
+OBI-WAN	So was I, if you'll remember.
 YODA	He is too old. Yes, too old to begin the training.
 LUKE	But I've learned so much.
 YODA	Will he finished what he begins?
 LUKE	I won't fail you -- I'm not afraid.
 YODA	Oh, you will be. You will be.
-THREEPIO	Sir, if I may venture an opinion...
+C-3PO	Sir, if I may venture an opinion...
 HAN	I'm not really interested in your opinion, Threepio.
 LEIA	There's something out there.
 HAN	Where?
 LEIA	Outside, in the cave.
-THREEPIO	There it is. Listen! Listen!
+C-3PO	There it is. Listen! Listen!
 HAN	I'm going out there.
 LEIA	Are you crazy?!
 HAN	I just got this bucket back together. I'm not going to let something tear it apart.
 LEIA	Then I'm going with you.
-THREEPIO	I think it might be better if I stay here and guard the ship. (hears another mysterious noise) Oh, no.
+C-3PO	I think it might be better if I stay here and guard the ship. (hears another mysterious noise) Oh, no.
 LEIA	This ground sure feels strange. It doesn't feel like rock at all.
 HAN	There's an awful lot of moisture in here.
 LEIA	I don't know. I have a bad feeling about this.
@@ -464,7 +464,7 @@ HAN	Watch out!
 HAN	Yeah, that's what I thought. Mynock. Chewie, check the rest of the ship, make sure there aren't any more attached. They're chewing on the power cables.
 LEIA	Mynocks?
 HAN	Go on inside. We'll clean them off if there are any more.
-THREEPIO	Ohhh! Go away! Go away! Beastly thing. Shoo! Shoo!
+C-3PO	Ohhh! Go away! Go away! Beastly thing. Shoo! Shoo!
 HAN	Wait a minute...
 HAN	All right, Chewie, let's get out of here!
 LEIA	The Empire is still out there. I don't think it's wise to...
@@ -472,9 +472,9 @@ HAN	No time to discuss this as a committee.
 LEIA	I am not a committee!
 LEIA	You can't make the jump to light-speed in this asteroid field...
 HAN	Sit down, sweetheart. We're taking off!
-THREEPIO	Look!
+C-3PO	Look!
 HAN	I see it, I see it.
-THREEPIO	We're doomed!
+C-3PO	We're doomed!
 LEIA	The cave is collapsing.
 HAN	This is no cave.
 LEIA	What?
@@ -499,17 +499,17 @@ PIETT	Right.
 galactic fortune hunters	There is Bossk, a slimy, tentacled VADER	...there will be a substantial reward for the one who finds the Millennium Falcon. You are free to use any methods necessary, but I want them alive. No disintegrations.
 BOBA FETT	As you wish.
 PIETT	Lord Vader! My lord, we have them.
-THREEPIO	Oh, thank goodness we're coming out of the asteroid field.
+C-3PO	Oh, thank goodness we're coming out of the asteroid field.
 HAN	Let's get out of here. Ready for light-speed? One...two...three!
 HAN	It's not fair!
 HAN	The transfer circuits are working. It's not my fault!
 LEIA	No light-speed?
 HAN	It's not my fault.
-THREEPIO	Sir, we just lost the main rear deflector shield. One more direct hit on the back quarter and we're done for.
+C-3PO	Sir, we just lost the main rear deflector shield. One more direct hit on the back quarter and we're done for.
 HAN	Turn her around.
 HAN	I said turn her around! I'm going to put all power in the front shield.
 LEIA	You're going to attack them?!
-THREEPIO	Sir, the odds of surviving a direct assault on an Imperial Star Destroyer...
+C-3PO	Sir, the odds of surviving a direct assault on an Imperial Star Destroyer...
 LEIA	Shut up!
 NEEDA	They're moving to attack position. Shields up!
 NEEDA	Track them,. They may come around for another pass.
@@ -540,9 +540,9 @@ VADER	Alert all commands. Calculate every possible destination along their last 
 PIETT	Yes, my lord. We'll find them.
 VADER	Don't fail me again, Admiral.
 PIETT	Alert all commands. Deploy the fleet.
-THREEPIO	Captain Solo, this time you have gone too far. (Chewie growls) No, I will not be quiet, Chewbacca. Why doesn't anyone listen to me?
+C-3PO	Captain Solo, this time you have gone too far. (Chewie growls) No, I will not be quiet, Chewbacca. Why doesn't anyone listen to me?
 HAN	The fleet is beginning to break up. Go back and stand by the manual release for the landing claw.
-THREEPIO	I really don't see how thats going to help. Surrender is a perfectly acceptable alternative in extreme circumstances. The Empire may be gracious enough...
+C-3PO	I really don't see how thats going to help. Surrender is a perfectly acceptable alternative in extreme circumstances. The Empire may be gracious enough...
 HAN	Thank you.
 LEIA	What did you have in mind for your next move?
 HAN	Well, if they follow standard Imperial procedure, they'll dump their garbage before they go to light-speed, then we just float away.
@@ -576,22 +576,22 @@ YODA	Decide you must how to serve them best. If you leave now, help them you cou
 HAN	No, I don't have a landing permit. I'm trying to reach Lando Calrissian.
 HAN	Whoa! Wait a minute! Let me explain.
 INTERCOM VOICE	You will not deviate from your present course.
-THREEPIO	Rather touchy, aren't they?
+C-3PO	Rather touchy, aren't they?
 LEIA	I thought you knew this person.
 HAN	Well, that was a long time ago. I'm sure he's forgotten about that.
 INTERCOM VOICE	Permission granted to land on Platform Three-two-seven.
 HAN	Thank you.
 HAN	There's nothing to worry about. We go way back, Lando and me.
 LEIA	Who's worried?
-THREEPIO	Oh. No one to meet us.
+C-3PO	Oh. No one to meet us.
 LEIA	I don't like this.
 HAN	Well, what would you like?
-THREEPIO	Well, they did let us land.
+C-3PO	Well, they did let us land.
 HAN	Look, don't worry. Everything's going to be fine. Trust me.
 HAN	See? My friend.  Keep your eyes open, okay?
 LANDO	Why, you slimy, double-crossing, no-good swindler! You've got a lot of guts coming here, after what you pulled.
 LANDO	How you doing, you old pirate? So good to see you! I never thought I'd catch up with you again. Where you been?
-THREEPIO	Well, he seems very friendly.
+C-3PO	Well, he seems very friendly.
 LEIA	Yes...very friendly.
 LANDO	What are you doing here?
 HAN	Ahh...repairs. I thought you could help me out.
@@ -601,8 +601,8 @@ LANDO	Hello. What have we here? Welcome. I'm Lando Calrissian. I'm the administr
 LEIA	Leia.
 LANDO	Welcome, Leia.
 HAN	All right, all right, you old smoothie.
-THREEPIO	Hello, sir. I am See-Threepio, human-cyborg relations. My facilities are at your...
-THREEPIO	Well, really!
+C-3PO	Hello, sir. I am See-Threepio, human-cyborg relations. My facilities are at your...
+C-3PO	Well, really!
 LANDO	What's wrong with the Falcon?
 HAN	Hyperdrive.
 LANDO	I'll get my people to work on it.
@@ -614,38 +614,38 @@ HAN	You. Listen to you -- you sound like a businessman, a responsible leader. Wh
 LANDO	You know, seeing you sure brings back a few things.
 HAN	Yeah.
 LANDO	Yeah, I'm responsible these days. It's the price you pay for being successful.
-THREEPIO	Oh! Nice to see a familiar face.
+C-3PO	Oh! Nice to see a familiar face.
 SECOND THREEPIO	E chu ta!
-THREEPIO	How rude!
-THREEPIO	That sounds like an R2 unit in there. I wonder if...
-THREEPIO	Hello? How interesting. Oh, my.
+C-3PO	How rude!
+C-3PO	That sounds like an R2 unit in there. I wonder if...
+C-3PO	Hello? How interesting. Oh, my.
 MAN	Who are you?
-THREEPIO	Oh, I'm terribly sorry. I...I didn't mean to intrude. No, no, please don't get up. No!
+C-3PO	Oh, I'm terribly sorry. I...I didn't mean to intrude. No, no, please don't get up. No!
 YODA	Luke! You must complete the training.
 LUKE	I can't keep the vision out of my head. They're my friends. I've got to help them.
 YODA	You must not go!
 LUKE	But Han and Leia will die if I don't.
-BEN	You don't know that.
-BEN	Even Yoda cannot see their fate.
+OBI-WAN	You don't know that.
+OBI-WAN	Even Yoda cannot see their fate.
 LUKE	But I can help them! I feel the Force!
-BEN	But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force.
+OBI-WAN	But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force.
 YODA	Yes, yes. To Obi-Wan you listen. The cave. Remember your failure at the cave!
 LUKE	But I've learned so much since then. Master Yoda, I promise to return and finish what I've begun. You have my word.
-BEN	It is you and your abilities the Emperor wants. that is why your friends are made to suffer.
+OBI-WAN	It is you and your abilities the Emperor wants. that is why your friends are made to suffer.
 LUKE	And that is why I have to go.
-BEN	Luke, I don't want to lose you to the Emperor the way I lost Vader.
+OBI-WAN	Luke, I don't want to lose you to the Emperor the way I lost Vader.
 LUKE	You won't.
 YODA	Stopped they must be. On this depends. Only a fully trained Jedi Knight with the Force as his ally will conquer Vader and his Emperor. If you end your training now, if you choose the quick and easy path, as Vader did, you will become an agent of evil.
-BEN	Patience.
+OBI-WAN	Patience.
 LUKE	And sacrifice Han and Leia?
 YODA	If you honor what they fight for...yes!
-BEN	If you choose to face Vader, you will do it alone. I cannot interfere.
+OBI-WAN	If you choose to face Vader, you will do it alone. I cannot interfere.
 LUKE	I understand.  Artoo, fire up the converters.
-BEN	Luke, don't give in to hate -- that leads to the dark side.
+OBI-WAN	Luke, don't give in to hate -- that leads to the dark side.
 YODA	Strong is Vader. Mind what you have learned. Save you it can.
 LUKE	I will. And I'll return. I promise.
 YODA	Told you, I did. Reckless is he. Now matters are worse.
-BEN	That boy is our last hope.
+OBI-WAN	That boy is our last hope.
 YODA	No. There is another.
 HAN	The ship is almost finished. Two or Three more things and we're in great shape.
 LEIA	The sooner the better. Something's wrong here. No one has seen or knows anything about Threepio. He's been gone too long to have gotten lost.
@@ -676,8 +676,8 @@ LANDO	I had no choice. They arrived right before you did. I'm sorry.
 HAN	I'm sorry, too.
 LUKE	No, Threepio's with them.
 LUKE	Just hang on. We're almost there.
-THREEPIO	Mmmm. Oh, my. Uh, I, uh -- Take this off! I, uh, don't mean to intrude here. I, don't, no, no, no...Please don't get up. No!
-THREEPIO	Stormtroopers? Here? We're in danger. I must tell the others. Oh, no! I've been shot!
+C-3PO	Mmmm. Oh, my. Uh, I, uh -- Take this off! I, uh, don't mean to intrude here. I, don't, no, no, no...Please don't get up. No!
+C-3PO	Stormtroopers? Here? We're in danger. I must tell the others. Oh, no! I've been shot!
 LANDO	Lord Vader.
 VADER	You may take Captain Solo to Jabba the Hut after I have Skywalker.
 BOBA FETT	He's no good to me dead.
@@ -689,7 +689,7 @@ VADER	Perhaps you think you're being treated unfairly.
 LANDO	No.
 VADER	Good. It would be unfortunate if I had to leave a garrison here.
 LANDO	This deal's getting worse all the time.
-THREEPIO	Oh, yes, that's very good. I like that. Oh! Something's not right because now I can't see. Wait. Wait! Oh, my! what have you done? I'm backwards, you stupid furball. Only an overgrown mophead like you would be stupid enough...
+C-3PO	Oh, yes, that's very good. I like that. Oh! Something's not right because now I can't see. Wait. Wait! Oh, my! what have you done? I'm backwards, you stupid furball. Only an overgrown mophead like you would be stupid enough...
 HAN	I feel terrible.
 LEIA	Why are they doing this?
 HAN	They never even asked me any questions.
@@ -715,19 +715,19 @@ IMPERIAL SOLDIER	Lord Vader, ship approaching. X-wing class.
 VADER	Good. Monitor Skywalker and allow him to land.
 LANDO	Lord Vader, we only use this facility for carbon freezing. If you put him in there, it might kill him.
 VADER	I do not want the Emperor's prize damaged. We will test it...on Captain Solo.
-THREEPIO	If only you had attached my legs, I wouldn't be in this ridiculous position. Now, remember, Chewbacca, you have a responsibility to me, so don't do anything foolish.
+C-3PO	If only you had attached my legs, I wouldn't be in this ridiculous position. Now, remember, Chewbacca, you have a responsibility to me, so don't do anything foolish.
 HAN	What's going on...buddy?
 LANDO	You're being put into carbon freeze.
 BOBA FETT	What if he doesn't survive? He's worth a lot to me.
 VADER	The Empire will compensate you if he dies. Put him in!
-THREEPIO	Oh, no! No, no, no! Stop, Chewbacca, stop...!
+C-3PO	Oh, no! No, no, no! Stop, Chewbacca, stop...!
 HAN	Stop, Chewie, stop! Do you hear me? Stop!
-THREEPIO	Yes, stop, please! I'm not ready to die.
+C-3PO	Yes, stop, please! I'm not ready to die.
 HAN	Chewie! Chewie, this won't help me. Hey!
 HAN	Save your strength. There'll be another time. The princess -- you have to take care of her. You hear me?
 LEIA	I love you!
 HAN	I know.
-THREEPIO	What...what's going on? Turn around, Chewbacca, I can't see. Oh...they've encased him in carbonite. He should be quite well-protected -- if he survives the freezing process, that is.
+C-3PO	What...what's going on? Turn around, Chewbacca, I can't see. Oh...they've encased him in carbonite. He should be quite well-protected -- if he survives the freezing process, that is.
 VADER	Well, Calrissian, did he survive?
 LANDO	Yes, he's alive. And in perfect hibernation.
 VADER	He's all yours bounty hunter. Reset the chamber for Skywalker.
@@ -740,24 +740,24 @@ VADER	The Force is with you, young Skywalker. But you are not a Jedi yet.
 LANDO	Well done. Hold them in the security tower -- and keep it quiet. Move.
 LEIA	What do you think you're doing?
 LANDO	We're getting out of here.
-THREEPIO	I knew all along it had to be a mistake.
+C-3PO	I knew all along it had to be a mistake.
 LEIA	Do you think that after what you did to Han we're going to trust you?
 LANDO	I had no choice...
-THREEPIO	What are you doing? Trust him, trust him!
+C-3PO	What are you doing? Trust him, trust him!
 LEIA	Oh, so we understand, don't we, Chewie? He had no choice.
 LANDO	I'm just trying to help...
 LEIA	We don't need any of your help.
 LANDO	H-a-a-a...
 LEIA	What?
-THREEPIO	It sounds like Han.
+C-3PO	It sounds like Han.
 LANDO	There's still a chance to save Han...I mean, at the East Platform...
 LEIA	Chewie.
-THREEPIO	I'm terribly sorry about all this. After all, he's only a Wookiee.
+C-3PO	I'm terribly sorry about all this. After all, he's only a Wookiee.
 BOBA FETT	Put Captain Solo in the cargo hold.
-THREEPIO	Artoo! Artoo! Where have you been?
-THREEPIO	Turn around, you wooly...!  Hurry, hurry! We're trying to save Han from the bounty hunter!
-THREEPIO	Well, at least your still in one piece! Look what happened to me!
-THREEPIO	Oh, no! Chewie, they're behind you!
+C-3PO	Artoo! Artoo! Where have you been?
+C-3PO	Turn around, you wooly...!  Hurry, hurry! We're trying to save Han from the bounty hunter!
+C-3PO	Well, at least your still in one piece! Look what happened to me!
+C-3PO	Oh, no! Chewie, they're behind you!
 VADER	You have learned much, young one.
 LUKE	You'll find I'm full of surprises.
 VADER	Your destiny lies with me, Skywalker. Obi-Wan knew this to be true.
@@ -767,15 +767,15 @@ VADER	Impressive...most impressive.
 VADER	Obi-Wan has taught you well. You have controlled your fear... now release your anger.
 VADER	Only your hatred can destroy me.
 LANDO	The security codes has been changed!
-THREEPIO	Artoo, you can tell the computer to override the security system.
+C-3PO	Artoo, you can tell the computer to override the security system.
 LANDO	Attention! This is Lando Calrissian. The Empire has takes control of the city. I advise everyone to leave before more Imperial troops arrive.
 LANDO	This way.
-THREEPIO	Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal.
-THREEPIO	What are you talking about? We're not interested in the hyperdrive on the Millennium Falcon. It's fixed! Just open the door, you stupid lump.
-THREEPIO	I never doubted you for a second. Wonderful!
-THREEPIO	Ouch! Oh! Ah! That hurt, Bend down, you thoughtless...Ow!
+C-3PO	Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal.
+C-3PO	What are you talking about? We're not interested in the hyperdrive on the Millennium Falcon. It's fixed! Just open the door, you stupid lump.
+C-3PO	I never doubted you for a second. Wonderful!
+C-3PO	Ouch! Oh! Ah! That hurt, Bend down, you thoughtless...Ow!
 LANDO	Leia! Go!
-THREEPIO	I thought that hairy beast would be the end of me. Of course, I've looked better.
+C-3PO	I thought that hairy beast would be the end of me. Of course, I've looked better.
 VADER	You are beaten. It is useless to resist. Don't let yourself be destroyed as Obi-Wan did.
 VADER	There is no escape. Don't make me destroy you. You do not yet realize your importance. You have only begun to discover you power. Join me and I will complete your training. With our combined strength, we can end this destructive conflict and bring order to the galaxy.
 LUKE	I'll never join you!
@@ -816,9 +816,9 @@ VADER	Did your men deactivate the hyperdrive on the Millennium Falcon?
 PIETT	Yes, my lord.
 VADER	Good. Prepare the boarding party and set for your weapons for stun.
 PIETT	Yes, my lord.
-THREEPIO	Noisy brute. Why don't we just go into light-speed?
-THREEPIO	We can't? How would you know the hyperdrive is deactivated?
-THREEPIO	The city's central computer told you? Artoo-Detoo, you know better than to trust a strange computer. Ouch! Pay attention to what you're doing!
+C-3PO	Noisy brute. Why don't we just go into light-speed?
+C-3PO	We can't? How would you know the hyperdrive is deactivated?
+C-3PO	The city's central computer told you? Artoo-Detoo, you know better than to trust a strange computer. Ouch! Pay attention to what you're doing!
 VADER	Luke.
 LUKE	Father.
 VADER	Son, come with me.
@@ -828,8 +828,8 @@ LUKE	It's Vader.
 VADER	Luke...it is your destiny.
 LUKE	Ben, why didn't you tell me?
 PIETT	Alert all commands. Ready for the tractor beam.
-THREEPIO	Artoo, come back at once! You haven't finished with me yet! You don't know how to fix the hyperdrive. Chewbacca can do it. I'm standing here in pieces, and you're having delusions of grandeur!
-THREEPIO	Oh, you did it!
+C-3PO	Artoo, come back at once! You haven't finished with me yet! You don't know how to fix the hyperdrive. Chewbacca can do it. I'm standing here in pieces, and you're having delusions of grandeur!
+C-3PO	Oh, you did it!
 LANDO	Luke, we're ready for takeoff.
 LUKE	Good luck, Lando
 LANDO	When we find Jabba the Hut and that bounty hunter, we'll contact you.
