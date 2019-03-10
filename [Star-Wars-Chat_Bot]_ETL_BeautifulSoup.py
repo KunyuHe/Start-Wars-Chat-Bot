@@ -32,6 +32,8 @@ NAME_DICT = {'BEN': "OBI-WAN",
              'PADMÉ': "PADME",
              'CORDÉ': "CORDE"}
 
+#----------------------------------------------------------------------------#
+
 
 def read_script(name, encoding=None):
     """
@@ -70,7 +72,7 @@ def clean_name(line, name_party_line=NAME_DICT):
     Given a line containing a name, parses the line and returns the name.
 
     Inputs:
-        - line (string): a line from the list
+        - line (string): a name line from the list
         - name_party_line (dict): takes care of wrong spellings
 
     Returns:
@@ -79,11 +81,53 @@ def clean_name(line, name_party_line=NAME_DICT):
     name = line.strip()
     if ("'S") in name:
         name = re.search(r"^[A-Z0-9\s]+[^']", name).group().strip()
+    
+    if "(" in name:
+        name = re.search(r"[\w]+[^(]", name).group().strip()
     name = name_party_line.get(name, name)
 
-    name = re.search(r"^[A-Z0-9\s-]+[^a-z]", line.strip())
+    name = re.search(r"^[A-Z0-9&\s-]+[^a-z#]", name)
     if not name:
-        pass
-    name = re.sub(r"[\(\[].*?[\)\]]", "", name.group()).strip()
+        return None
 
-    return name
+    return name.group().strip()
+
+
+def write_dialogue(condition, cond_line, write_line, file):
+    """
+    Given a dialogue line, write it into the tsv file under the assigned
+    condition.
+
+    Inputs:
+        - condition (a function): evaluates to True or False
+        - cond_line (string): a line from the script to check the condition
+        - write_line (string): a line from the script to write
+        - file (TextIOWrapper): connection to the .tsv file
+
+    Returns:
+        (None)
+    """
+    if condition(cond_line):
+        file.write(write_line.strip() + "\n")
+    else:
+        file.write(write_line.strip() + " ")
+
+
+# Star Wars Episode IV: A New Hope-------------------------------------------#
+script = read_script('StarWars_EpisodeIV_script.txt', encoding=None)
+f = open('StarWars Dialogues/StarWars_EpisodeIV_dialogues.tsv', 'w')
+
+for line in script[50:]:
+    if line_type(line, 20):
+        name = clean_name(line, {key: val for key, val in NAME_DICT.items()
+                                 if key != "CREATURE"})
+        if not name:
+            continue
+        f.write(name + '\t')
+
+    elif line_type(line, 10):
+        write_dialogue(lambda x: len(x) == len(x.rstrip()), line, f)
+
+f.close()
+
+# Star Wars Episode V: The Empire Strikes Back-------------------------------#
