@@ -1,18 +1,17 @@
 ##############################################################################
-# Title:       [Star-Wars-Chat_Bot]_ParseScripts.py
+# Title:       [Star-Wars-Chat-Bot]_ParseScripts.py
 # Description: To parse Star Wars scripts (.txt) in to dialogue
 #              documents
-# Input file (/StarWars Scripts/..) -> Output file (/StarWars Dialogues/..):
-#     StarWars_EpisodeIII_script.txt -> StarWars_EpisodeIII_dialogues.tsv
-#     StarWars_EpisodeIV_script.txt -> StarWars_EpisodeIV_dialogues.tsv
-#     StarWars_EpisodeVI_script.txt -> StarWars_EpisodeVI_dialogues.tsv
+# Input file: ([Star-Wars-Chat-Bot]data/Scripts/..) ->
+#   Output file: ([Star-Wars-Chat-Bot]data/Dialogues/..):
+#     EpisodeIII_script.txt -> EpisodeIII_dialogues.tsv
+#     EpisodeIV_script.txt -> EpisodeIV_dialogues.tsv
+#     EpisodeVI_script.txt -> EpisodeVI_dialogues.tsv
 # Author:      Kunyu He
 ##############################################################################
 
 
 import re
-import requests
-import bs4
 
 # Party line of names
 NAME_DICT = {'BEN': "OBI-WAN",
@@ -47,7 +46,8 @@ def read_script(name, encoding=None):
     Outputs:
         (list of strings) of lines in the script with newline char removed
     """
-    with open('StarWars Scripts/' + name, 'r', encoding=encoding) as f:
+    with open('[Star-Wars-Chat-Bot]data/Scripts/' + name, 'r',
+              encoding=encoding) as f:
         return [line.rstrip("\n") for line in f.readlines()]
 
 
@@ -114,8 +114,8 @@ def write_dialogue(condition, cond_line, write_line, file):
 
 
 # Star Wars Episode IV: A New Hope-------------------------------------------#
-script = read_script('StarWars_EpisodeIV_script.txt')
-f = open('StarWars Dialogues/StarWars_EpisodeIV_dialogues.tsv', 'w')
+script = read_script('EpisodeIV_script.txt')
+f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeIV_dialogues.tsv', 'w')
 
 for i in range(50, len(script) - 1):
     line, next_line = script[i], script[i + 1]
@@ -134,8 +134,8 @@ f.close()
 
 
 # Star Wars Episode V: The Empire Strikes Back-------------------------------#
-script = read_script('StarWars_EpisodeV_script.txt', encoding=None)
-f = open('StarWars Dialogues/StarWars_EpisodeV_dialogues.tsv', 'w')
+script = read_script('EpisodeV_script.txt', encoding=None)
+f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeV_dialogues.tsv', 'w')
 
 for i in range(60, len(script) - 1):
     line, next_line = script[i], script[i + 1]
@@ -161,7 +161,7 @@ f.close()
 
 # Star Wars Episode VI: Return of the Jedi-----------------------------------#
 script = read_script('StarWars_EpisodeVI_script.txt', encoding=None)
-f = open('StarWars Dialogues/StarWars_EpisodeVI_dialogues.tsv', 'w')
+f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeVI_dialogues.tsv', 'w')
 
 for i in range(70, len(script) - 1):
     line, next_line = script[i], script[i + 1]
