@@ -114,10 +114,12 @@ def write_dialogue(condition, cond_line, write_line, file):
 
 
 # Star Wars Episode IV: A New Hope-------------------------------------------#
-script = read_script('StarWars_EpisodeIV_script.txt', encoding=None)
+script = read_script('StarWars_EpisodeIV_script.txt')
 f = open('StarWars Dialogues/StarWars_EpisodeIV_dialogues.tsv', 'w')
 
-for line in script[50:]:
+for i in range(50, len(script) - 1):
+    line, next_line = script[i], script[i + 1]
+
     if line_type(line, 20):
         name = clean_name(line, {key: val for key, val in NAME_DICT.items()
                                  if key != "CREATURE"})
@@ -126,7 +128,7 @@ for line in script[50:]:
         f.write(name + '\t')
 
     elif line_type(line, 10):
-        write_dialogue(lambda x: len(x) == len(x.rstrip()), line, f)
+        write_dialogue(lambda x: not x.strip(), next_line, line, f)
 
 f.close()
 
