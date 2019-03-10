@@ -153,10 +153,29 @@ for i in range(60, len(script) - 1):
         write_dialogue(lambda x: not x, next_line, name + "\t" + dialogue, f)
     
     elif line and line_type(line, 0):
-        write_dialogue(lambda x: not x or not line_type(x, 0),
+        write_dialogue(lambda x: not x.strip() or not line_type(x, 0),
                        next_line, line, f)
 
 f.close()
 
 
-# Star Wars Episode V: The Empire Strikes Back-------------------------------#
+# Star Wars Episode VI: Return of the Jedi-----------------------------------#
+script = read_script('StarWars_EpisodeVI_script.txt', encoding=None)
+f = open('StarWars Dialogues/StarWars_EpisodeVI_dialogues.tsv', 'w')
+
+for i in range(70, len(script) - 1):
+    line, next_line = script[i], script[i + 1]
+
+    if line_type(line, 30):
+        name = clean_name(line, NAME_DICT)
+        if not name or name == "FADE OUT":
+            continue
+        f.write(name + "\t")
+
+    elif line_type(line, 15):
+        write_dialogue(lambda x: not x.strip(), next_line, line, f)
+
+f.close()
+
+
+# Star Wars Episode III: Revenge of the Sith---------------------------------#
