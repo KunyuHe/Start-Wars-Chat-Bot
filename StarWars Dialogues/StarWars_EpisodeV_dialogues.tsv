@@ -351,35 +351,35 @@ LUKE	Now all I have to do is find this Yoda...if he even exists.
 LUKE	Still...there's something familiar about this place. I feel like...I don't know...
 STRANGE VOICE	Feel like what?
 LUKE	Like we're being watched!
-CREATURE	Away with your weapon! I mean you no harm.
-CREATURE	I am wondering, why are you here?
+YODA	Away with your weapon! I mean you no harm.
+YODA	I am wondering, why are you here?
 LUKE	I'm looking for someone.
-CREATURE	Looking? Found someone, you have, I would say, hmmm?
+YODA	Looking? Found someone, you have, I would say, hmmm?
 LUKE	Right.
-CREATURE	Help you I can. Yes, mmmm.
+YODA	Help you I can. Yes, mmmm.
 LUKE	I don't think so. I'm looking for a great warrior.
-CREATURE	Ahhh! A great warrior.  Wars not make one great.
+YODA	Ahhh! A great warrior.  Wars not make one great.
 LUKE	Put that down. Hey! That's my dinner.
-CREATURE	How you get so big, eating food of this kind?
+YODA	How you get so big, eating food of this kind?
 LUKE	Listen, friend, we didn't mean to land in that puddle, and if we could get our ship out, we would, but we can't, so why don't you just...
-CREATURE	Aww, cannot get your ship out?
+YODA	Aww, cannot get your ship out?
 LUKE	Hey, you could have broken this. Don't do that. Ohhh...you're making a mess. Hey, give me that!
-CREATURE	Mine! Or I will help you not.
+YODA	Mine! Or I will help you not.
 LUKE	I don't want your help. I want my lamp back. I'll need it to get out of this slimy mudhole.
-CREATURE	Mudhole? Slimy? My home this is.
-CREATURE	Ah, ah, ah!
+YODA	Mudhole? Slimy? My home this is.
+YODA	Ah, ah, ah!
 LUKE	Oh, Artoo, let him have it.
-CREATURE	Mine! Mine!
+YODA	Mine! Mine!
 LUKE	Artoo!
-CREATURE	Mine!
-CREATURE	Mine!
+YODA	Mine!
+YODA	Mine!
 LUKE	Now will you move along, little fella? We're got a lot of work to do.
-CREATURE	No! No, no! Stay and help you, I will.  Find your friend, hmm?
+YODA	No! No, no! Stay and help you, I will.  Find your friend, hmm?
 LUKE	I'm not looking for a friend, I'm looking for a Jedi Master.
-CREATURE	Oohhh. Jedi Master. Yoda. You seek Yoda.
+YODA	Oohhh. Jedi Master. Yoda. You seek Yoda.
 LUKE	You know him?
-CREATURE	Mmm. Take you to him, I will.  Yes, yes. But now, we must eat. Come. Good food. Come.
-CREATURE	Come, come.
+YODA	Mmm. Take you to him, I will.  Yes, yes. But now, we must eat. Come. Good food. Come.
+YODA	Come, come.
 LUKE	Stay here and watch after the camp, Artoo.
 C-3PO	Oh, where is Artoo when I need him?
 C-3PO	Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect. I believe, sir, it says that the power coupling on the negative axis has been polarized. I'm afraid you'll have to replace it.
@@ -426,13 +426,13 @@ VADER	If he could be turned, he would become a powerful ally.
 DARTH SIDIOUS	Yes. Yes. He would be a great asset. Can it be done?
 VADER	He will join us or die, my master.
 LUKE	Look, I'm sure it's delicious. I just don't understand why we can't see Yoda now.
-CREATURE	Patience! For the Jedi it is time to eat as well. Eat, eat. Hot. Good food, hm? Good, hmm?
+YODA	Patience! For the Jedi it is time to eat as well. Eat, eat. Hot. Good food, hm? Good, hmm?
 LUKE	How far away is Yoda? Will it take us long to get there?
-CREATURE	Not far. Yoda not far. Patience. Soon you will be with him. (tasting food from the pot) Rootleaf, I cook. Why wish you become Jedi? Hm?
+YODA	Not far. Yoda not far. Patience. Soon you will be with him. (tasting food from the pot) Rootleaf, I cook. Why wish you become Jedi? Hm?
 LUKE	Mostly because of my father, I guess.
-CREATURE	Ah, your father. Powerful Jedi was he, powerful Jedi, mmm.
+YODA	Ah, your father. Powerful Jedi was he, powerful Jedi, mmm.
 LUKE	Oh, come on. How could you know my father? You don't even know who I am. (fed up) Oh, I don't even know what I'm doing here. We're wasting our time.
-CREATURE	I cannot teach him. The boy has no patience.
+YODA	I cannot teach him. The boy has no patience.
 OBI-WAN	He will learn patience.
 YODA	Hmmm. Much anger in him, like his father.
 OBI-WAN	Was I any different when you taught me?
@@ -496,7 +496,7 @@ FIRST CONTROLLER	Yes, sir.
 PIETT	Those Rebels won't escape us.
 SECOND CONTROLLER	Sir, we have a priority signal from the Star Destroyer Avenger.
 PIETT	Right.
-galactic fortune hunters	There is Bossk, a slimy, tentacled VADER	...there will be a substantial reward for the one who finds the Millennium Falcon. You are free to use any methods necessary, but I want them alive. No disintegrations.
+VADER	...there will be a substantial reward for the one who finds the Millennium Falcon. You are free to use any methods necessary, but I want them alive. No disintegrations.
 BOBA FETT	As you wish.
 PIETT	Lord Vader! My lord, we have them.
 C-3PO	Oh, thank goodness we're coming out of the asteroid field.
