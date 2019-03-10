@@ -132,4 +132,31 @@ for i in range(50, len(script) - 1):
 
 f.close()
 
+
+# Star Wars Episode V: The Empire Strikes Back-------------------------------#
+script = read_script('StarWars_EpisodeV_script.txt', encoding=None)
+f = open('StarWars Dialogues/StarWars_EpisodeV_dialogues.tsv', 'w')
+
+for i in range(60, len(script) - 1):
+    line, next_line = script[i], script[i + 1]
+    
+    if (":") in line:
+        name, dialogue = line.split(":")
+        if name in ["INTERIOR", "EXTERIOR"]:
+            continue
+
+        name = clean_name(name, NAME_DICT)
+        if not name:
+            continue
+        
+        dialogue = re.sub(r"[\(\[].*?[\)\]]", "", dialogue).strip()
+        write_dialogue(lambda x: not x, next_line, name + "\t" + dialogue, f)
+    
+    elif line and line_type(line, 0):
+        write_dialogue(lambda x: not x or not line_type(x, 0),
+                       next_line, line, f)
+
+f.close()
+
+
 # Star Wars Episode V: The Empire Strikes Back-------------------------------#
