@@ -1,17 +1,18 @@
-##############################################################################
-# Title:       [Star-Wars-Chat-Bot]_ParseScripts.py
-# Description: To parse Star Wars scripts (.txt) in to dialogue
-#              documents
-# Input file: ([Star-Wars-Chat-Bot]data/Scripts/..) ->
-# Output file: ([Star-Wars-Chat-Bot]data/Dialogues/..):
-#     EpisodeIV_script.txt -> EpisodeIV_dialogues.tsv
-#     EpisodeV_script.txt -> EpisodeV_dialogues.tsv
-#     EpisodeVI_script.txt -> EpisodeVI_dialogues.tsv
-#     EpisodeIII_script.txt -> EpisodeIII_dialogues.tsv
-#     EpisodeII_script.txt -> EpisodeII_dialogues.tsv
-#     EpisodeV_script.txt -> EpisodeI_dialogues.tsv
-# Author:      Kunyu He
-##############################################################################
+"""
+Title:       get_dialogues.py
+Description: To parse Star Wars scripts (.txt) in to dialogue
+             documents
+Input file: ([Star-Wars-Chat-Bot]data/Scripts/..) ->
+Output file: ([Star-Wars-Chat-Bot]data/Dialogues/..):
+            EpisodeIV_script.txt -> EpisodeIV_dialogues.tsv
+            EpisodeV_script.txt -> EpisodeV_dialogues.tsv
+            EpisodeVI_script.txt -> EpisodeVI_dialogues.tsv
+            EpisodeIII_script.txt -> EpisodeIII_dialogues.tsv
+            EpisodeII_script.txt -> EpisodeII_dialogues.tsv
+Author:      Kunyu He
+"""
+# pylint: disable=redefined-outer-name, invalid-name, dangerous-default-value
+
 
 import re
 
@@ -80,9 +81,9 @@ def clean_name(line, name_party_line=NAME_DICT):
         (string) cleaned name
     """
     name = line.strip()
-    if ("'S") in name:
+    if "'S" in name:
         name = re.search(r"^[A-Z0-9\s]+[^']", name).group().strip()
-    
+
     if "(" in name:
         name = re.search(r"[\w]+[^(]", name).group().strip()
     name = name_party_line.get(name, name)
@@ -140,8 +141,8 @@ f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeV_dialogues.tsv', 'w')
 
 for i in range(60, len(script) - 1):
     line, next_line = script[i], script[i + 1]
-    
-    if (":") in line:
+
+    if ":" in line:
         name, dialogue = line.split(":")
         if name in ["INTERIOR", "EXTERIOR"]:
             continue
@@ -149,10 +150,11 @@ for i in range(60, len(script) - 1):
         name = clean_name(name, NAME_DICT)
         if not name:
             continue
-        
+
         dialogue = re.sub(r"[\(\[].*?[\)\]]", "", dialogue).strip()
-        write_dialogue(lambda x: not x, next_line, name + "\t" + dialogue, f)
-    
+        write_dialogue(lambda x: not x.strip(), next_line,
+                       name + "\t" + dialogue, f)
+
     elif line and line_type(line, 0):
         write_dialogue(lambda x: not x.strip() or not line_type(x, 0),
                        next_line, line, f)
@@ -184,7 +186,7 @@ script = read_script('EpisodeIII_script.txt')
 f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeIII_dialogues.tsv', 'w')
 
 for line in script:
-    if (":") in line and len(line) == len(line.lstrip()):
+    if ":" in line and len(line) == len(line.lstrip()):
         name, dialogue = line.split(":", 1)
         name = clean_name(name, NAME_DICT)
         f.write(name.strip() + "\t" +
@@ -211,6 +213,3 @@ for i in range(30, len(script) - 1):
         write_dialogue(lambda x: not x.strip(), next_line, line, f)
 
 f.close()
-
-
-# 

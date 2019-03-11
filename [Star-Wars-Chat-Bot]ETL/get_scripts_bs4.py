@@ -5,7 +5,6 @@ Description: To get Star Wars scripts from `https://www.imsdb.com/scripts/`
 Input file:  None -> Output file: ([Star-Wars-Chat-Bot]data/Scripts/..):
                   -> EpisodeIII_script.txt
                   -> EpisodeII_script.txt
-                  -> EpisodeI_script.txt
 Author:      Kunyu He
 """
 
@@ -51,8 +50,3 @@ get_script_from_url(URL, "EpisodeIII_script.txt", ["\xa0", " "])
 URL = "https://www.imsdb.com/scripts/Star-Wars-Attack-of-the-Clones.html"
 get_script_from_url(URL, "EpisodeII_script.txt", ["\t", "    "],
                     encoding='utf8')
-
-
-# Star Wars Episode I: The Phantom Menace------------------------------------#
-URL = "https://www.imsdb.com/scripts/Star-Wars-The-Phantom-Menace.html"
-get_script_from_url(URL, "EpisodeI_script.txt", ["\xa0", " "])
