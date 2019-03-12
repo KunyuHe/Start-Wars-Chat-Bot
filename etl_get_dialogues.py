@@ -16,8 +16,11 @@ Author:      Kunyu He
 
 import re
 
+SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
+DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
 # Party line of names
-NAME_DICT = {'BEN': "OBI-WAN",
+NAME_DICT = {'CREATURE': "YODA",
+             'BEN': "OBI-WAN",
              'THREEPIO': "C-3PO",
              'DARTH SlDIOUS': "DARTH SIDIOUS",
              'PALPATINE': "DARTH SIDIOUS",
@@ -48,7 +51,7 @@ def read_script(name, encoding=None):
     Outputs:
         (list of strings) of lines in the script with newline char removed
     """
-    with open('[Star-Wars-Chat-Bot]data/Scripts/' + name, 'r',
+    with open(SCRIPTS_DIR + name, 'r',
               encoding=encoding) as f:
         return [line.rstrip("\n") for line in f.readlines()]
 
@@ -95,6 +98,20 @@ def clean_name(line, name_party_line=NAME_DICT):
     return name.group().strip()
 
 
+def generate_dialogue_path(script_file_name):
+    """
+    Given the script file name, generate the path for dialogue file.
+
+    Inputs:
+        - script_file_name (string): name of the script file
+
+    Returns:
+        (string) path to the dialogue file
+    """
+    dialogue_name = script_file_name.replace("script.txt", "dialogues.tsv", 1)
+    return DIALOGUES_DIR + dialogue_name
+
+
 def write_dialogue(condition, cond_line, write_line, file):
     """
     Given a dialogue line, write it into the tsv file under the assigned
@@ -115,101 +132,93 @@ def write_dialogue(condition, cond_line, write_line, file):
         file.write(write_line.strip() + " ")
 
 
-# Star Wars Episode IV: A New Hope-------------------------------------------#
-script = read_script('EpisodeIV_script.txt')
-f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeIV_dialogues.tsv', 'w')
+def go():
+    """
+    Parse the script text files and get the dialogues into .tsv format.
+    """
+    # Star Wars Episode IV: A New Hope---------------------------------------#
+    script = read_script('EpisodeIV_script.txt')
+    with open(generate_dialogue_path('EpisodeIV_script.txt'), 'w') as f:
+        for i in range(50, len(script) - 1):
+            line, next_line = script[i], script[i + 1]
 
-for i in range(50, len(script) - 1):
-    line, next_line = script[i], script[i + 1]
+            if line_type(line, 20):
+                name = clean_name(line, {k: v for k, v in NAME_DICT.items()
+                                         if k != "CREATURE"})
+                if not name:
+                    continue
+                f.write(name + '\t')
 
-    if line_type(line, 20):
-        name = clean_name(line, {key: val for key, val in NAME_DICT.items()
-                                 if key != "CREATURE"})
-        if not name:
-            continue
-        f.write(name + '\t')
+            elif line_type(line, 10):
+                write_dialogue(lambda x: not x.strip(), next_line, line, f)
 
-    elif line_type(line, 10):
-        write_dialogue(lambda x: not x.strip(), next_line, line, f)
+    # Star Wars Episode V: The Empire Strikes Back---------------------------#
+    script = read_script('EpisodeV_script.txt')
+    with open(generate_dialogue_path('EpisodeV_script.txt'), 'w') as f:
+        for i in range(60, len(script) - 1):
+            line, next_line = script[i], script[i + 1]
 
-f.close()
+            if ":" in line:
+                name, dialogue = line.split(":")
+                if name in ["INTERIOR", "EXTERIOR"]:
+                    continue
 
+                name = clean_name(name, NAME_DICT)
+                if not name:
+                    continue
 
-# Star Wars Episode V: The Empire Strikes Back-------------------------------#
-script = read_script('EpisodeV_script.txt')
-f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeV_dialogues.tsv', 'w')
+                dialogue = re.sub(r"[\(\[].*?[\)\]]", "", dialogue).strip()
+                write_dialogue(lambda x: not x.strip(), next_line,
+                               name + "\t" + dialogue, f)
 
-for i in range(60, len(script) - 1):
-    line, next_line = script[i], script[i + 1]
+            elif line and line_type(line, 0):
+                write_dialogue(lambda x: not x.strip() or not line_type(x, 0),
+                               next_line, line, f)
 
-    if ":" in line:
-        name, dialogue = line.split(":")
-        if name in ["INTERIOR", "EXTERIOR"]:
-            continue
+    # Star Wars Episode VI: Return of the Jedi-------------------------------#
+    script = read_script('EpisodeVI_script.txt')
+    with open(generate_dialogue_path('EpisodeVI_script.txt'), 'w') as f:
+        for i in range(70, len(script) - 1):
+            line, next_line = script[i], script[i + 1]
 
-        name = clean_name(name, NAME_DICT)
-        if not name:
-            continue
+            if line_type(line, 30):
+                name = clean_name(line, NAME_DICT)
+                if not name or name == "FADE OUT":
+                    continue
+                f.write(name + "\t")
 
-        dialogue = re.sub(r"[\(\[].*?[\)\]]", "", dialogue).strip()
-        write_dialogue(lambda x: not x.strip(), next_line,
-                       name + "\t" + dialogue, f)
-
-    elif line and line_type(line, 0):
-        write_dialogue(lambda x: not x.strip() or not line_type(x, 0),
-                       next_line, line, f)
-
-f.close()
-
-
-# Star Wars Episode VI: Return of the Jedi-----------------------------------#
-script = read_script('EpisodeVI_script.txt')
-f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeVI_dialogues.tsv', 'w')
-
-for i in range(70, len(script) - 1):
-    line, next_line = script[i], script[i + 1]
-
-    if line_type(line, 30):
-        name = clean_name(line, NAME_DICT)
-        if not name or name == "FADE OUT":
-            continue
-        f.write(name + "\t")
-
-    elif line_type(line, 15):
-        write_dialogue(lambda x: not x.strip(), next_line, line, f)
-
-f.close()
+            elif line_type(line, 15):
+                write_dialogue(lambda x: not x.strip(), next_line, line, f)
 
 
-# Star Wars Episode III: Revenge of the Sith---------------------------------#
-script = read_script('EpisodeIII_script.txt')
-f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeIII_dialogues.tsv', 'w')
-
-for line in script:
-    if ":" in line and len(line) == len(line.lstrip()):
-        name, dialogue = line.split(":", 1)
-        name = clean_name(name, NAME_DICT)
-        f.write(name.strip() + "\t" +
-                re.sub(r"[\(\[].*?[\)\]]", "", dialogue).strip() + "\n")
-
-f.close()
+    # Star Wars Episode III: Revenge of the Sith-----------------------------#
+    script = read_script('EpisodeIII_script.txt')
+    with open(generate_dialogue_path('EpisodeIII_script.txt'), 'w') as f:
+        for line in script:
+            if ":" in line and len(line) == len(line.lstrip()):
+                name, dialogue = line.split(":", 1)
+                name = clean_name(name, NAME_DICT)
+                f.write(name.strip() + "\t" + \
+                    re.sub(r"[\(\[].*?[\)\]]", "", dialogue).strip() + "\n")
 
 
-# Star Wars Episode II: Attack of the Clones---------------------------------#
-script = read_script('EpisodeII_script.txt', encoding='utf-8')
-f = open('[Star-Wars-Chat-Bot]data/Dialogues/EpisodeII_dialogues.tsv', 'w',
-         encoding='utf-8')
+    # Star Wars Episode II: Attack of the Clones-----------------------------#
+    script = read_script('EpisodeII_script.txt', encoding='utf-8')
+    with open(generate_dialogue_path('EpisodeII_script.txt'), 'w',
+              encoding='utf-8') as f:
+        for i in range(30, len(script) - 1):
+            line, next_line = script[i], script[i + 1]
 
-for i in range(30, len(script) - 1):
-    line, next_line = script[i], script[i + 1]
+            if line_type(line, 16) and ("(") not in line:
+                name = clean_name(line, NAME_DICT)
+                if not name:
+                    continue
+                f.write(name + "\t")
 
-    if line_type(line, 16) and ("(") not in line:
-        name = clean_name(line, NAME_DICT)
-        if not name:
-            continue
-        f.write(name + "\t")
+            elif line_type(line, 12):
+                write_dialogue(lambda x: not x.strip(), next_line, line, f)
 
-    elif line_type(line, 12):
-        write_dialogue(lambda x: not x.strip(), next_line, line, f)
 
-f.close()
+#----------------------------------------------------------------------------#
+if __name__ == "__main__":
+    go()

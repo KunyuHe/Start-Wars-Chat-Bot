@@ -20,26 +20,52 @@ import pytest
 import os
 import re
 
-from etl_get_scripts_bs4 import go as scripts_go
 from os import listdir, R_OK, access
 from os.path import getsize, isfile
+from etl_get_scripts_bs4 import go as scripts_go
+from etl_get_dialogues import go as dialogues_go
 
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
 
 
-# Test Scripts---------------------------------------------------------------#
-def test_scripts_go(dir=SCRIPTS_DIR):
+#----------------------------------------------------------------------------#
+def check_file(file_name, extension, directory=SCRIPTS_DIR):
     """
-    Test whether a script text file contains anything and is readable.
+    Check whether a file is in the right format, contains at least some
+    information, and is readable.
+
+    Inputs:
+        - file_name (string): name of the file 
+        - extension (string): e.g. ".txt"
+        - dir (string): path to the directory where the file is
+
+    Returns:
+        (None) make assertions if any condition fails
+    """
+    full_path = directory + file_name
+    assert file_name.endswith(extension)
+    assert getsize(full_path) > 0
+    assert isfile(full_path) and access(full_path, R_OK)
+
+
+# Test Scripts---------------------------------------------------------------#
+def test_scripts_accessible(directory=SCRIPTS_DIR):
+    """
+    Test whether the scripts files are accessible for further anaylysis.
     """
     scripts_go()
 
-    for file_name in listdir(SCRIPTS_DIR):
-        full_path = SCRIPTS_DIR + file_name
-        assert file_name.endswith(".txt")
-        assert getsize(full_path) > 0
-        assert isfile(full_path) and access(full_path, R_OK)
+    for file_name in listdir(directory):
+        check_file(file_name, ".txt", directory)
 
 
 # Test Dialogues-------------------------------------------------------------#
+def test_dialogues_accessible(directory=DIALOGUES_DIR):
+    """
+    Test whether the dialogues files are accessible for further anaylysis.
+    """
+    dialogues_go()
+
+    for file_name in listdir(directory):
+        check_file(file_name, ".tsv", directory)
