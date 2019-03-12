@@ -16,10 +16,6 @@ Author:      Kunyu He
 """
 
 
-import pytest
-import os
-import re
-
 from os import listdir, R_OK, access, system
 from os.path import getsize, isfile
 
@@ -34,7 +30,7 @@ def check_file(file_name, extension, directory=SCRIPTS_DIR):
     information, and is readable.
 
     Inputs:
-        - file_name (string): name of the file 
+        - file_name (string): name of the file
         - extension (string): e.g. ".txt"
         - dir (string): path to the directory where the file is
 
@@ -42,9 +38,9 @@ def check_file(file_name, extension, directory=SCRIPTS_DIR):
         (None) make assertions if any condition fails
     """
     full_path = directory + file_name
-    assert file_name.endswith(extension)
-    assert getsize(full_path) > 0
-    assert isfile(full_path) and access(full_path, R_OK)
+    if not all([file_name.endswith(extension), getsize(full_path) > 0,
+                isfile(full_path), access(full_path, R_OK)]):
+        raise AssertionError()
 
 
 # Test Scripts---------------------------------------------------------------#
