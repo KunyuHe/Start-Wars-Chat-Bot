@@ -52,8 +52,6 @@ def test_scripts_accessible(directory=SCRIPTS_DIR):
     """
     Test whether the scripts files are accessible for further anaylysis.
     """
-    system("python etl_get_scripts_bs4.py")
-
     for file_name in listdir(directory):
         check_file(file_name, ".txt", directory)
 
@@ -63,7 +61,10 @@ def test_dialogues_accessible(directory=DIALOGUES_DIR):
     """
     Test whether the dialogues files are accessible for further anaylysis.
     """
-    system("python etl_get_dialogues.py")
-
     for file_name in listdir(directory):
         check_file(file_name, ".tsv", directory)
+
+
+#----------------------------------------------------------------------------#
+system("python etl_get_dialogues.py")
+system("python etl_get_scripts_bs4.py")
