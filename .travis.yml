@@ -1,11 +1,20 @@
+env:
+  global:
+    - CC_TEST_REPORTER_ID=69049fa50b1c81652a1ebbec0e157a86bbb66e9d5b2522a96a241b70955be8a4
 language: python
 python:
   - "3.6"
 install:
   - pip install -r requirements.txt
   - "pip install pylint"
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
 script:
   - pytest
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
 after_success:
   - pylint --output-format=html pylint_server > /tmp/pylint-report.html
   - curl -v -m 120 -X POST -F travis-job-id=$TRAVIS_JOB_ID -F pylint-report=@/tmp/pylint-report.html https://pylint.whatever.com/reports
