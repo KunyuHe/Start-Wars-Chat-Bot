@@ -132,11 +132,8 @@ def write_dialogue(condition, cond_line, write_line, file):
         file.write(write_line.strip() + " ")
 
 
-def go():
-    """
-    Parse the script text files and get the dialogues into .tsv format.
-    """
-    # Star Wars Episode IV: A New Hope---------------------------------------#
+#----------------------------------------------------------------------------#
+if __name__ == "__main__":
     script = read_script('EpisodeIV_script.txt')
     with open(generate_dialogue_path('EpisodeIV_script.txt'), 'w') as f:
         for i in range(50, len(script) - 1):
@@ -217,8 +214,3 @@ def go():
 
             elif line_type(line, 12):
                 write_dialogue(lambda x: not x.strip(), next_line, line, f)
-
-
-#----------------------------------------------------------------------------#
-if __name__ == "__main__":
-    go()

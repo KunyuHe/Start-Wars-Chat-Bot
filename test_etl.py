@@ -20,10 +20,8 @@ import pytest
 import os
 import re
 
-from os import listdir, R_OK, access
+from os import listdir, R_OK, access, system
 from os.path import getsize, isfile
-from etl_get_scripts_bs4 import go as scripts_go
-from etl_get_dialogues import go as dialogues_go
 
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
@@ -54,7 +52,7 @@ def test_scripts_accessible(directory=SCRIPTS_DIR):
     """
     Test whether the scripts files are accessible for further anaylysis.
     """
-    scripts_go()
+    system("python etl_get_scripts_bs4.py")
 
     for file_name in listdir(directory):
         check_file(file_name, ".txt", directory)
@@ -65,7 +63,7 @@ def test_dialogues_accessible(directory=DIALOGUES_DIR):
     """
     Test whether the dialogues files are accessible for further anaylysis.
     """
-    dialogues_go()
+    system("python etl_get_dialogues.py")
 
     for file_name in listdir(directory):
         check_file(file_name, ".tsv", directory)
