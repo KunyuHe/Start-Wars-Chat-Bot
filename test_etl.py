@@ -21,26 +21,24 @@ import pytest
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
 
-SCRIPTS = [file for file in os.listdir(SCRIPTS_DIR)]
-DIALOGUES = [file for file in os.listdir(DIALOGUES_DIR)]
+TEST_ACCESS = [(SCRIPTS_DIR + f, None) for f in os.listdir(SCRIPTS_DIR)] + \
+    [(None, DIALOGUES_DIR + f) for f in os.listdir(DIALOGUES_DIR)]
 
 
 #----------------------------------------------------------------------------#
-def check_file(file_name, extension, directory):
+def check_file(full_path, extension):
     """
     Check whether a file is in the right format, contains at least some
     information, and is readable.
 
     Inputs:
-        - file_name (string): name of the file
+        - full_path (string): path to the file
         - extension (string): e.g. ".txt"
-        - dir (string): path to the directory where the file is
 
     Returns:
         (None) make assertions if any condition fails
     """
-    full_path = directory + file_name
-    if not file_name.endswith(extension):
+    if not full_path.endswith(extension):
         raise AssertionError()
     if not os.path.getsize(full_path) > 0:
         raise AssertionError()
@@ -48,19 +46,13 @@ def check_file(file_name, extension, directory):
         raise AssertionError()
 
 
-# Test Scripts---------------------------------------------------------------#
-@pytest.mark.parametrize("script", SCRIPTS)
-def test_script_accessible(script, directory=SCRIPTS_DIR):
+#----------------------------------------------------------------------------#
+@pytest.mark.parametrize("script,dialogue", TEST_ACCESS)
+def test_file_accessible(script, dialogue):
     """
-    Test whether the scripts files are accessible for further anaylysis.
+    Test whether the data files are accessible for further anaylysis.
     """
-    check_file(script, ".txt", directory)
-
-
-# Test Dialogues-------------------------------------------------------------#
-@pytest.mark.parametrize("dialogue", DIALOGUES)
-def test_dialogues_accessible(dialogue, directory=DIALOGUES_DIR):
-    """
-    Test whether the dialogues files are accessible for further anaylysis.
-    """
-    check_file(dialogue, ".tsv", directory)
+    if script:
+        check_file(script, ".txt")
+    if dialogue:
+        check_file(dialogue, ".tsv")
