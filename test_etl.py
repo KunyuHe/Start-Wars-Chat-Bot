@@ -15,16 +15,18 @@ Tested Files:
 Author:      Kunyu He
 """
 
-
-from os import listdir, R_OK, access, system
-from os.path import getsize, isfile
+import os
+import pytest
 
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
 
+SCRIPTS = [file for file in os.listdir(SCRIPTS_DIR)]
+DIALOGUES = [file for file in os.listdir(DIALOGUES_DIR)]
+
 
 #----------------------------------------------------------------------------#
-def check_file(file_name, extension, directory=SCRIPTS_DIR):
+def check_file(file_name, extension, directory):
     """
     Check whether a file is in the right format, contains at least some
     information, and is readable.
@@ -38,29 +40,27 @@ def check_file(file_name, extension, directory=SCRIPTS_DIR):
         (None) make assertions if any condition fails
     """
     full_path = directory + file_name
-    if not all([file_name.endswith(extension), getsize(full_path) > 0,
-                isfile(full_path), access(full_path, R_OK)]):
+    if not file_name.endswith(extension):
+        raise AssertionError()
+    if not os.path.getsize(full_path) > 0:
+        raise AssertionError()
+    if not os.path.isfile(full_path) and os.access(full_path, os.R_OK):
         raise AssertionError()
 
 
 # Test Scripts---------------------------------------------------------------#
-def test_scripts_accessible(directory=SCRIPTS_DIR):
+@pytest.mark.parametrize("script", SCRIPTS)
+def test_script_accessible(script, directory=SCRIPTS_DIR):
     """
     Test whether the scripts files are accessible for further anaylysis.
     """
-    for file_name in listdir(directory):
-        check_file(file_name, ".txt", directory)
+    check_file(script, ".txt", directory)
 
 
 # Test Dialogues-------------------------------------------------------------#
-def test_dialogues_accessible(directory=DIALOGUES_DIR):
+@pytest.mark.parametrize("dialogue", DIALOGUES)
+def test_dialogues_accessible(dialogue, directory=DIALOGUES_DIR):
     """
     Test whether the dialogues files are accessible for further anaylysis.
     """
-    for file_name in listdir(directory):
-        check_file(file_name, ".tsv", directory)
-
-
-#----------------------------------------------------------------------------#
-system("python etl_get_dialogues.py")
-system("python etl_get_scripts_bs4.py")
+    check_file(dialogue, ".tsv", directory)
