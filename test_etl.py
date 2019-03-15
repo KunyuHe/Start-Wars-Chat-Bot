@@ -56,3 +56,6 @@ def test_file_accessible(script, dialogue):
         check_file(script, ".txt")
     if dialogue:
         check_file(dialogue, ".tsv")
+
+
+def test_dialogues(dialogue)

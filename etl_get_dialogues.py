@@ -198,10 +198,10 @@ with open(generate_dialogue_path('EpisodeIII_script.txt'), 'w') as f:
 
 # Star Wars Episode II: Attack of the Clones---------------------------------#
 script = read_script('EpisodeII_script.txt', encoding='utf-8')
-with open(generate_dialogue_path('EpisodeII_script.txt'), 'w',
-          encoding='utf-8') as f:
+with open(generate_dialogue_path('EpisodeII_script.txt'), 'w') as f:
     for i in range(30, len(script) - 1):
         line, next_line = script[i], script[i + 1]
+        line = line.replace("\xe9", "e").replace("’", "'").replace("‘", "'")
 
         if line_type(line, 16) and ("(") not in line:
             name = clean_name(line, NAME_DICT)
