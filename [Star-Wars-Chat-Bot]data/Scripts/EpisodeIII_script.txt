@@ -230,7 +230,7 @@ ANAKIN and OBI-WAN break right and left, and the missiles follow them. ANAKIN do
 
 OBI-WAN: They overshot us . . .
 
-The second missile streaks next to Obi-Wan¡¯s Fighter and EXPLODES. Obi-Wan's ship rocks, and R-4, SCREAMS as the Starfighter rips through the explosion. Debris flies all around them.
+The second missile streaks next to Obi-Wan's Fighter and EXPLODES. Obi-Wan's ship rocks, and R-4, SCREAMS as the Starfighter rips through the explosion. Debris flies all around them.
 
 ANAKIN: They're coming around!
 
@@ -264,7 +264,7 @@ ANAKIN: Move to the right so I can get a clear shot at them.
 
 OBI-WAN: The mission. Get to the Command Ship. Get the Chancellor! I'm running out of tricks here.
 
-ANAKIN moves into position just off Obi-Wan's left side and angles his ship so his guns are pointing at the DROIDS crawling over Obi-Wan¡¯s Starfighter. ANAKIN fires and vaporizes the TWO BUZZ DROIDS, along with the left wing of Obi-Wan's ship.
+ANAKIN moves into position just off Obi-Wan's left side and angles his ship so his guns are pointing at the DROIDS crawling over Obi-Wan's Starfighter. ANAKIN fires and vaporizes the TWO BUZZ DROIDS, along with the left wing of Obi-Wan's ship.
 
 OBI-WAN: (continuing) In the name of ...
 
@@ -638,7 +638,7 @@ ANAKIN and COUNT DOOKU move up the stairs. As they reach the upper landing of th
 ANAKIN hits the archway.
 DOOKU sends OBI-WAN flying. The Jedi tumbles to the lower level unconscious. COUNT DOOKU spins around again and, using the Force, causes a section of the balcony to drop onto OBI-WAN. ANAKIN spins and kicks COUNT DOOKU, sending him over the balcony. ANAKIN Jumps, following him down to the main floor. COUNT DOOKU and ANAKIN continue the fight.
 
-COUNT DOOKU: (continuing) I sense great fear in you, Skywalker. You have hate, you have anger, but you don¡¯t use them.
+COUNT DOOKU: (continuing) I sense great fear in you, Skywalker. You have hate, you have anger, but you don't use them.
 
 Anakin regains his composure and attacks COUNT DOOKU as the Dark Lord continues his spin to meet him head on. Their fighting becomes even more intense.
 Anakin attacks COUNT DOOKU with a new ferociousness.
@@ -2128,7 +2128,7 @@ TlON MEDON: There is no war here unless you've brought it with you.
 
 OBI-WAN: With your kind permission, I should like some fuel and to use your city as a base as I search nearby systems for General Grievous.
 
-A GROUND CREW rushes out and refuels Obi-Wan¡¯s Fighter. TION MEDON leans close to OBI-WAN and speaks quietly.
+A GROUND CREW rushes out and refuels Obi-Wan's Fighter. TION MEDON leans close to OBI-WAN and speaks quietly.
 
 TlON MEDON: He is here! We are being held hostage. They are watching us.
 
@@ -2500,7 +2500,7 @@ FOUR JEDI exit the SHUTTLE and enter the Senate Office Building. MACE WINDU, AGE
 
 The FOUR JEDI enter the lobby, raising their arms, and send the Chancellor's aide, DAR WAC, flying against the wall, along with TWO REPUBLIC GUARDS. They storm into the Chancellor's office.
 
-128 INT. CORUSCANT-CHANCELLOR¡¯S OFFICE-EARLY EVENING
+128 INT. CORUSCANT-CHANCELLOR'S OFFICE-EARLY EVENING
 
 MACE arrives with THREE JEDI to arrest PALPATINE.
 
@@ -2947,7 +2947,7 @@ OBI-WAN: Senator Organa! My Clone Troops turned on me ... I need help.
 
 BAIL ORGANA: We have just rescued Master Yoda. It appears this ambush has happened everywhere. We're sending you our coordinates.
 
-161 INT. CORUSCANT-PADME¡¯SAPARTMENT-PRE-DAWN
+161 INT. CORUSCANT-PADME'SAPARTMENT-PRE-DAWN
 
 PADME stands before the window of her living room, watching the plume of smoke from the Jedi Temple. C-3PO enters from the bedroom.
 
@@ -3655,7 +3655,7 @@ ANAKIN: Don't make me destroy you, Master. You're no match for the dark side.
 
 OBI-WAN: I've heard that before, Anakin . . . but I never thought I'd hear it from you.
 
-ANAKIN forces OBI-WAN back into the Conference Room where the quarters are much closer. Sparks fly everywhere. ANAKIN jumps onto the conference table. OBI-WAN slides across the table, knocking ANAKIN over. OBI-WAN grabs ANAKIN¡¯s lightsaber as he falls. OBI-WAN uses the Force to summon his dropped lightsaber. ANAKIN does the same.
+ANAKIN forces OBI-WAN back into the Conference Room where the quarters are much closer. Sparks fly everywhere. ANAKIN jumps onto the conference table. OBI-WAN slides across the table, knocking ANAKIN over. OBI-WAN grabs ANAKIN's lightsaber as he falls. OBI-WAN uses the Force to summon his dropped lightsaber. ANAKIN does the same.
 
 201 INT. CORUSCANT-SENATE CHAMBER-MAIN ARENA-NIGHT
 
@@ -4086,13 +4086,13 @@ IRIS OUT. END TITLES.
 
 
    
-	
-	Star Wars: Revenge of the Sith
-	    Writers :   George Lucas
-    	Genres :   Sci-Fi  Adventure  Action  Fantasy
-		
-		User Comments
-	
+    
+    Star Wars: Revenge of the Sith
+        Writers :   George Lucas
+        Genres :   Sci-Fi  Adventure  Action  Fantasy
+        
+        User Comments
+    
 
 
 
