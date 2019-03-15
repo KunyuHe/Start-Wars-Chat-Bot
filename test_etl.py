@@ -67,6 +67,6 @@ def test_dialogues(dialogue):
     Test whether the .tsv dialogue files contain two columns for each row and
     are ready for further analysis.  
     """
-    data = pd.read_csv(dialogue, delimiter="\t", header=None, encoding='utf-8')
+    data = pd.read_csv(dialogue, delimiter="\t", header=None, encoding='gbk')
     if any(data.isnull().sum(axis=1) != 0):
         raise AssertionError()
