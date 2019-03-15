@@ -259,7 +259,7 @@ LANDO	I'm surprised they didn't ask you to do it.
 HAN	Well, who says they didn't.  But I ain't crazy. You're the respectable one, remember?
 MON MOTHMA	The Emperor has made a critical error and the time for our attack has come.
 MON MOTHMA	The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station. We also know that the weapon systems of this Death Star are not yet operational. With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected. But most important of all, we've learned that the Emperor himself is personally overseeing the final stages of the construction of this Death Star.
-MON	Many Bothans died to bring us this information. Admiral Ackbar, please.
+MON MOTHMA	Many Bothans died to bring us this information. Admiral Ackbar, please.
 ACKBAR	You can see here the Death Star orbiting the forest Moon of Endor. Although the weapon systems on this Death Star are not yet operational, the Death Star does have a strong defense mechanism. It is protected by an energy shield, which is generated from the nearby forest Moon of Endor. The shield must be deactivated if any attack is to be attempted. Once the shield is down, our cruisers will create a perimeter, while the fighters fly into the superstructure and attempt to knock out the main reactor.
 ACKBAR	General Calrissian has volunteered to lead the fighter attack
 HAN	Good luck.
@@ -314,7 +314,7 @@ LUKE	I'm endangering the mission. I shouldn't have come.
 HAN	It's your imagination, kid. Come on. Let's keep a little optimism here.
 VADER	Where is that shuttle going?
 PIETT	Shuttle Tydirium, what is your cargo and destination?
-PILOT	Parts and technical crew for the forest moon.
+PILOT VOICE	Parts and technical crew for the forest moon.
 VADER	Do they have a code clearance?
 PIETT	It's an older code, sir, but it checks out. I was about to clear them.
 PIETT	Shall I hold them?
@@ -537,7 +537,7 @@ WEDGE	Lock S-foils in attack positions.
 ACKBAR	May the Force be with us.
 LANDO	We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming.
 LANDO	Break off the attack! The shield is still up.
-RED	I get no reading. Are you sure?
+RED LEADER	I get no reading. Are you sure?
 LANDO	Pull up! All craft pull up!
 ACKBAR	Take evasive action! Green Group, stick close to holding sector MV-7.
 CONTROLLER	Admiral, we have enemy ships in sector 47.
