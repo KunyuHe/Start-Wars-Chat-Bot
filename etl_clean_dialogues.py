@@ -23,6 +23,16 @@ OUTPUT_DIR = "[Star-Wars-Chat-Bot]data/CleanDialogues/"
 #----------------------------------------------------------------------------#
 def process_data_chunk(chunk, file):
     """
+    Given a chunk of dataframe (dialogues between two ===\t===), combines
+    characters words until the character changes and writes the processed
+    dialogues to a cleaned dialogue file.
+
+    Inputs:
+        - chunk (pandas.DataFrame): a chunk of dialogue data
+        - file (string): name of data source (the dialogue file)
+
+    Returns:
+        (None) append to the output file
     """
     chunk['Continues'] = chunk.Char.shift() == chunk.Char
     clean_lst = []
@@ -40,6 +50,16 @@ def process_data_chunk(chunk, file):
 
 def clean_dialogue(file):
     """
+    Given the name of a dialogue file, reads in the dialogues as a dataframe,
+    gets rids of consecutive duplicate separators ("===\t===") first, and
+    divide the original dataframe into data chunks. Process the dialogues in
+    each chunk and append to the output file chunk by chunk.
+
+    Inputs:
+        - file (string): name of data source (the dialogue file)
+
+    Returns:
+        (None) append to the output file chunk by chunk
     """
     data = pd.read_csv(DIALOGUES_DIR + file, delimiter="\t", header=None,
                        encoding='gbk')
@@ -60,13 +80,21 @@ def clean_dialogue(file):
 
 def clear_output_directory(path=OUTPUT_DIR):
     """
+    As we append cleaned dialogues chunk by chunk to the output file,
+    everytime before data cleaning, deletes all the files in the output
+    directory.
+
+    Inputs:
+        - path (string): path to the output directory
+
+    Returns:
+        (None) wipe out all the files in the output directory
     """
     for file in os.listdir(path):
         os.remove(path + file)
 
 #----------------------------------------------------------------------------#
-files = os.listdir(DIALOGUES_DIR)
 clear_output_directory()
 
-for file in files:
-    clean_dialogue(file)
+for dialogue_file in os.listdir(DIALOGUES_DIR):
+    clean_dialogue(dialogue_file)
