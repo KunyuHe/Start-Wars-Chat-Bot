@@ -17,12 +17,18 @@ Author:      Kunyu He
 
 import os
 import pytest
+import subprocess
+import pandas as pd
 
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
 
+TEST_ETL_SCRIPTS = [file for file in os.listdir() if file.startswith("etl_")]
+
 TEST_ACCESS = [(SCRIPTS_DIR + f, None) for f in os.listdir(SCRIPTS_DIR)] + \
     [(None, DIALOGUES_DIR + f) for f in os.listdir(DIALOGUES_DIR)]
+
+TEST_DIALOGUES = [DIALOGUES_DIR + f for f in os.listdir(DIALOGUES_DIR)]
 
 
 #----------------------------------------------------------------------------#
@@ -47,6 +53,15 @@ def check_file(full_path, extension):
 
 
 #----------------------------------------------------------------------------#
+@pytest.mark.parametrize("etl_script", TEST_ETL_SCRIPTS)
+def test_etl_script(etl_script):
+    """
+    Test whether the etl python sxcripts run well.
+    """
+    if subprocess.call("python " + etl_script, shell=True) != 0:
+        raise AssertionError()
+
+
 @pytest.mark.parametrize("script,dialogue", TEST_ACCESS)
 def test_file_accessible(script, dialogue):
     """
@@ -58,4 +73,12 @@ def test_file_accessible(script, dialogue):
         check_file(dialogue, ".tsv")
 
 
-def test_dialogues(dialogue)
+@pytest.mark.parametrize("dialogue", TEST_DIALOGUES)
+def test_dialogues(dialogue):
+    """
+    Test whether the .tsv dialogue files contain two columns for each row and
+    are ready for further analysis.  
+    """
+    data = pd.read_csv(dialogue, delimiter="\t", header=None, encoding='gbk')
+    if any(data.isnull().sum(axis=1) != 0):
+        raise AssertionError()

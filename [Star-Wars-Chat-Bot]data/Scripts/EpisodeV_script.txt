@@ -1544,7 +1544,7 @@ THREEPIO: But...but...but...where are you going? Uh...come back!!
 INTERIOR: HOTH -- REBEL BASE -- COMMAND CENTER
 
            Imperial troops have reached the base. As they push through
-the blocked passageway, Darth Vader strides behind them.
+           the blocked passageway, Darth Vader strides behind them.
 
 INTERIOR: HOTH -- REBEL BASE -- ICE CORRIDOR
 
@@ -3972,7 +3972,7 @@ LANDO: They'll have to stay here, but at least they'll be safe.
 
 LEIA: What about Han?
 
-LANDO Vader's giving him to the bounty hunter.
+LANDO: Vader's giving him to the bounty hunter.
 
 LEIA: Vader wants us all dead.
 

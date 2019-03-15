@@ -142,6 +142,7 @@
                               JERJERROD
                I tell you, this station will be operational
                as planned.
+
                               VADER
                The Emperor does not share your
                optimistic appraisal of the situation.
@@ -152,6 +153,7 @@
                               VADER
                Then perhaps you can tell him when he
                arrives.
+
                               JERJERROD (aghast)
                The Emperor's coming here?
 
@@ -1765,8 +1767,8 @@
      A new look of concern crosses Yoda's face.  He closes his eyes.
 
                               YODA
-               Unexpected this is, and unfortunate..
-.
+               Unexpected this is, and unfortunate...
+
                               LUKE
                Unfortunate that I know the truth?
 

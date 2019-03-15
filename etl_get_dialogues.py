@@ -39,20 +39,18 @@ NAME_DICT = {'CREATURE': "YODA",
 
 
 #----------------------------------------------------------------------------#
-def read_script(name, encoding=None):
+def read_script(name):
     """
     Given name of the script file, reads it with assigned encoding method and
     returns a list of lines in the script with newline char removed.
 
     Inputs:
-        name (string): name and extension of the script text file
-        encoding (string): encoding method of the script file, i.e. 'gbk'
+        - name (string): name and extension of the script text file
 
     Outputs:
         (list of strings) of lines in the script with newline char removed
     """
-    with open(SCRIPTS_DIR + name, 'r',
-              encoding=encoding) as f:
+    with open(SCRIPTS_DIR + name, 'r') as f:
         return [line.rstrip("\n") for line in f.readlines()]
 
 
@@ -85,10 +83,10 @@ def clean_name(line, name_party_line=NAME_DICT):
     """
     name = line.strip()
     if "'S" in name:
-        name = re.search(r"^[A-Z0-9\s]+[^']", name).group().strip()
+        name = re.search(r"^[A-Z0-9&\s-]+[^']", name).group().strip()
 
     if "(" in name:
-        name = re.search(r"[\w]+[^(]", name).group().strip()
+        name = re.search(r"[A-Z0-9\s-]+[^(]", name).group().strip()
     name = name_party_line.get(name, name)
 
     name = re.search(r"^[A-Z0-9&\s-]+[^a-z#]", name)
@@ -177,7 +175,7 @@ with open(generate_dialogue_path('EpisodeVI_script.txt'), 'w') as f:
     for i in range(70, len(script) - 1):
         line, next_line = script[i], script[i + 1]
 
-        if line_type(line, 30):
+        if line_type(line, 30) and not re.search(r"^\(", line.lstrip()):
             name = clean_name(line, NAME_DICT)
             if name and name != "FADE OUT":
                 f.write(name + "\t")
@@ -189,7 +187,7 @@ with open(generate_dialogue_path('EpisodeVI_script.txt'), 'w') as f:
 script = read_script('EpisodeIII_script.txt')
 with open(generate_dialogue_path('EpisodeIII_script.txt'), 'w') as f:
     for line in script:
-        if ":" in line and len(line) == len(line.lstrip()):
+        if ":" in line and line_type(line, 0) and line[-1] != ":":
             name, dialogue = line.split(":", 1)
             name = clean_name(name, NAME_DICT)
             f.write(name.strip() + "\t" + \
@@ -197,13 +195,12 @@ with open(generate_dialogue_path('EpisodeIII_script.txt'), 'w') as f:
 
 
 # Star Wars Episode II: Attack of the Clones---------------------------------#
-script = read_script('EpisodeII_script.txt', encoding='utf-8')
+script = read_script('EpisodeII_script.txt')
 with open(generate_dialogue_path('EpisodeII_script.txt'), 'w') as f:
     for i in range(30, len(script) - 1):
         line, next_line = script[i], script[i + 1]
-        line = line.replace("\xe9", "e").replace("’", "'").replace("‘", "'")
 
-        if line_type(line, 16) and ("(") not in line:
+        if line_type(line, 16) and not re.search(r"^\(", line.lstrip()):
             name = clean_name(line, NAME_DICT)
             if name:
                 f.write(name + "\t")
