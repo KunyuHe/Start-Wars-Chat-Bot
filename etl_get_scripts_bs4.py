@@ -1,5 +1,5 @@
 """
-Title:       get_scripts_bs4.py
+Title:       etl_get_scripts_bs4.py
 Description: To get Star Wars scripts from `https://www.imsdb.com/scripts/`
              with bs4 and save them into .txt files
 Input file:  None -> Output file: ([Star-Wars-Chat-Bot]data/Scripts/..):
@@ -14,7 +14,7 @@ import bs4
 from functools import reduce
 
 REPLACE = [("\xa0", " "), ("\t", "    "), ("\xe9", "e"), ('\xc9', "E"),
-           ("’", "'"), ("‘", "'"), ("\xa6", " ")]
+           ("’", "'"), ("‘", "'")]
 
 
 #----------------------------------------------------------------------------#
