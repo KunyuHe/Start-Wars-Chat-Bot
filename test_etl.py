@@ -17,13 +17,10 @@ Author:      Kunyu He
 
 import os
 import pytest
-import subprocess
 import pandas as pd
 
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
-
-TEST_ETL_SCRIPTS = [file for file in os.listdir() if file.startswith("etl_")]
 
 TEST_ACCESS = [(SCRIPTS_DIR + f, None) for f in os.listdir(SCRIPTS_DIR)] + \
     [(None, DIALOGUES_DIR + f) for f in os.listdir(DIALOGUES_DIR)]
@@ -53,15 +50,6 @@ def check_file(full_path, extension):
 
 
 #----------------------------------------------------------------------------#
-@pytest.mark.parametrize("etl_script", TEST_ETL_SCRIPTS)
-def test_etl_script(etl_script):
-    """
-    Test whether the etl python sxcripts run well.
-    """
-    if subprocess.call("python " + etl_script, shell=True) != 0:
-        raise AssertionError()
-
-
 @pytest.mark.parametrize("script,dialogue", TEST_ACCESS)
 def test_file_accessible(script, dialogue):
     """
