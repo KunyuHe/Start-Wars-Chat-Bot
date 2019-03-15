@@ -1,12 +1,4 @@
-<HTML>
-<HEAD>
 
-<TITLE>Star Wars VI : Return Of The Jedi</TITLE>
-
-
-</HEAD>
-<body bgcolor=#000000 text=#ffffff link=#ff0000 vlink=#808080 alink=#ff8000>
-<PRE><b>
 
 
 
@@ -5010,15 +5002,3 @@
                               FADE OUT
 
                      END CREDITS OVER STAR FIELD
-
-
-
-<CENTER>
-<font size=+3>THE END</font><br><br><Br>
-</pre></b>
-<HR WIDTH=75% ALIGN=CENTER>
-Found on <a href= http://inflow.corky.net/scripts>INFlow Screenplay Repository</a>
-</body>
-</HTML>
-
-  
