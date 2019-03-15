@@ -11,8 +11,8 @@ Output file: ([Star-Wars-Chat-Bot]data/CleanDialogues/..):
 Author:      Kunyu He
 """
 
-import pandas as pd
 import os
+import pandas as pd
 
 HEADERS = ["Char", "Dial"]
 

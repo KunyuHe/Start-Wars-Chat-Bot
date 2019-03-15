@@ -8,10 +8,10 @@ Input file:  None -> Output file: ([Star-Wars-Chat-Bot]data/Scripts/..):
 Author:      Kunyu He
 """
 
+from functools import reduce
+
 import requests
 import bs4
-
-from functools import reduce
 
 REPLACE = [("\xa0", " "), ("\t", "    "), ("\xe9", "e"), ('\xc9', "E"),
            ("’", "'"), ("‘", "'")]

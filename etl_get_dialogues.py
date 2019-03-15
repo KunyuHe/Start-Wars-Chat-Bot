@@ -13,7 +13,6 @@ Author:      Kunyu He
 """
 # pylint: disable=redefined-outer-name, invalid-name, dangerous-default-value
 
-
 import re
 
 SCRIPTS_DIR = "[Star-Wars-Chat-Bot]data/Scripts/"
