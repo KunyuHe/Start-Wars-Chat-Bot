@@ -35,7 +35,6 @@ def get_character_dials(chunk, characters):
         (None) append to corresponding output file
     """
     for character in characters:
-        target = []
         with open(OUTPUT_DIR + character + "_dial.txt", 'a') as f:
             for index, char in chunk.Char.iteritems():
                 if char == character and index >= 1:
