@@ -18,7 +18,7 @@ All logos, characters, artwork, stories, information, names, and other elements 
 Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/network/dependencies). To download them, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
 
 ```(bash)
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Prepare & Customize Data
@@ -32,3 +32,12 @@ The ETL (Extract-Transform-Load) process is executed by the following python scr
 * `etl_clean_dialogues.py`: clean the dialogue files by combining consecutive sentences by the same character within each scene and store the cleaned dialogue files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/CleanDialogues).
 
 * `etl_get_character_dialogues.py`: get dialogues that the characters of interest are involved and store the output [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/ByCharacter).
+
+If you want to execute these python scripts manually, note that you have to run them in the specific order and no further arguments are needed. Or you can run the prepared shell script with:
+
+```(bash)
+$ chmod u+x run_etl.sh
+$ run_etl.sh
+```
+
+If you want to customize and train your JediChat based on dialogues of a character that's not pre-included, you need to customize input data for training. You can do that by modifying the list `CHARS` (of pre-included characters) in the `etl_get_character_dialogues.py` script. Include the character of your choice at the end of the list and run the shell script again.
