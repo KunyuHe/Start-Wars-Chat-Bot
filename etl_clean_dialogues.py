@@ -50,13 +50,14 @@ def clean_dialogue_chunk(chunk, file):
 
 def process_dialogues(fn, arg, data):
     """
-    Given the name of a dialogue file, reads in the dialogues as a dataframe,
-    gets rids of consecutive duplicate separators ("===\t===") first, and
-    divide the original dataframe into data chunks. Process the dialogues in
-    each chunk and append to the output file chunk by chunk.
+    Divide the original dataframe into data chunks and use the given function
+    to process the dialogues and append the results to the output file chunk
+    by chunk.
 
     Inputs:
-        - file (string): name of data source (the dialogue file)
+        - fn (function): function to process the chunk of dataframe
+        - arg: argument for the function (can be list)
+        - data (pandas.DataFrame): dialogue data read from .tsv file
 
     Returns:
         (None) append to the output file chunk by chunk
@@ -91,9 +92,9 @@ def clear_output_directory(path=OUTPUT_DIR):
 clear_output_directory()
 
 for dialogue_file in os.listdir(DIALOGUES_DIR):
-    data = pd.read_csv(DIALOGUES_DIR + dialogue_file, delimiter="\t",
-                       header=None, encoding='gbk')
-    data.columns = HEADERS
-    data = data[data.Dial.shift() != data.Dial]
+    data_df = pd.read_csv(DIALOGUES_DIR + dialogue_file, delimiter="\t",
+                          header=None, encoding='gbk')
+    data_df.columns = HEADERS
+    data_df = data_df[data_df.Dial.shift() != data_df.Dial]
 
-    process_dialogues(clean_dialogue_chunk, dialogue_file, data)
+    process_dialogues(clean_dialogue_chunk, dialogue_file, data_df)
