@@ -9,7 +9,7 @@ If you want to further customize JediChat or include another character that you 
 
 ## Setup
 
-To download the dependencies, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
+Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/network/dependencies). To download them, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
 
 ```(bash)
 pip install -r requirements.txt
