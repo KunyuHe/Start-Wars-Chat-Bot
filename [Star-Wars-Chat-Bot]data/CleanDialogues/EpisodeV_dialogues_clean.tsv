@@ -141,11 +141,11 @@ OZZEL	We have thousands of probe droids searching the galaxy. I want proof, not 
 PIETT	The visuals indicate life readings.
 OZZEL	It could mean anything. If we followed every lead...
 PIETT	But, sir, the Hoth system is supposed to be devoid of human forms.
-VADER	You found something?
+ANAKIN	You found something?
 PIETT	Yes, my lord.
-VADER	That's it. The Rebels are there.
+ANAKIN	That's it. The Rebels are there.
 OZZEL	My lord, there are so many uncharted settlements. It could be smugglers, it could be...
-VADER	That is the system. And I'm sure Skywalker is with them. Set your course for the Hoth system. General Veers, prepare you men.
+ANAKIN	That is the system. And I'm sure Skywalker is with them. Set your course for the Hoth system. General Veers, prepare you men.
 ===	===
 REBEL CAPTAIN	Groups seven and ten will stay behind to fly the speeders. As soon as each transport is loaded, evacuation control will give clearance for immediate launch.
 REBEL FIGHTER	Right, sir.
@@ -166,16 +166,16 @@ LUKE	You, too.
 CONTROLLER	General, there's a fleet of Star Destroyers coming out of hyperspace in sector four.
 RIEEKAN	Reroute all power to the energy shield. We've got to hold them till all transports are away. Prepare for ground assault.
 ===	===
-VADER	What is it, General?
+ANAKIN	What is it, General?
 VEERS	My lord, the fleet has moves out of light-speed. Com-Scan has detected an energy field protecting an area around the sixth planet of the Hoth system. The field is strong enough to deflect any bombardment.
-VADER	The Rebels are alerted to our presence. Admiral Ozzel came out of light-speed too close to the system.
+ANAKIN	The Rebels are alerted to our presence. Admiral Ozzel came out of light-speed too close to the system.
 VEERS	He felt surprise was wiser...
-VADER	He is as clumsy as he is stupid. General, prepare your troops for a surface attack.
+ANAKIN	He is as clumsy as he is stupid. General, prepare your troops for a surface attack.
 VEERS	Yes, my lord.
 OZZEL	Lord Vader, the fleet has moved out of light-speed, and we're preparing to...Aaagh!
-VADER	You have failed me for the last time, Admiral. Captain Piett.
+ANAKIN	You have failed me for the last time, Admiral. Captain Piett.
 PIETT	Yes, my lord.
-VADER	Make ready to land out troops beyond the energy shield and deploy the fleet so that nothing gets off that system. You are in command now, Admiral Piett.
+ANAKIN	Make ready to land out troops beyond the energy shield and deploy the fleet so that nothing gets off that system. You are in command now, Admiral Piett.
 PIETT	Thank you, Lord Vader.
 ===	===
 LEIA	All troop carriers will assemble at the north entrance. The heavy transport ships will leave as soon as they're loaded. Only two fighter escorts per ship. The energy shield can only be opened for a short time, so you'll have to stay very close to your transports.
@@ -369,9 +369,9 @@ LUKE	I know, I know! All the scopes are dead. I can't see a thing! Just hang on,
 ===	===
 LUKE	No, Artoo, you stay put. I'll have a look around. Artoo? Artoo! Where are you? Artoo! You be more careful. Artoo -- that way! Artoo! Oh, no! Are you all right? Come on. You're lucky you don't taste very good. Anything broken? If you're saying coming here was a bad idea, I'm beginning to agree with you. Oh, Artoo, what are we doing here? It's like... something out of a dream, or, I don't know. Maybe I'm just going crazy.
 ===	===
-VADER	Yes, Admiral?
+ANAKIN	Yes, Admiral?
 PIETT	Our ships have sighted the Millennium Falcon, lord. But...it has entered an asteroid field and we cannot risk...
-VADER	Asteroids do not concern me, Admiral. I want that ship and not excuses.
+ANAKIN	Asteroids do not concern me, Admiral. I want that ship and not excuses.
 PIETT	Yes, lord.
 ===	===
 HAN	I'm going to shut down everything but the emergency power systems.
@@ -441,24 +441,24 @@ HAN	Thank you. Thank you very much.
 C-3PO	Oh, you're perfectly welcome, sir.
 ===	===
 NEEDA	...and that, Lord Vader, was the last time they appeared in any of our scopes. Considering the amount of damage we've sustained, they must have been destroyed.
-VADER	No, Captain, they're alive. I want every ship available to sweep the asteroid field until they are found.
+ANAKIN	No, Captain, they're alive. I want every ship available to sweep the asteroid field until they are found.
 PIETT	Lord Vader.
-VADER	Yes, Admiral, what is it?
+ANAKIN	Yes, Admiral, what is it?
 PIETT	The Emperor commands you make contact with him.
-VADER	Move the ship out of the asteroid field so that we can send a clear transmission.
+ANAKIN	Move the ship out of the asteroid field so that we can send a clear transmission.
 PIETT	Yes, my lord.
 ===	===
-VADER	What is thy bidding, my master?
+ANAKIN	What is thy bidding, my master?
 DARTH SIDIOUS	There is a great disturbance in the Force.
-VADER	I have felt it.
+ANAKIN	I have felt it.
 DARTH SIDIOUS	We have a new enemy -- Luke Skywalker.
-VADER	Yes, my master.
+ANAKIN	Yes, my master.
 DARTH SIDIOUS	He could destroy us.
-VADER	He's just a boy. Obi-Wan can no longer help him.
+ANAKIN	He's just a boy. Obi-Wan can no longer help him.
 DARTH SIDIOUS	The Force is strong with him. The son of Skywalker must not become a Jedi.
-VADER	If he could be turned, he would become a powerful ally.
+ANAKIN	If he could be turned, he would become a powerful ally.
 DARTH SIDIOUS	Yes. Yes. He would be a great asset. Can it be done?
-VADER	He will join us or die, my master.
+ANAKIN	He will join us or die, my master.
 ===	===
 LUKE	Look, I'm sure it's delicious. I just don't understand why we can't see Yoda now.
 YODA	Patience! For the Jedi it is time to eat as well. Eat, eat. Hot. Good food, hm? Good, hmm?
@@ -533,7 +533,7 @@ FIRST CONTROLLER	Yes, sir.
 PIETT	Those Rebels won't escape us.
 SECOND CONTROLLER	Sir, we have a priority signal from the Star Destroyer Avenger.
 PIETT	Right.
-VADER	...there will be a substantial reward for the one who finds the Millennium Falcon. You are free to use any methods necessary, but I want them alive. No disintegrations.
+ANAKIN	...there will be a substantial reward for the one who finds the Millennium Falcon. You are free to use any methods necessary, but I want them alive. No disintegrations.
 BOBA FETT	As you wish.
 PIETT	Lord Vader! My lord, we have them.
 ===	===
@@ -568,11 +568,11 @@ YODA	Size matters not. Look at me. Judge me by my size, do you? Hm? Mmmm. And we
 LUKE	You want the impossible. I don't...I don't believe it.
 YODA	That is why you fail.
 ===	===
-VADER	Apology accepted, Captain Needa.
+ANAKIN	Apology accepted, Captain Needa.
 PIETT	Lord Vader, our ships have completed their scan of the area and found nothing. If the Millennium Falcon went into light-speed, it'll be on the other side of the galaxy by now.
-VADER	Alert all commands. Calculate every possible destination along their last know trajectory.
+ANAKIN	Alert all commands. Calculate every possible destination along their last know trajectory.
 PIETT	Yes, my lord. We'll find them.
-VADER	Don't fail me again, Admiral.
+ANAKIN	Don't fail me again, Admiral.
 PIETT	Alert all commands. Deploy the fleet.
 ===	===
 C-3PO	Captain Solo, this time you have gone too far. (Chewie growls) No, I will not be quiet, Chewbacca. Why doesn't anyone listen to me?
@@ -711,7 +711,7 @@ LANDO	No, not actually. Our operation is small enough not to be noticed...which 
 HAN	Aren't you afraid the Empire's going to find out about this little operation and shut you down?
 LANDO	That's always been a danger looming like a shadow over everything we've built here. But things have developed that will insure security. I've just made a deal that will keep the Empire out of here forever.
 ===	===
-VADER	We would be honored if you would join us.
+ANAKIN	We would be honored if you would join us.
 LANDO	I had no choice. They arrived right before you did. I'm sorry.
 HAN	I'm sorry, too.
 ===	===
@@ -720,15 +720,15 @@ LUKE	No, Threepio's with them. Just hang on. We're almost there.
 C-3PO	Mmmm. Oh, my. Uh, I, uh -- Take this off! I, uh, don't mean to intrude here. I, don't, no, no, no...Please don't get up. No! Stormtroopers? Here? We're in danger. I must tell the others. Oh, no! I've been shot!
 ===	===
 LANDO	Lord Vader.
-VADER	You may take Captain Solo to Jabba the Hut after I have Skywalker.
+ANAKIN	You may take Captain Solo to Jabba the Hut after I have Skywalker.
 BOBA FETT	He's no good to me dead.
-VADER	He will not be permanently damaged.
+ANAKIN	He will not be permanently damaged.
 LANDO	Lord Vader, what about Leia and the Wookiee?
-VADER	They must never again leave this city.
+ANAKIN	They must never again leave this city.
 LANDO	That was never a condition of our agreement, nor was giving Han to this bounty hunter!
-VADER	Perhaps you think you're being treated unfairly.
+ANAKIN	Perhaps you think you're being treated unfairly.
 LANDO	No.
-VADER	Good. It would be unfortunate if I had to leave a garrison here.
+ANAKIN	Good. It would be unfortunate if I had to leave a garrison here.
 LANDO	This deal's getting worse all the time.
 ===	===
 C-3PO	Oh, yes, that's very good. I like that. Oh! Something's not right because now I can't see. Wait. Wait! Oh, my! what have you done? I'm backwards, you stupid furball. Only an overgrown mophead like you would be stupid enough...
@@ -753,17 +753,17 @@ LANDO	Stop! I've done all I can do. I'm sorry I couldn't do better, but I have m
 HAN	Yeah, you're a real hero.
 LEIA	You certainly have a way with people.
 ===	===
-VADER	This facility is crude, but it should be adequate to freeze Skywalker for his journey to the Emperor.
+ANAKIN	This facility is crude, but it should be adequate to freeze Skywalker for his journey to the Emperor.
 IMPERIAL SOLDIER	Lord Vader, ship approaching. X-wing class.
-VADER	Good. Monitor Skywalker and allow him to land.
+ANAKIN	Good. Monitor Skywalker and allow him to land.
 LANDO	Lord Vader, we only use this facility for carbon freezing. If you put him in there, it might kill him.
-VADER	I do not want the Emperor's prize damaged. We will test it...on Captain Solo.
+ANAKIN	I do not want the Emperor's prize damaged. We will test it...on Captain Solo.
 ===	===
 C-3PO	If only you had attached my legs, I wouldn't be in this ridiculous position. Now, remember, Chewbacca, you have a responsibility to me, so don't do anything foolish.
 HAN	What's going on...buddy?
 LANDO	You're being put into carbon freeze.
 BOBA FETT	What if he doesn't survive? He's worth a lot to me.
-VADER	The Empire will compensate you if he dies. Put him in!
+ANAKIN	The Empire will compensate you if he dies. Put him in!
 C-3PO	Oh, no! No, no, no! Stop, Chewbacca, stop...!
 HAN	Stop, Chewie, stop! Do you hear me? Stop!
 C-3PO	Yes, stop, please! I'm not ready to die.
@@ -771,17 +771,17 @@ HAN	Chewie! Chewie, this won't help me. Hey! Save your strength. There'll be ano
 LEIA	I love you!
 HAN	I know.
 C-3PO	What...what's going on? Turn around, Chewbacca, I can't see. Oh...they've encased him in carbonite. He should be quite well-protected -- if he survives the freezing process, that is.
-VADER	Well, Calrissian, did he survive?
+ANAKIN	Well, Calrissian, did he survive?
 LANDO	Yes, he's alive. And in perfect hibernation.
-VADER	He's all yours bounty hunter. Reset the chamber for Skywalker.
+ANAKIN	He's all yours bounty hunter. Reset the chamber for Skywalker.
 IMPERIAL OFFICER	Skywalker has just landed, my lord.
-VADER	Good. See to it that he finds his way here. Calrissian, take the princess and the Wookiee to my ship.
+ANAKIN	Good. See to it that he finds his way here. Calrissian, take the princess and the Wookiee to my ship.
 LANDO	You said they'd be left in the city under my supervision.
-VADER	I am altering the deal. Pray I don't alter it any further.
+ANAKIN	I am altering the deal. Pray I don't alter it any further.
 ===	===
 LEIA	Luke! Luke, don't -- it's a trap! It's a trap!
 ===	===
-VADER	The Force is with you, young Skywalker. But you are not a Jedi yet.
+ANAKIN	The Force is with you, young Skywalker. But you are not a Jedi yet.
 ===	===
 LANDO	Well done. Hold them in the security tower -- and keep it quiet. Move.
 LEIA	What do you think you're doing?
@@ -806,11 +806,11 @@ C-3PO	Artoo! Artoo! Where have you been? Turn around, you wooly...!  Hurry, hurr
 ===	===
 C-3PO	Oh, no! Chewie, they're behind you!
 ===	===
-VADER	You have learned much, young one.
+ANAKIN	You have learned much, young one.
 LUKE	You'll find I'm full of surprises.
-VADER	Your destiny lies with me, Skywalker. Obi-Wan knew this to be true.
+ANAKIN	Your destiny lies with me, Skywalker. Obi-Wan knew this to be true.
 LUKE	No!
-VADER	All to easy. Perhaps you are not as strong as the Emperor thought. Impressive...most impressive. Obi-Wan has taught you well. You have controlled your fear... now release your anger. Only your hatred can destroy me.
+ANAKIN	All to easy. Perhaps you are not as strong as the Emperor thought. Impressive...most impressive. Obi-Wan has taught you well. You have controlled your fear... now release your anger. Only your hatred can destroy me.
 ===	===
 LANDO	The security codes has been changed!
 C-3PO	Artoo, you can tell the computer to override the security system.
@@ -824,15 +824,15 @@ LANDO	Leia! Go!
 ===	===
 C-3PO	I thought that hairy beast would be the end of me. Of course, I've looked better.
 ===	===
-VADER	You are beaten. It is useless to resist. Don't let yourself be destroyed as Obi-Wan did. There is no escape. Don't make me destroy you. You do not yet realize your importance. You have only begun to discover you power. Join me and I will complete your training. With our combined strength, we can end this destructive conflict and bring order to the galaxy.
+ANAKIN	You are beaten. It is useless to resist. Don't let yourself be destroyed as Obi-Wan did. There is no escape. Don't make me destroy you. You do not yet realize your importance. You have only begun to discover you power. Join me and I will complete your training. With our combined strength, we can end this destructive conflict and bring order to the galaxy.
 LUKE	I'll never join you!
-VADER	If you only knew the power of the dark side. Obi-Wan never told you what happened to your father.
+ANAKIN	If you only knew the power of the dark side. Obi-Wan never told you what happened to your father.
 LUKE	He told me enough! He told me you killed him.
-VADER	No. I am your father.
+ANAKIN	No. I am your father.
 LUKE	No. No. That's not true! That's impossible!
-VADER	Search your feelings. You know it to be true.
+ANAKIN	Search your feelings. You know it to be true.
 LUKE	No! No! No!
-VADER	Luke. You can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and we can rule the galaxy as father and son. Come with me. It's the only way.
+ANAKIN	Luke. You can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and we can rule the galaxy as father and son. Come with me. It's the only way.
 ===	===
 LUKE	Ben...Ben, please! Ben. Leia! Hear me! Leia!
 ===	===
@@ -843,7 +843,7 @@ LANDO	But what about those fighter?
 LEIA	Chewie, just do it.
 LANDO	But what about Vader? All right, all right, all right.
 ===	===
-VADER	Bring my shuttle.
+ANAKIN	Bring my shuttle.
 ===	===
 LANDO	Look, someone's up there.
 LEIA	It's Luke. Chewie, slow down. Slow down and we'll get under him. Lando, open the top hatch.
@@ -864,18 +864,18 @@ LEIA	If your people fixed the hyperdrive. All the coordinates are set. It's now 
 LANDO	Punch it! They told me they fixed it. I trusted them to fix it. It's not my fault!
 ===	===
 PIETT	They'll be in range of our tractor beam in moments, lord.
-VADER	Did your men deactivate the hyperdrive on the Millennium Falcon?
+ANAKIN	Did your men deactivate the hyperdrive on the Millennium Falcon?
 PIETT	Yes, my lord.
-VADER	Good. Prepare the boarding party and set for your weapons for stun.
+ANAKIN	Good. Prepare the boarding party and set for your weapons for stun.
 PIETT	Yes, my lord.
 ===	===
 C-3PO	Noisy brute. Why don't we just go into light-speed? We can't? How would you know the hyperdrive is deactivated? The city's central computer told you? Artoo-Detoo, you know better than to trust a strange computer. Ouch! Pay attention to what you're doing!
 ===	===
-VADER	Luke.
+ANAKIN	Luke.
 ===	===
 LUKE	Father.
 ===	===
-VADER	Son, come with me.
+ANAKIN	Son, come with me.
 ===	===
 LUKE	Ben, why didn't you tell me?
 ===	===
@@ -883,7 +883,7 @@ LANDO	Chewie!
 ===	===
 LUKE	It's Vader.
 ===	===
-VADER	Luke...it is your destiny.
+ANAKIN	Luke...it is your destiny.
 ===	===
 LUKE	Ben, why didn't you tell me?
 ===	===

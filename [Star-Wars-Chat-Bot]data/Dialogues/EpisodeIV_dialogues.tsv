@@ -16,10 +16,10 @@ C-3PO	They're heading in this direction. What are we going to do?  We'll be sent
 C-3PO	Wait a minute, where are you going?
 ===	===
 IMPERIAL OFFICER	The Death Star plans are not in the main computer.
-VADER	Where are those transmissions you intercepted?
+ANAKIN	Where are those transmissions you intercepted?
 REBEL OFFICER	We intercepted no transmissions. Aaah...  This is a consular ship. Were on a diplomatic mission.
-VADER	If this is a consular ship... where is the Ambassador?
-VADER	Commander, tear this ship apart until you've found those plans and bring me the Ambassador.  I want her alive!
+ANAKIN	If this is a consular ship... where is the Ambassador?
+ANAKIN	Commander, tear this ship apart until you've found those plans and bring me the Ambassador.  I want her alive!
 ===	===
 TROOPER	There she is! Set for stun!
 TROOPER	She'll be all right. Inform Lord Vader we have a prisoner.
@@ -56,15 +56,15 @@ CAMIE	Don't worry about it, Wormie.
 FIXER	I keep telling you, the Rebellion is a long way from here.  I doubt if the Empire would even fight to keep this system.  Believe me Luke, this planet is a big hunk of nothing...
 ===	===
 LEIA	Lord Vader, I should have known. Only you could be so bold.  The Imperial Senate will not sit still for this, when they hear you've attacked a diplomatic...
-VADER	Don't play games with me, Your Highness.  You weren't on any mercy mission this time.  You passed directly through a restricted system.  Several transmissions were beamed to this ship by Rebel spies. I want to know what happened to the plans they sent you.
+ANAKIN	Don't play games with me, Your Highness.  You weren't on any mercy mission this time.  You passed directly through a restricted system.  Several transmissions were beamed to this ship by Rebel spies. I want to know what happened to the plans they sent you.
 LEIA	I don't know what you're talking about.  I'm a member of the Imperial Senate on a diplomatic mission to Alderaan...
-VADER	You're a part of the Rebel Alliance ... and a traitor.  Take her away!
+ANAKIN	You're a part of the Rebel Alliance ... and a traitor.  Take her away!
 COMMANDER	Holding her is dangerous.  If word of this gets out, it could generate sympathy for the Rebellion in the senate.
-VADER	I have traced the Rebel spies to her.  Now she is my only link to find their secret base!
+ANAKIN	I have traced the Rebel spies to her.  Now she is my only link to find their secret base!
 COMMANDER	She'll die before sheÕll tell you anything.
-VADER	Leave that to me.  Send a distress signal and then inform the senate that all aboard were killed!
+ANAKIN	Leave that to me.  Send a distress signal and then inform the senate that all aboard were killed!
 SECOND OFFICER	Lord Vader, the battle station plans are not aboard this ship! And no transmissions were made. An escape pod was jettisoned during the fighting, but no life forms were aboard.
-VADER	She must have hidden the plans in the escape pod.  Send a detachment down to retrieve them.  See to it personally, Commander.  There'll be no one to stop us this time.
+ANAKIN	She must have hidden the plans in the escape pod.  Send a detachment down to retrieve them.  See to it personally, Commander.  There'll be no one to stop us this time.
 COMMANDER	Yes, sir.
 ===	===
 ===	===
@@ -331,13 +331,13 @@ TARKIN	The Imperial Senate will no longer be of any concern to us.  I've just re
 TAGGE	That's impossible!  How will the Emperor maintain control without the bureaucracy?
 TARKIN	The regional governors now have direct control over territories. Fear will keep the local systems in line.  Fear of this battle station.
 TAGGE	And what of the Rebellion?  If the Rebels have obtained a complete technical readout of this station, it is possible, however unlikely, that they might find a weakness and exploit it.
-VADER	The plans you refer to will soon be back in our hands.
+ANAKIN	The plans you refer to will soon be back in our hands.
 MOTTI	Any attack made by the Rebels against this station would be a useless gesture, no matter what technical data they've obtained. This station is now the ultimate power in the universe.  I suggest we use it!
-VADER	Don't be too proud of this technological terror you've constructed.  The ability to destroy a planet is insignificant next to the power of the Force.
+ANAKIN	Don't be too proud of this technological terror you've constructed.  The ability to destroy a planet is insignificant next to the power of the Force.
 MOTTI	Don't try to frighten us with your sorcerer's ways, Lord Vader.  Your sad devotion to that ancient religion has not helped you conjure up the stolen data tapes, or given you clairvoyance enough to find the Rebel's hidden fort...
-VADER	I find your lack of faith disturbing.
+ANAKIN	I find your lack of faith disturbing.
 TARKIN	Enough of this!  Vader, release him!
-VADER	As you wish.
+ANAKIN	As you wish.
 TARKIN	This bickering is pointless. Lord Vader will provide us with the location of the Rebel fortress by the time this station is operational.  We will then crush the Rebellion with one swift stroke.
 ===	===
 LUKE	It looks like Sand People did this, all right.  Look, here are gaffi sticks, bantha tracks.  It's just... I never heard of them hitting anything this big before.
@@ -352,7 +352,7 @@ OBI-WAN	Wait, Luke!  It's too dangerous.
 LUKE	Uncle Owen!  Aunt Beru!  Uncle Owen!
 ===	===
 ===	===
-VADER	And, now Your Highness, we will discuss the location of your hidden Rebel base.
+ANAKIN	And, now Your Highness, we will discuss the location of your hidden Rebel base.
 ===	===
 OBI-WAN	There's nothing you could have done, Luke, had you been there. You'd have been killed, too, and the droids would now be in the hands of the Empire.
 LUKE	I want to come with you to Alderaan. There's nothing here for me now.  I want to learn the ways of the Force and become a Jedi like my father.
@@ -437,10 +437,10 @@ HAN	Yes, I'll bet you have.
 HAN	Sorry about the mess.
 ===	===
 ===	===
-VADER	Her resistance to the mind probe is considerable.  It will be some time before we can extract any information from her.
+ANAKIN	Her resistance to the mind probe is considerable.  It will be some time before we can extract any information from her.
 IMPERIAL OFFICER	The final check-out is complete. All systems are operational. What course shall we set?
 TARKIN	Perhaps she would respond to an alternative form of persuasion.
-VADER	What do you mean?
+ANAKIN	What do you mean?
 TARKIN	I think it is time we demonstrate the full power of this station. Set your course for Princess Leia's home planet of Alderaan.
 TROOPER	With pleasure.
 ===	===
@@ -520,7 +520,7 @@ LEIA	What?
 TARKIN	You're far too trusting.  Dantooine is too remote to make an effective demonstration.  But don't worry. We will deal with your Rebel friends soon enough.
 LEIA	No!
 ===	===
-VADER	Commence primary ignition.
+ANAKIN	Commence primary ignition.
 ===	===
 LUKE	Are you all right?  What's wrong?
 OBI-WAN	I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror and were suddenly silenced.  I fear something terrible has happened.
@@ -557,7 +557,7 @@ OBI-WAN	That's good.  You have taken your first step into a larger world.
 TARKIN	Yes.
 OFFICER CASS	Our scout ships have reached Dantooine.  They found the remains of a Rebel base, but they estimate that it has been deserted for some time.  They are now conducting an extensive search of the surrounding systems.
 TARKIN	She lied!  She lied to us!
-VADER	I told you she would never consciously betray the Rebellion.
+ANAKIN	I told you she would never consciously betray the Rebellion.
 TARKIN	Terminate her... immediately!
 ===	===
 ===	===
@@ -613,15 +613,15 @@ OFFICER	Close all outboard shields! Close all outboard shields!
 ===	===
 TARKIN	Yes.
 VOICE	We've captured a freighter entering the remains of the Alderaan system. It's markings match those of a ship that blasted its way out of Mos Eisley.
-VADER	They must be trying to return the stolen plans to the princess.  She may yet be of some use to us.
+ANAKIN	They must be trying to return the stolen plans to the princess.  She may yet be of some use to us.
 ===	===
 VOICE	Unlock one-five-seven and nine. Release charges.
 OFFICER	There's no one on board, sir. According to the log, the crew abandoned ship right after takeoff. It must be a decoy, sir.  Several of the escape pods have been jettisoned.
-VADER	Did you find any droids?
+ANAKIN	Did you find any droids?
 OFFICER	No, sir.  If there were any on board, they must also have jettisoned.
-VADER	Send a scanning crew on board. I want every part of this ship checked.
+ANAKIN	Send a scanning crew on board. I want every part of this ship checked.
 OFFICER	Yes, sir.
-VADER	I sense something... a presence I haven't felt since...
+ANAKIN	I sense something... a presence I haven't felt since...
 OFFICER	Get me a scanning crew in here on the double.  I want every part of this ship checked!
 ===	===
 LUKE	Boy, it's lucky you had these compartments.
@@ -723,18 +723,18 @@ LUKE	I'm here to rescue you.  I've got your R2 unit.  I'm here with Ben Kenobi.
 LEIA	Ben Kenobi is here!  Where is he?
 LUKE	Come on!
 ===	===
-VADER	He is here...
+ANAKIN	He is here...
 TARKIN	Obi-Wan Kenobi!  What makes you think so?
-VADER	A tremor in the Force.  The last time I felt it was in the presence of my old master.
+ANAKIN	A tremor in the Force.  The last time I felt it was in the presence of my old master.
 TARKIN	Surely he must be dead by now.
-VADER	Don't underestimate the Force.
+ANAKIN	Don't underestimate the Force.
 TARKIN	The Jedi are extinct, their fire has gone out of the universe. You, my friend, are all that's left of their religion.
 TARKIN	Yes.
 INTERCOM VOICE	Governor Tarkin, we have an emergency alert in detention block AA-twenty-three.
 TARKIN	The princess!  Put all sections on alert!
-VADER	Obi-Wan is here.  The Force is with him.
+ANAKIN	Obi-Wan is here.  The Force is with him.
 TARKIN	If you're right, he must not be allowed to escape.
-VADER	Escape may not his plan.  I must face him alone.
+ANAKIN	Escape may not his plan.  I must face him alone.
 ===	===
 HAN	Chewie!
 HAN	Get behind me!  Get behind me!
@@ -878,10 +878,10 @@ C-3PO	Where could they be?
 TROOPER	Close the blast doors!
 TROOPER	Open the blast doors!  Open the blast doors!
 ===	===
-VADER	I've been waiting for you, Obi-Wan. We meet again, at last.  The circle is now complete.
-VADER	When I left you, I was but the learner; now I am the master.
+ANAKIN	I've been waiting for you, Obi-Wan. We meet again, at last.  The circle is now complete.
+ANAKIN	When I left you, I was but the learner; now I am the master.
 OBI-WAN	Only a master of evil, Darth.
-VADER	Your powers are weak, old man.
+ANAKIN	Your powers are weak, old man.
 OBI-WAN	You can't win, Darth.  If you strike me down, I shall become more powerful than you can possibly imagine.
 ===	===
 HAN	Didn't we just leave this party?
@@ -966,7 +966,7 @@ C-3PO	Help!  I think I'm melting! This is all your fault.
 ===	===
 ===	===
 TARKIN	Are they away?
-VADER	They have just made the jump into hyperspace.
+ANAKIN	They have just made the jump into hyperspace.
 TARKIN	You're sure the homing beacon is secure aboard their ship?  I'm taking an awful risk, Vader.  This had better work.
 ===	===
 HAN	Not a bad bit of rescuing, huh? You know, sometimes I even amaze myself.
@@ -1011,7 +1011,7 @@ DODONNA	Man your ships!  And may the Force be with you!
 ===	===
 ===	===
 DEATH STAR INTERCOM VOICE	Orbiting the planet at maximum velocity.  The moon with the Rebel base will be in range in thirty minutes.
-VADER	This will be a day long remembered. It has seen the end of Kenobi and it will soon see the end of the Rebellion.
+ANAKIN	This will be a day long remembered. It has seen the end of Kenobi and it will soon see the end of the Rebellion.
 ===	===
 MAN	All flight troops, man your stations. All flight troops, man your stations.
 LUKE	So... you got your reward and you're just leaving then?
@@ -1109,7 +1109,7 @@ LUKE	I got a little cooked, but I'm okay.
 ===	===
 ===	===
 ASTRO-OFFICER	We count thirty Rebel ships, Lord Vader.  But they're so small they're evading our turbo-lasers!
-VADER	We'll have to destroy them ship to ship.  Get the crews to their fighters.
+ANAKIN	We'll have to destroy them ship to ship.  Get the crews to their fighters.
 ===	===
 ===	===
 RED LEADER	Luke, let me know when you're going in.
@@ -1146,7 +1146,7 @@ LUKE	Hang on, Biggs, I'm coming in.
 ===	===
 LUKE	Got him!
 ===	===
-VADER	Several fighters have broken off from the main group.  Come with me!
+ANAKIN	Several fighters have broken off from the main group.  Come with me!
 ===	===
 BIGGS	Pull in!  Luke... pull in!
 WEDGE	Watch your back, Luke!
@@ -1189,7 +1189,7 @@ GOLD LEADER	... This is Gold Leader.  We're starting out attack run.
 RED LEADER	I copy, Gold Leader.  Move into position.
 ===	===
 ===	===
-VADER	Stay in attack formation!
+ANAKIN	Stay in attack formation!
 ===	===
 GOLD LEADER	The exhaust post is...
 ===	===
@@ -1218,7 +1218,7 @@ GOLD FIVE	Stabilize your rear deflectors. Watch for enemy fighters.
 GOLD LEADER	They've coming in!  Three marks at two ten.
 ===	===
 ===	===
-VADER	I'll take them myself!  Cover me!
+ANAKIN	I'll take them myself!  Cover me!
 WINGMAN	Yes, sir.
 ===	===
 ===	===
@@ -1293,7 +1293,7 @@ RED LEADER	I'm in range.
 RED LEADER	Target's coming up!
 RED LEADER	Just hold them off for a few seconds.
 ===	===
-VADER	Close up formation.
+ANAKIN	Close up formation.
 ===	===
 ===	===
 RED LEADER	Almost there!
@@ -1376,7 +1376,7 @@ LUKE	You can't do any more good back there!
 WEDGE	Sorry!
 ===	===
 ===	===
-VADER	Let him go!  Stay on the leader!
+ANAKIN	Let him go!  Stay on the leader!
 ===	===
 ===	===
 BIGGS	Hurry, Luke, they're coming in much faster this time. I can't hold them!
@@ -1400,7 +1400,7 @@ BIGGS	Wait!
 ===	===
 DEATH STAR INTERCOM VOICE	Rebel base, thirty seconds and closing.
 ===	===
-VADER	I'm on the leader.
+ANAKIN	I'm on the leader.
 ===	===
 ===	===
 C-3PO	Hang on, Artoo!
@@ -1416,7 +1416,7 @@ OBI-WAN	Use the Force, Luke.
 OBI-WAN	Let go, Luke.
 ===	===
 ===	===
-VADER	The Force is strong with this one!
+ANAKIN	The Force is strong with this one!
 ===	===
 ===	===
 OBI-WAN	Luke, trust me.
@@ -1443,11 +1443,11 @@ DEATH STAR INTERCOM VOICE	Commence primary ignition.
 ===	===
 ===	===
 ===	===
-VADER	I have you now.
+ANAKIN	I have you now.
 ===	===
 ===	===
 ===	===
-VADER	What?
+ANAKIN	What?
 ===	===
 ===	===
 HAN	Yahoo!

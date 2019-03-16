@@ -16,7 +16,7 @@ INPUT_DIR = "[Star-Wars-Chat-Bot]data/CleanDialogues/"
 OUTPUT_DIR = "[Star-Wars-Chat-Bot]data/ByCharacter/"
 
 HEADERS = ["Char", "Dial"]
-CHARS = ["YODA", "LUKE", "C-3PO", "HAN", "LEIA", "PADME", "OBI-WAN"]
+CHARS = ["YODA", "LUKE", "C-3PO", "HAN", "LEIA", "PADME", "OBI-WAN", "ANAKIN"]
 
 
 #----------------------------------------------------------------------------#
@@ -34,9 +34,13 @@ def get_character_dials(chunk, characters):
         (None) append to corresponding output file
     """
     for character in characters:
-        if character in set(chunk.Char.values):
+        target = []
+        for index, char in chunk.Char.iteritems():
+            if char == character and index >= 1:
+                target.extend([index - 1, index])
+        if target:
             with open(OUTPUT_DIR + character + "_dial.tsv", 'a') as f:
-                chunk.to_csv(f, sep="\t", header=False, index=False)
+                chunk.iloc[target].to_csv(f, sep="\t", header=False, index=False)
                 f.write("===\t===\n")
 
 

@@ -6,17 +6,17 @@ OFFICER	Inform the commander that Lord Vader's shuttle has arrived.
 OPERATOR	Yes, sir.
 ===	===
 JERJERROD	Lord Vader, this is an unexpected pleasure. We're honored by your presence.
-VADER	You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.
+ANAKIN	You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.
 JERJERROD	I assure you, Lord Vader, my men are working as fast as they can.
-VADER	Perhaps I can find new ways to motivate them.
+ANAKIN	Perhaps I can find new ways to motivate them.
 JERJERROD	I tell you, this station will be operational as planned.
-VADER	The Emperor does not share your optimistic appraisal of the situation.
+ANAKIN	The Emperor does not share your optimistic appraisal of the situation.
 JERJERROD	But he asks the impossible. I need more men.
-VADER	Then perhaps you can tell him when he arrives.
+ANAKIN	Then perhaps you can tell him when he arrives.
 JERJERROD	The Emperor's coming here?
-VADER	That is correct, Commander. And he is most displeased with your apparent lack of progress.
+ANAKIN	That is correct, Commander. And he is most displeased with your apparent lack of progress.
 JERJERROD	We shall double our efforts.
-VADER	I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.
+ANAKIN	I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.
 ===	===
 C-3PO	Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place. Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, You'd probably short-circuit. Artoo, are you sure this is the right place? I better knock, I suppose.
 ===	===
@@ -194,11 +194,11 @@ HAN	Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.
 LUKE	That's right, Artoo. We're going to the Dagobah system. I have a promise to keep... to an old friend.
 ===	===
 DARTH SIDIOUS	Rise, my friend.
-VADER	The Death Star will be completed on schedule.
+ANAKIN	The Death Star will be completed on schedule.
 DARTH SIDIOUS	You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.
-VADER	Yes, my Master.
+ANAKIN	Yes, my Master.
 DARTH SIDIOUS	Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.
-VADER	As you wish.
+ANAKIN	As you wish.
 DARTH SIDIOUS	Everything is proceeding as I have foreseen.
 ===	===
 YODA	Hmm. That face you make. Look I so old to young eyes?
@@ -287,11 +287,11 @@ LUKE	All set.
 C-3PO	Here we go again.
 HAN	All right, hang on.
 ===	===
-VADER	What is thy bidding, my Master?
+ANAKIN	What is thy bidding, my Master?
 DARTH SIDIOUS	Send the fleet to the far side of Endor. There it will stay until called for.
-VADER	What of the reports of the Rebel fleet massing near Sullust?
+ANAKIN	What of the reports of the Rebel fleet massing near Sullust?
 DARTH SIDIOUS	It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.
-VADER	Yes, my Master.
+ANAKIN	Yes, my Master.
 ===	===
 HAN	If they don't go for this, we're gonna have to get outta here pretty quick, Chewie.
 CONTROLLER	We have you on our screen now. Please identify.
@@ -305,12 +305,12 @@ HAN	Now don't get jittery, Luke. There are a lot of command ships. Keep your dis
 LUKE	I'm endangering the mission. I shouldn't have come.
 HAN	It's your imagination, kid. Come on. Let's keep a little optimism here.
 ===	===
-VADER	Where is that shuttle going?
+ANAKIN	Where is that shuttle going?
 PIETT	Shuttle Tydirium, what is your cargo and destination?
 PILOT VOICE	Parts and technical crew for the forest moon.
-VADER	Do they have a code clearance?
+ANAKIN	Do they have a code clearance?
 PIETT	It's an older code, sir, but it checks out. I was about to clear them. Shall I hold them?
-VADER	No. Leave them to me. I will deal with them myself.
+ANAKIN	No. Leave them to me. I will deal with them myself.
 PIETT	As you wish, my lord. (to controller) Carry on.
 ===	===
 HAN	They're not goin' for it, Chewie.
@@ -346,21 +346,21 @@ SCOUT	Freeze!  Come on, get up! Go get your ride and take her back to base. Yes,
 LEIA	Come on, let's get outta here.
 ===	===
 GUARD	Halt! The Emperor does not wish to be disturbed at the moment.
-VADER	(raising his gloved hand to the two guards and choking them with the Force) The Emperor will see me, now!
+ANAKIN	(raising his gloved hand to the two guards and choking them with the Force) The Emperor will see me, now!
 GUARD	(repeating Vader's command) The Emperor will see you, now.
 ===	===
 DARTH SIDIOUS	I told you to remain on the command ship.
-VADER	A small Rebel force has penetrated the shield and landed on Endor.
+ANAKIN	A small Rebel force has penetrated the shield and landed on Endor.
 DARTH SIDIOUS	Yes, I know.
-VADER	My son is with them.
+ANAKIN	My son is with them.
 DARTH SIDIOUS	Are you sure?
-VADER	I have felt him, my Master.
+ANAKIN	I have felt him, my Master.
 DARTH SIDIOUS	Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.
-VADER	They are clear, my Master.
+ANAKIN	They are clear, my Master.
 DARTH SIDIOUS	Then you must go to the Sanctuary Moon and wait for them.
-VADER	He will come to me?
+ANAKIN	He will come to me?
 DARTH SIDIOUS	I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.
-VADER	As you wish.
+ANAKIN	As you wish.
 ===	===
 HAN	Luke! Luke!
 C-3PO	Oh, Master Luke.
@@ -409,7 +409,8 @@ HAN	Just what I always wanted. Well, short help is better than no help at all, C
 C-3PO	He says the scouts are going to show us the quickest way to the shield generator.
 HAN	Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back. And hurry up, will ya? I haven't got all day.
 ===	===
-LUKE	Luke, what's wrong? Leia... do you remember your mother? Your real mother?
+LEIA	Luke, what's wrong?
+LUKE	Leia... do you remember your mother? Your real mother?
 LEIA	Just a little bit. She died when I was very young.
 LUKE	What do you remember?
 LEIA	Just...images, really. Feelings.
@@ -442,21 +443,21 @@ HAN	Ahhh... I'm sorry.
 LEIA	Hold me.
 ===	===
 COMMANDER	This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area. He was armed only with this.
-VADER	Good work, Commander. Leave us. Conduct your search and bring his companions to me.
+ANAKIN	Good work, Commander. Leave us. Conduct your search and bring his companions to me.
 COMMANDER	Yes, my Lord.
-VADER	The Emperor has been expecting you.
+ANAKIN	The Emperor has been expecting you.
 LUKE	I know, father.
-VADER	So, you have accepted the truth.
+ANAKIN	So, you have accepted the truth.
 LUKE	I've accepted the truth that you were once Anakin Skywalker, my father.
-VADER	That name no longer has any meaning for me.
+ANAKIN	That name no longer has any meaning for me.
 LUKE	It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now.
-VADER	I see you have constructed a new lightsaber. Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen.
+ANAKIN	I see you have constructed a new lightsaber. Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen.
 LUKE	Come with me.
-VADER	Obi-Wan once thought as you do. You don't know the power of the dark side. I must obey my master.
+ANAKIN	Obi-Wan once thought as you do. You don't know the power of the dark side. I must obey my master.
 LUKE	I will not turn...and you'll be forced to kill me.
-VADER	If that is your destiny.
+ANAKIN	If that is your destiny.
 LUKE	Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate.
-VADER	It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.
+ANAKIN	It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.
 LUKE	Then my father is truly dead.
 ===	===
 LEIA	The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.
@@ -488,13 +489,13 @@ C-3PO	I have decided that we shall stay here.
 DARTH SIDIOUS	Welcome, young Skywalker. I have been expecting you. You no longer need those. Guards, leave us. I'm looking forward to completing your training. In time you will call me Master.
 LUKE	You're gravely mistaken. You won't convert me as you did my father.
 DARTH SIDIOUS	Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.
-VADER	His lightsaber.
+ANAKIN	His lightsaber.
 DARTH SIDIOUS	Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.
 LUKE	You're wrong. Soon I'll be dead...and you with me.
 DARTH SIDIOUS	Perhaps you refer to the imminent attack of your Rebel fleet. Yes...I assure you we are quite safe from your friends here.
 LUKE	Your overconfidence is your weakness.
 DARTH SIDIOUS	Your faith in your friends is yours.
-VADER	It is pointless to resist, my son.
+ANAKIN	It is pointless to resist, my son.
 DARTH SIDIOUS	Everything that has transpired has done so according to my design. (indicates Endor) Your friends up there on the Sanctuary Moon... ...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them. Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.
 ===	===
 HAN	All right! Up! Move! Come on! Quickly! Quickly, Chewie.
@@ -593,13 +594,13 @@ STORMTROOPER	Hands up! Stand up!
 HAN	Stay back. Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea.
 ===	===
 DARTH SIDIOUS	Good.  Use your aggressive feelings, boy!  Let the hate flow through you.
-VADER	Obi-Wan has taught you well.
+ANAKIN	Obi-Wan has taught you well.
 LUKE	I will not fight you, father.
-VADER	You are unwise to lower your defenses.
+ANAKIN	You are unwise to lower your defenses.
 LUKE	Your thoughts betray you, father. I feel the good in you...the conflict.
-VADER	There is no conflict.
+ANAKIN	There is no conflict.
 LUKE	You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now.
-VADER	You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.
+ANAKIN	You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.
 DARTH SIDIOUS	Good.  Good.
 ===	===
 LANDO	Watch out. Squad at .06.
@@ -613,9 +614,9 @@ SECOND COMMANDER	Yes, sir.
 ===	===
 HAN	Throw me another charge.
 ===	===
-VADER	You cannot hide forever, Luke.
+ANAKIN	You cannot hide forever, Luke.
 LUKE	I will not fight you.
-VADER	Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for... Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.
+ANAKIN	Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for... Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.
 LUKE	Never-r-r!
 DARTH SIDIOUS	Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!
 LUKE	Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.
@@ -643,10 +644,9 @@ CONTROLLER	Sir, we've lost our bridge deflector shield.
 PIETT	Intensify the forward batteries. I don't want anything to get through. Intensify forward firepower!
 COMMANDER	It's too late!
 ===	===
-VADER	Luke, help me take this mask off.
+ANAKIN	Luke, help me take this mask off.
 LURE	But you'll die.
-VADER	Nothing can stop that now. Just for once... let me look on you with my own eyes.
-ANAKIN	Now...go, my son. Leave me.
+ANAKIN	Nothing can stop that now. Just for once... let me look on you with my own eyes. Now...go, my son. Leave me.
 LUKE	No. You're coming with me. I can't leave you here. I've got to save you.
 ANAKIN	You already have, Luke. You were right about me. Tell your sister...you were right.
 LUKE	Father... I won't leave you.

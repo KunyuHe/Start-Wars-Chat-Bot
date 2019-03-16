@@ -1,7 +1,6 @@
 ANAKIN	There isn't a droid made that can out fly you, Master, and no other way to get to the Chancellor . . .
 OBI-WAN	Look out, four droids inbound . . .
 ===	===
-OBI-WAN	We've got to split them up.
 ANAKIN	Break left, fly through the guns on that tower.
 OBI-WAN	Easy for you to say . . . why am I always the bait?
 ANAKIN	Don't worry. I'm coming around behind you.
@@ -12,9 +11,7 @@ ANAKIN	Good idea ... I need some room to maneuver. Cut right. Do you hear me?! C
 OBI-WAN	Hurry up! I don't like this! Ouch! Don't even try to fix it, Arfour. I've shut it down.
 ANAKIN	We're locked on ... we've got him . . . Yeah! We got him . . . good going, Artoo.
 OBI-WAN	Next time you're the bait . . . Now let's find the Command Ship and get on with it ...
-ANAKIN	Lock onto them, Artoo. Master, General Grievous's ship is directly ahead. The one crawling with vulture droids.
 ===	===
-OBI-WAN	I see it. Oh, this is going to be easy.
 ANAKIN	Come on, Master.
 OBI-WAN	Not this time. There's too much at stake. We need help. Odd Ball, do you copy?
 ODD BALL	Copy, Red Leader.
@@ -24,7 +21,6 @@ ANAKIN	This is where the fun begins. Ten Vulture Droids straight ahead, coming d
 OBI-WAN	Add five Tri-fighters on the right . . .
 ANAKIN	I'm going head to head. See you.
 OBI-WAN	Take it easy, Anakin.
-ODD BALL	I'm on your right, Red Leader.
 ANAKIN	Incoming!!
 OBI-WAN	Five more on the right!
 ANAKIN	Here we go.
@@ -47,9 +43,6 @@ ANAKIN	Sorry, no choice. Come down here and thin them out a little.
 OBI-WAN	Just keep me steady . . . hold on ... not yet. . . now break left. You'll never get through there, Anakin. It's too tight.
 ANAKIN	Easy, Artoo . . . we've done this before.
 OBI-WAN	Use the Force, think yourself through, the ship will follow.
-ANAKIN	Wrong thought, Artoo. I'm through.
-ODD BALL	There are too many of them.
-CLONE PILOT 2	I'm on your wing. Break left. Break left. They're all over me. Get them off my . . .
 ANAKIN	I'm going to go help them out!
 OBI-WAN	No, no! They are doing their job so we can do ours. Head for the Command Ship!
 ANAKIN	Missiles! Pull up!
@@ -79,7 +72,6 @@ OBI-WAN	Have you noticed the shields are still up?
 ANAKIN	Oh?!? Sorry, Master.
 OBI-WAN	Oh, I have a bad feeling about this.
 ===	===
-OBI-WAN	Artoo, locate the Chancellor.
 ANAKIN	Tap into the ship's computers.
 OBI-WAN	The Chancellor's signal is coming from right there. The observation platform at the top of that spire.
 ANAKIN	I sense Count Dooku . . .
@@ -91,9 +83,7 @@ OBI-WAN	Here, take this, and wait for orders.
 ===	===
 BODYGUARD I	General Kenobi, Anakin Skywalker. We've been waiting for you.
 OBI-WAN	We are here to relieve you of Chancellor Palpatine, not join him. Anakin. . .
-ANAKIN	Ready.
 ===	===
-OBI-WAN	. . . fuel. The slightest charge from our sabers will send this ship into oblivion. That's why they've stopped shooting.
 ANAKIN	Well then, we're safe for the time being.
 OBI-WAN	Your idea of safe is not the same as mine.
 ANAKIN	They're sealing this section off.
@@ -102,34 +92,17 @@ ANAKIN	Keep moving. There must be vents . . . This way.
 OBI-WAN	We'll never get through that. It's too small!
 ANAKIN	I found our escape vent.
 OBI-WAN	Anakin, this is no time for jokes. We're in serious trouble here.
-ANAKIN	Only in your mind. My Master. Look, no structure. . . .
 ===	===
-OBI-WAN	That won't hold when the fuel hits those power dischargers.
 ANAKIN	The blast will break the hull. This side's pressurized.
 OBI-WAN	You still have much to learn, Anakin.
 ===	===
-OBI-WAN	All right, you win. I have much to learn. Let's go!
-===	===
-OBI-WAN	Did you press the stop button?
 ANAKIN	No, did you?
 OBI-WAN	No!
 ANAKIN	Well, there's more than one way out of here.
 OBI-WAN	We don't want to get out, we want to get moving. Artoo . . . Artoo. Do you copy? Activate elevator . . .  . . . 31174 . . .
 ===	===
-OBI-WAN	Artoo? Always on the move.
-===	===
-OBI-WAN	Artoo, switch on the comlink. Artoo, do you hear me? Artoo, we gave you a job to do! Artoo.
-===	===
-OBI-WAN	Stop, stop! Artoo, we need to be going up.
-===	===
 SUPER BATTLE DROID 1	There it is again.
 OBI-WAN	Artoo, do you copy? Artoo, do you hear me? Artoo, we need to be going up, not down.
-===	===
-OBI-WAN	Stop. Artoo! We need to go up! Stop, stop!
-===	===
-OBI-WAN	Now, that's better . . .
-===	===
-OBI-WAN	Oh, it's you . . .
 ===	===
 ANAKIN	What was that all about?
 OBI-WAN	Well, Artoo has been . . .
@@ -138,18 +111,12 @@ OBI-WAN	Did I say anything?
 ANAKIN	He's trying!
 OBI-WAN	I didn't say anything!
 ===	===
-OBI-WAN	Chancellor.
-ANAKIN	Are you all right?
-PALPATINE	Count Dooku.
+DARTH SIDIOUS	Count Dooku.
 OBI-WAN	This time we will do it together.
-ANAKIN	I was about to say that.
-PALPATINE	Get help! You're no match for him. He's a Sith Lord.
+DARTH SIDIOUS	Get help! You're no match for him. He's a Sith Lord.
 OBI-WAN	Chancellor Palpatine, Sith Lords are our specialty.
 COUNT DOOKU	Your swords, please, Master Jedi. We don't want to make a mess of things in front of the Chancellor.
 OBI-WAN	You won't get away this time, Dooku.
-COUNT DOOKU	I've been looking forward to this.
-ANAKIN	My powers have doubled since the last time we met, Count.
-COUNT DOOKU	Good. Twice the pride, double the fall. Your moves are clumsy, Kenobi . . . too predictable. You'll have to do better. I sense great fear in you, Skywalker. You have hate, you have anger, but you don't use them.
 ===	===
 ANAKIN	Easy. . . . We're in a bit of a situation.
 OBI-WAN	Did I miss something?
@@ -158,12 +125,6 @@ OBI-WAN	What is that? Oops.
 ANAKIN	Artoo, Artoo, shut down the elevator!
 OBI-WAN	Too late! Jump!
 ===	===
-OBI-WAN	Let's see if we can find something in the hangar bay that's still flyable. Come on.
-ANAKIN	Artoo, get down here. Artoo, do you copy?
-===	===
-OBI-WAN	None of those ships will get us anywhere.
-ANAKIN	I agree.
-PALPATINE	What are we going to do?
 ANAKIN	I don't know.
 OBI-WAN	Don't look at me. I don't know.
 ANAKIN	Here, Chancellor, lock this around your waist, and hold on.
@@ -175,27 +136,17 @@ ANAKIN	Apparently not, Master. This is the oldest trap in the book . . . Well ..
 OBI-WAN	Oh, so all of a sudden it's my fault.
 ANAKIN	You're the Master. I'm just a hero.
 OBI-WAN	I'm open to suggestions here.
-PALPATINE	Why don't we let them take us to General Grievous. Perhaps with Count Dooku's demise, we can negotiate our release.
 ANAKIN	I say . . . patience.
 OBI-WAN	Patience! That's your plan, is it?
-ANAKIN	Yes, Artoo will be along in a few moments and he'll release the ray shields . . . See! No problem.
 SUPER BATTLE DROID	Don't move, dummy. Ouch! Zap this.
 OBI-WAN	Do you have a plan B?
 ===	===
 GENERAL GRIEVOUS	Oh yes. General Kenobi, the Negotiator. We've been waiting for you. That wasn't much of a rescue.
 OBI-WAN	That depends upon your point of view. Hah!
-GENERAL GRIEVOUS	And Anakin Skywalker ... I was expecting someone with your reputation to be a little older.
-ANAKIN	General Grievous . . . Supreme Commander of the Droid Armies. You're shorter than I expected.
 GENERAL GRIEVOUS	Ahhhh, Jedi scum . . .
 OBI-WAN	Anakin, try not to upset him. We have a job to do.
 GENERAL GRIEVOUS	Your lightsabers will make a fine addition to my collection.
 OBI-WAN	Not this time. And this time you won't escape.
-ANAKIN	Artoo.
-GENERAL GRIEVOUS	Crush them! Make them suffer! Stay and watch your stations.
-PILOT	Sir, we are falling out of orbit. All aft control cells are dead.
-GENERAL GRIEVOUS	Stay on course . . . Don't bother with them. Keep the ship in orbit. You lose, General Kenobi.
-PILOT	The ship is breaking up!
-GENERAL GRIEVOUS	We've run out of time.
 ===	===
 ANAKIN	All the escape pods have been launched.
 OBI-WAN	Grievous. Can you fly a cruiser like this?
@@ -220,8 +171,6 @@ OBI-WAN	Copy that. Landing strip's straight ahead.
 ANAKIN	We're coming in too hot.
 OBI-WAN	Easy-easy.
 ===	===
-OBI-WAN	Another happy landing.
-===	===
 ANAKIN	Are you coming, Master?
 OBI-WAN	Oh no. I'm not brave enough for politics. I have to report to the Council. Besides, someone needs to be the poster boy.
 ANAKIN	Hold on, this whole operation was your idea. You planned it. You led the rescue operation. You have to be the one to take the bows this time.
@@ -230,16 +179,7 @@ ANAKIN	All because of your training, Master. You deserve all those speeches of y
 OBI-WAN	. . . the endless speeches . . . Anakin, let's be fair. Today, you are the hero and you deserve your glorious day with the politicians.
 ANAKIN	All right. But you owe me . . . and not for saving your skin for the tenth time . . .
 OBI-WAN	Ninth time . . . that business on Cato Nemoidia doesn't count. I'll see you at the briefing.
-MACE WINDU	Chancellor Palpatine, what a welcome sight! Are you all right?
-PALPATINE	Yes, thanks to your two Jedi Knights. They killed Count Dooku, but General Grievous has escaped once again.
-MACE WINDU	General Grievous will run and hide as he always does. He is a coward.
-PALPATINE	That maybe true, but with Count Dooku dead, he is the leader of the Droid Army, and I assure you, the Senate will vote to continue the war as long as Grievous is alive.
-MACE WINDU	Then the Jedi Council will make finding Grievous our highest priority.
-BAIL ORGANA	Skywalker, the Republic cannot praise you enough.
-ANAKIN	Thank you, Senator Organa. The kidnapping was a bold move by the Separatists, but it was a mistake that Obi-Wan and I were able to take advantage of.
-C-3PO	It couldn't possibly be as bad as all that. Well, there, I agree with you. In fact, I could do with a tune-up myself.
 ===	===
-OBI-WAN	You missed the report on the Outer Rim sieges.
 ANAKIN	I'm sorry, I was held up. I have no excuse.
 OBI-WAN	In short, they are going very well. Saleucami has fallen, and Master Vos has moved his troops to Boz Pity.
 ANAKIN	What's wrong then?
@@ -255,27 +195,12 @@ OBI-WAN	All of this is unusual, and it's making me feel uneasy. You're probably 
 ANAKIN	I know the Council has grown wary of the Chancellor's power, mine also for that matter. Aren't we all working together to save the Republic? Why all this distrust?
 OBI-WAN	The Force grows dark, Anakin, and we are all affected by it. Be wary of your feelings.
 ===	===
-MACE	Anakin Skywalker, we have approved your appointment to the Council as the Chancellor's personal representative.
-ANAKIN	I will do my best to uphold the principles of the Jedi Order.
-YODA	Allow this appointment lightly, the Council does not. Disturbing is this move by Chancellor Palpatine.
-ANAKIN	I understand.
-MACE	You are on this Council, but we do not grant you the rank of Master.
-ANAKIN	What? ! How can you do this?? This is outrageous, it's unfair . . . I'm more powerful than any of you. How can you be on the Council and not be a Master?
-MACE	Take a seat, young Skywalker.
-ANAKIN	Forgive me, Master.
-KI-ADI-MUNDI	We have surveyed all systems in the Republic, and have found no sign of General Grievous.
 YODA	Hiding in the Outer Rim, Grievous is. The outlying systems, you must sweep.
 OBI-WAN	It may take some time . . . we do not have many ships to spare.
 MACE	We cannot take ships from the front line.
 OBI-WAN	And yet, it would be fatal for us to allow the droid armies to regroup.
-YODA	Master Kenobi, our spies contact, you must, and then wait.
-KI-ADI-MUNDI	What about the droid attack on the Wookiees?
 MACE	It is critical we send an attack group there, immediately!
 OBI-WAN	He's right, that is a system we cannot afford to lose. It's the main navigation route for the southwestern quadrant.
-ANAKIN	I know that system well. It would take us little time to drive the droids off that planet.
-MACE	Skywalker, your assignment is here with the Chancellor, and Kenobi must find General Grievous.
-YODA	Go, I will. Good relations with the Wookiees, I have.
-MACE	It is settled then. Yoda will take a battalion of clones to reinforce the Wookiees on Kashyyyk. May the Force be with us all.
 ===	===
 ANAKIN	What kind of nonsense is this, put me on the Council and not make me a Master!?? That's never been done in the history of the Jedi. It's insulting!
 OBI-WAN	Calm down, Anakin. You have been given a great honor. To be on the Council at your age . . . It's never happened before. Listen to me, Anakin. The fact of the matter is you're too close to the Chancellor. The Council doesn't like it when he interferes in Jedi affairs.
@@ -306,35 +231,18 @@ OBI-WAN	Yes, but use your feelings, Anakin. Something is out of place.
 ANAKIN	You're asking me to do something against the Jedi Code. Against the Republic. Against a mentor . . . and a friend. That's what's out of place here. Why are you asking this of me?
 OBI-WAN	The Council is asking you.
 ===	===
-OBI-WAN	Anakin did not take to his assignment with much enthusiasm.
-YODA	Too much under the sway of the Chancellor, he is. Much anger there is in him. Too much pride in his powers.
 MACE	It's very dangerous, putting them together. I don't think the boy can handle it. I don't trust him.
 OBI-WAN	He'll be all right. I trust him with my life.
 MACE	I wish I did.
 OBI-WAN	With all due respect, Master, is he not the Chosen One? Is he not to destroy the Sith and bring balance to the Force?
-MACE	So the prophecy says.
 YODA	A prophecy . . . that misread could have been.
 OBI-WAN	He will not let me down. He never has.
-YODA	I hope right you are. And now destroy the Droid armies on Kashyyyk, I will. May the Force be with you.
 ===	===
-KI-ADI-MUNDI	Palpatine thinks General Grievous is on Utapau. We have had no reports of this from our agents.
-MACE	How could the Chancellor have come by this information and we know nothing about it? We have had contact with Baron Papanoida and he said no one was there.
-ANAKIN	A partial message was intercepted in a diplomatic packet from the Chairman of Utapau.
 YODA	Act on this, we must. The capture of General Grievous will end this war. Quickly and decisively we should proceed.
 OBI-WAN	Does everyone agree?
-ANAKIN	The Chancellor has requested that I lead the campaign.
-MACE	The Council will make up its own mind who is to go, not the Chancellor.
-KI-ADI-MUNDI	Yes, this decision is ours to make.
-YODA	A Master is needed, with more experience.
-MACE	Given our resources, I recommend we send only one Jedi . . . Master Kenobi.
 ANAKIN	He was not so successful the last time he met Grievous. No offense, my Master, but I'm only stating a fact.
 OBI-WAN	Oh no, you're quite right, but I do have the most experience with his ways of combat.
-YODA	Obi-Wan, my choice is.
-KI-ADI-MUNDI	I concur. Master Kenobi should go.
-YODA	I agree.
-MACE	Very well. Council is adjourned. Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle droids he may have with him.
 ===	===
-OBI-WAN	Has Anakin been to see you?
 PADME	Several times . . . I was so happy to hear he was accepted on the Jedi Council.
 OBI-WAN	I know ... he deserves it. He is impatient, strong willed, very opinionated, but truly gifted.
 PADME	You're not just here to say hello. Something is wrong, isn't it?
@@ -365,9 +273,7 @@ CLONE COMMANDER CODY	Come on, boss, when have I ever let you down?
 OBI-WAN	Cato Nemoidia . . . for starters.
 CLONE COMMANDER CODY	That was Anakin who was late. I believe.
 OBI-WAN	Very well, the burden is on me not to destroy all the droids before you get there.
-CLONE COMMANDER CODY	I'm counting on you.
 ===	===
-OBI-WAN	Save your energy.
 PADME	I can't!
 OBI-WAN	Don't give up, Padme. Don't give up . . .
 ===	===
@@ -380,7 +286,6 @@ OBI-WAN	I understand.
 TION MEDON	The tenth level . . . thousands of Battle Droids . . .
 OBI-WAN	Tell your people to take shelter. If you have warriors, now is the time. Geenine, take the Fighter back to the ship. I'm staying here. Tell Cody I've made contact.
 ===	===
-OBI-WAN	I need transportation.
 WRANGLER	You need transportation.
 OBI-WAN	Get it for me.
 WRANGLER	I will get it for you.
@@ -388,7 +293,6 @@ OBI-WAN	This one.
 WRANGLER	Boga. She answers to Boga.
 OBI-WAN	Good girl, Boga.
 ===	===
-OBI-WAN	Hello, there!
 GENERAL GRIEVOUS	General Kenobi, you are a bold one. I find your behavior bewildering . . . Surely you realize you're doomed,  Kill him! Enough of this. Back away. I will deal with this Jedi slime myself.
 OBI-WAN	Your move.
 GENERAL GRIEVOUS	You fool. I have been trained in your Jedi arts by Count Dooku himself. Attack, Kenobi.
@@ -396,70 +300,36 @@ OBI-WAN	You forget I trained the Jedi that defeated Count Dooku! I may not defea
 GENERAL GRIEVOUS	Army or not, you must realize you are doomed.
 OBI-WAN	I don't think so.
 ===	===
-OBI-WAN	So uncivilized . . .
-===	===
-OBI-WAN	Commander, contact your troops. Tell them to move to the higher levels.
 CLONE COMMANDER CODY	Very good, sir. Oh, by the way, I think you'll be needing this.
 OBI-WAN	Thank you, Cody,  Now let's get a move on. We've got a battle to win here.
-CLONE COMMANDER CODY	Yes, sir!
-DARTH SIDIOUS	Commander Cody, the time has come. Execute Order Sixty-Six.
-CLONE COMMANDER CODY	It will be done, My Lord. Blast him!
 ===	===
-OBI-WAN	Emergency Code Nine Thirteen ... I have no contact on any frequency. Are there any Jedi out there? . . . anywhere . . .
 BAIL	. . . Kenobi . . .
 OBI-WAN	I've locked on. Repeat.
 BAIL ORGANA	Master Kenobi??
 OBI-WAN	Senator Organa! My Clone Troops turned on me ... I need help.
-BAIL ORGANA	We have just rescued Master Yoda. It appears this ambush has happened everywhere. We're sending you our coordinates.
 ===	===
-BAIL ORGANA	You made it.
 YODA	Master Kenobi, dark times are these. Good to see you. it is.
 OBI-WAN	You were attacked by your Clones, also?
 YODA	With the help of the Wookiees, barely escape, I did.
 OBI-WAN	How many other Jedi managed to survive?
-YODA	Heard from no one, have we.
 BAIL ORGANA	I saw thousands of troops attack the Jedi Temple. That's why I went looking for Yoda.
 OBI-WAN	Have we had any contact from the Temple?
-YODA	Received a coded retreat message, we have.
 BAIL ORGANA	It requests all Jedi to return to the Temple. It says that the war is over . . .
 OBI-WAN	Well, then we must go back! If there are other stragglers, they will fall into the trap and be killed.
-BAIL ORGANA	It's too dangerous to return.
 YODA	Suggest dismantling the coded signal, do you?
 OBI-WAN	Yes, Master. There is too much at stake here, and we need a clearer picture of what has happened.
-YODA	I agree. In a dark place we find ourselves ... a little more knowledge might light our way.
 ===	===
-PILOT	We are receiving a message from the Chancellor's office, sir.
-BAIL ORGANA	Send it through.
-PILOT	Yes, sir.
-MAS AMEDDA	Senator Organa . . . the Supreme Chancellor of the Republic requests your presence at a special session of Congress.
-BAIL ORGANA	Tell the Chancellor I will be there.
-MAS AMEDDA	Very well. He will be expecting you.
 BAIL ORGANA	It could be a trap.
 OBI-WAN	No, I don't think so. The Chancellor will not be able to control the thousands of star systems without keeping the Senate intact.
-YODA	If a special session of Congress there is, easier for us to enter the Jedi Temple it will be.
 ===	===
-GUARD	Welcome back, Senator. May I see your clearance?
-BAIL ORGANA	Certainly.
 GUARD	Thank you, you may proceed. We will take custody of the Jedi.
 OBI-WAN	It would be better if we stayed with the Senator.
-GUARD	It would be better if they stayed with you.
 ===	===
-OBI-WAN	There are several battalions of Clone Troopers on every level. Many are dressed as Jedi.
-YODA	Dismantle the coded signal quickly. That group back there, soon discovered will be.
-===	===
-OBI-WAN	Not even the younglings survived.
 YODA	Killed not by clones, this Padawan. By a lightsaber, he was.
 OBI-WAN	. . .Who?? Who could have done this?
 ===	===
-OBI-WAN	I've recalibrated the code warning all surviving Jedi to stay away.
-YODA	Good . . . For the Clones to discover the recalibration, a long time it will take. To change it back, longer still. Hurry.
-===	===
-OBI-WAN	Wait, Master. There is something I must know . . .
 YODA	If into the security recordings you go, only pain will you find.
 OBI-WAN	I must know the truth, Master. It can't be . . . It can't be . . .
-ANAKIN	The traitors have been taken care of, Lord Sidious.
-DARTH SIDIOUS	Good . . . good . . . You have done well, my new apprentice. Do you feel your power growing?
-ANAKIN	Yes, My Master.
 DARTH SIDIOUS	Now, Lord Vader, now go and bring peace to the Empire.
 OBI-WAN	I can't watch any more.
 YODA	Destroy the Sith, we must.
@@ -475,7 +345,6 @@ OBI-WAN	May the Force be with you, Master Yoda.
 ===	===
 C-3PO	Hello, might I help you . . . Oh, it's you, Master Kenobi. Come in, quickly.
 OBI-WAN	Has Anakin been here . . . ?
-C-3PO	Yes . . . right after the attack on the Jedi Temple.
 PADME	Master Kenobi . . . Oh, Obi-Wan, thank goodness . . . you're alive.
 OBI-WAN	The Republic has fallen. Padme . . . The Jedi Order is no more . . .
 PADME	I know, it's hard to believe everything to which we've dedicated our lives is gone.
@@ -501,31 +370,6 @@ OBI-WAN	He has become a very great threat.
 PADME	I can't . . .
 OBI-WAN	Anakin is the father, isn't he? I'm so sorry.
 ===	===
-ANAKIN	Padme, I saw your ship . . .
-PADME	Oh, Anakin!
-ANAKIN	It's all right, you're safe now. What are you doing out here?
-PADME	I was so worried about you. Obi-Wan told me terrible things.
-ANAKIN	What things?
-PADME	He said you have turned to the dark side . . . that you killed younglings.
-ANAKIN	Obi-Wan is trying to turn you against me.
-PADME	He cares about us.
-ANAKIN	Us??!
-PADME	He knows . . . He wants to help you.
-ANAKIN	Is Obi-Wan going to protect you? He can't ... he can't help you. He's not strong enough.
-PADME	Anakin, all I want is your love.
-ANAKIN	Love won't save you, Padme. Only my new powers can do that.
-PADME	At what cost? You are a good person. Don't do this.
-ANAKIN	I won't lose you the way I lost my mother! I've become more powerful than any Jedi has ever dreamed of and I've done it for you. To protect you.
-PADME	Come away with me. Help me raise our child. Leave everything else behind while we still can.
-ANAKIN	Don't you see, we don't have to run away anymore. I have brought peace to the Republic. I am more powerful than the Chancellor. I can overthrow him, and together you and I can rule the galaxy. Make things the way we want them to be.
-PADME	I don't believe what I'm hearing . . . Obi-Wan was right. You've changed.
-ANAKIN	I don't want to hear any more about Obi-Wan. The Jedi turned against me. Don't you turn against me.
-PADME	I don't know you anymore. Anakin, you're breaking my heart. I'll never stop loving you, but you are going down a path I
-ANAKIN	Because of Obi-Wan?
-PADME	Because of what you've done . . . what you plan to do. Stop, stop now. Come back! I love you.
-ANAKIN	Liar!
-PADME	No!
-ANAKIN	You're with him. You've betrayed me! You brought him here to kill me!
 PADME	NO! Anakin. I swear ... I ...
 OBI-WAN	Let her go, Anakin.
 ANAKIN	What have you and she been up to?
@@ -540,15 +384,10 @@ ANAKIN	Don't make me kill you.
 OBI-WAN	Anakin, my allegiance is to the Republic ... to democracy.
 ANAKIN	If you're not with me, you're my enemy.
 OBI-WAN	Only a Sith Lord deals in absolutes. I will do what I must.
-ANAKIN	You will try.
 ===	===
 ANAKIN	Don't make me destroy you, Master. You're no match for the dark side.
 OBI-WAN	I've heard that before, Anakin . . . but I never thought I'd hear it from you.
 ===	===
-OBI-WAN	The flaw of power is arrogance.
-ANAKIN	You hesitate . . . the flaw of compassion.
-===	===
-OBI-WAN	I have failed you, Anakin. I was never able to teach you to think.
 ANAKIN	I should have known the Jedi were plotting to take over . . .
 OBI-WAN	From the Sith!!! Anakin, Chancellor Palpatine is evil.
 ANAKIN	From the Jedi point of view! From my point of view, the Jedi are evil.
@@ -562,26 +401,12 @@ OBI-WAN	You were my brother, Anakin. I loved you.
 ===	===
 MEDICAL DROID	Medically, she is completely healthy. For reasons we can't explain, we are losing her.
 OBI-WAN	She's dying?
-MEDICAL DROID	We don't know why. She has lost the will to live. We need to operate quickly if we are to save the babies.
-BAIL ORGANA	Babies??!!
-MEDICAL DROID	She's carrying twins.
-YODA	Save them, we must. They are our last hope.
-C-3PO	It s some kind of reproductive process, I think.
 ===	===
-OBI-WAN	Don't give up, Padme.
-MEDICAL DROID	It's a boy.
-PADME	Luke . . .
-MEDICAL DROID	... and a girl.
-PADME	. . . Leia.
-===	===
-OBI-WAN	You have twins, Padme They need you . . . hang on.
 PADME	I can't . . .
 OBI-WAN	Save your energy.
-PADME	Obi-Wan . . . there . . . is good in him. I know there is ... still . . .
 ===	===
 YODA	Pregnant, she must still appear. Hidden, safe, the children must be kept.
 OBI-WAN	We must take them somewhere the Sith will not sense their presence.
-YODA	Split up, they should be.
 BAIL ORGANA	My wife and I will take the girl. We've always talked of adopting a baby girl. She will be loved with us.
 OBI-WAN	And what of the boy?
 YODA	To Tatooine. To his family, send him.
@@ -594,23 +419,16 @@ YODA	One who has returned from the netherworld of the Force to train me . . . yo
 OBI-WAN	Qui-Gon? But, how could he accomplish this?
 YODA	The secret of the Ancient Order of the Whills, he studied. How to commune with him. I will teach you.
 OBI-WAN	I will be able to talk with him?
-YODA	How to join the Force, he will train you. Your consciousness you will retain, when one with the Force. Even your physical self, perhaps.
 ===	===
 JAR JAR	Obi! Obi! Obi! Mesa sooo smilen to see'en yousa. Wahoooooo!
 OBI-WAN	It's Good to see you, too, Jar Jar.
-JAR JAR	Oops! Wheresa mesa manners? Excuse me, Master Obi-Wan. I completely forgot myself for a moment there. I have had to learn Diplodiaclect... speak it like a native now. Don't really see the point, actually, but members of the Senate seem to prefer it... ...and this, I take it, is your apprentice... Nooooooooo! Annie? Noooooooo! Little Bitty Annie? Nooooooo! Yousa so biggen! Yiyiyiyyi! Annie!! Mesa no believen.
-ANAKIN	Hi, Jar Jar.
-JAR JAR	Annie! Annie! Yiyiyiyiyiyiiii!
 ===	===
 JAR JAR	Lookie... lookie... Oops!... Oh, dear, I'm afraid I've forgotten myself again.
 OBI-WAN	It's a great pleasure to see you again, M'Lady.
 PADME	It has been far too long Master Kenobi. I'm so glad our paths have crossed again... but I must warn you that I think your presence here is unnecessary.
 OBI-WAN	I'm sure the Jedi Council have their reasons.
-PADME	Annie?? My goodness you've grown.
-ANAKIN	So have you... grown more beautiful, I mean... and much shorter... for a Senator, I mean.
 PADME	Oh Annie, you'll always be that little boy I knew on Tatooine.
 OBI-WAN	Our presence will be invisible, M'Lady.
-CAPTAIN TYPHO	I am very grateful you are here, Master Kenobi. The situation is more dangerous than the Senator will admit.
 PADME	I don't need more security, I need answers. I want to know who is trying to kill me.
 OBI-WAN	We're here to protect you Senator, not to start an investigation.
 ANAKIN	We will find out who is trying to kill you Padme, I promise you.
@@ -621,15 +439,9 @@ ANAKIN	Why?
 OBI-WAN	What??!!
 ANAKIN	Why else do you think we were assigned to her, if not to find the killer? Protection is a job for local security... not Jedi. It's overkill, Master. Investigation is implied in our mandate.
 OBI-WAN	We will do as the Council has instructed, and you will learn your place, young one.
-PADME	Perhaps with merely your presence, the mysteries surrounding this threat will be revealed.  Now if you will excuse me I will retire.
-CAPTAIN TYPHO	Well, I know I feel a lot better having you here. I'll have an officer on every floor and I'll be at the command centre downstairs.
-JAR JAR	Mesa busten wit happiness seein Yousa again, Annie. Deesa bad times, bombad times.
-ANAKIN	She didn't even recognise me, Jar Jar. I thought about her every day since we parted... and she's forgotten me completely.
 JAR JAR	Shesa happy. Happier den mesa see-en her in longo time.
 OBI-WAN	Anakin, you're focusing on the Negative again. Be mindful of your thoughts. She was glad to see us. Now lets check the security here.
-ANAKIN	Yes, my master.
 ===	===
-OBI-WAN	Captain Typho has more than enough men downstairs. No assassin will try that way. Any activity up here?
 ANAKIN	Quiet as a tomb. I don't like just waiting here for something to happen to her.
 OBI-WAN	What's going on?
 ANAKIN	She covered that camera. I don't think she liked me watching her.
@@ -643,7 +455,6 @@ OBI-WAN	It's too risky... and your senses aren't that attuned, young apprentice.
 ANAKIN	And yours are?
 OBI-WAN	Possibly.
 ===	===
-OBI-WAN	You look tired.
 ANAKIN	I don't sleep well, anymore.
 OBI-WAN	Because of your mother?
 ANAKIN	I don't know why I keep dreaming About her now. I haven't seen her since I was little.
@@ -657,7 +468,6 @@ OBI-WAN	Palpatine's a politician, I've observed that he is very clever at follow
 ANAKIN	I think he is a good man. My instincts are very positive about...
 OBI-WAN	I sense it, too.
 ===	===
-OBI-WAN	I have a bad feeling about this.
 ANAKIN	That was wacky! I almost lost you in the traffic.
 OBI-WAN	What took you so long?
 ANAKIN	Oh, you know, Master, I couldn't find a speeder I really liked, with an open cockpit... and with the right speed capabilities... and then you know I had to get a really gonzo color...
@@ -696,9 +506,7 @@ ANAKIN	This is a shortcut... I think.
 OBI-WAN	What do you mean, 'You think?' What kind of shortcut?! He went completely the other way! You've lost him!
 ANAKIN	Master, if we keep this chase going, that creep's gonna end up deep fried. Personally, I'd very much like to find out who in the hell he is and who he's working for...
 OBI-WAN	Oh, so that's why we're going in the wrong direction. Well, you lost him.
-ANAKIN	I'm deeply sorry, Master. Excuse me for a moment.
 ===	===
-OBI-WAN	Anakin!
 ANAKIN	She went into that club, Master.
 OBI-WAN	Patience. Here. Next time try not to lose it.
 ANAKIN	Sorry, Master.
@@ -709,9 +517,7 @@ ANAKIN	I know, Master.
 OBI-WAN	This weapon is your life!
 ANAKIN	I've heard this lesson before...
 OBI-WAN	But, you haven't learned anything, Anakin.
-ANAKIN	I try, Master.
 ===	===
-OBI-WAN	Why do I think you are going to be the death of me?!
 ANAKIN	Don't say that Master... You're the closest thing I have to a father... I love you. I don't want to cause you pain.
 OBI-WAN	Then why don't you listen to me?!
 ANAKIN	I will. I'll do better, I promise.
@@ -724,39 +530,22 @@ ELAN SLEAZEBAGGANO	Wanna buy some death sticks?
 OBI-WAN	You don't want to sell me death- sticks.
 ELAN	I don't want to sell you death- sticks.
 OBI-WAN	You want to go home and rethink your life.
-ELAN	I want to go home and rethink my life.
-ANAKIN	Easy... Official business. Go back to your drinks.
 ===	===
-OBI-WAN	Do you know who it was you were trying to kill?
 ZAM WESSEL	The Senator from Naboo.
 OBI-WAN	Who hired you?
-ZAM WESSEL	It was just a job.
-ANAKIN	Tell us!
 ZAM WESSEL	That Senator's gonna die soon anyway, and the next one won't make the same mistake I did...
 OBI-WAN	This wound's going to need treatment.
-ANAKIN	Who hired you? Tell us... tell us now!
 ZAM	It was a Bounty Hunter called...
 OBI-WAN	Toxic Dart...
 ===	===
-CAPTAIN TYPHO	Be safe, m'lady.
-PADME	Thank you, Captain. Take good care of Dorme... the threat's on you two now.
-DORME	He'll be safe with me.
-PADME	You'll be fine.
-DORME	It's not me, M'Lady. I worry about you. What if they realise I'm not you?
 PADME	Then my Jedi protector will have to prove how grown up he is.
 OBI-WAN	Anakin, you stay put on Naboo. Do not attract any attention. Do absolutely nothing without checking in with me or the Council.
 ANAKIN	Yes, Master.
 OBI-WAN	I will get to the bottom of this plot quickly, M'Lady. You'll be back here in no time.
-PADME	I will be most grateful for your speed, Master Jedi.
-ANAKIN	Time to go.
 PADME	I know.
 OBI-WAN	May the Force be with you.
-ANAKIN	May the Force be with you, Master.
-PADME	Suddenly, I'm afraid...
-ANAKIN	I'm kinda scared too. This is my first assignment on my own.
 PADME	There's nothing to worry about... we have Artoo with us.
 OBI-WAN	I hope he doesn't try anything foolish.
-CAPTAIN TYPHO	I'd be more concerned about her doing something, than him.
 ===	===
 PK-4	Place the subject for analysis on the sensot tray, please.
 OBI-WAN	It's a toxic dart. I need to know where it came from and who made it.
@@ -769,10 +558,8 @@ HERMIONE	Can I help ya?
 OBI-WAN	I'm looking for Dexter.
 HERMIONE BAGWA	Waddya want him for?
 OBI-WAN	He's not in trouble. It's personal.
-HERMIONE BAGWA	Someone to see ya, honey A Jedi, by the looks of him.
 DEXTER JETTSTER	Obi-Wan!
 OBI-WAN	Hey, Dex.
-DEXTER JETTSTER	Take a seat! Be right with ya!
 HERMIONE BAGWA	You want a cup of ardees?
 OBI-WAN	Thank you.
 DEXTER JETTSTER	Hey, ol' buddy!
@@ -789,7 +576,6 @@ DEXTER JETTSTER	No, it's beyond the Outer Rim. I'd say about twelve parsecs outs
 OBI-WAN	Cloners? Are they friendly?
 DEXTER JETTSTER	It depends.
 OBI-WAN	On what, Dex?
-DEXTER JETTSTER	On how good your manners are... and how big your pocketbook is...
 ===	===
 JOCASTA NU	Did you call for assistance?
 OBI-WAN	Yes... yes, I did...
@@ -813,26 +599,18 @@ JOCASTA NU	Let me do a gravitational scan. There are some inconsistencies here. 
 OBI-WAN	Wouldn't that be on record?
 JOCASTA NU	It ought to be. Unless it was very recent. I hate to say it, but it looks like the system you're searching for doesn't exist.
 OBI-WAN	That's impossible... perhaps the archives are incomplete.
-JOCASTA NU	The archives are comprehensive and totally secure, my young Jedi. One thing you may be absolutely sure of - if an item does not appear in our records, it does not exist!
 ===	===
-YODA	Don't think... feel... be as one with the Force. Help you, it will. Younglings - enough! A visitor we have. Welcome him. Master Obi-Wan Kenobi, meet the mighty Bear Clan.
 CHILDREN	Welcome, Master Obi-Wan!
 OBI-WAN	I am sorry to disturb you, Master.
 YODA	What help to you, can I be?
 OBI-WAN	I'm looking for a planet described to me by an old friend. I trust him. But the system doesn't show up on the archive maps.
 YODA	An interesting puzzle. Gather round the map reader, younglings. Master Obi-Wan has lost a planet. Find it, we will try...
 OBI-WAN	This is where it ought to be... but it isn't. Gravity is pulling all the stars in this area inward to this spot. There should be a star here... but there isn't.
-YODA	Most interesting. Gravity's silhouette remains, but the star and all its planets have disappeared. How can this be?
-JEDI CHILD JACK	Because someone erased it from the archive memory.
-CHILDREN	That's right! Yes! That's what happened! Someone erased it!
-JEDI CHILD MAY	If the planet blew up, the gravity would go away.
 YODA	Truly wonderful, the mind of a child is. Uncluttered. To the centre of the pull of gravity go, and find your planet you will.
 OBI-WAN	But Master Yoda who could have erased information from the archives? That's impossible, isn't it?
-YODA	Much harder to answer, that question is.
 ===	===
 MACE WINDU	Be wary, this disturbance in the Force is growing stronger.
 OBI-WAN	I am concerned for my Padawan. He is not ready to be on his own.
-YODA	The Council is confident in this decision, Obi-Wan.
 MACE	He has exceptional skills. The Council is confident in its decision, Obi-Wan. If the prophecy is true, he weill be the one to bring balance to the Force.
 OBI-WAN	But he still has much to learn. And his abilities have made him... well... arrogant. I realise now what you and Master Yoda knew from the beginning... the boy was too old to start the training and...
 MACE WINDU	There's something else?
@@ -841,11 +619,9 @@ MACE WINDU	Why?
 OBI-WAN	He has a... an emotional connection with her. It's been there since he was boy. Now he's confused... distracted.
 MACE-WINDU	Obi-Wan, you must have faith that he will take the right path.
 OBI-WAN	Has Master Yoda gained any insight into whether or not this war will come about?
-MACE WINDU	Probing the Dark Side is a dangerous process. He could be in seclusion for days... May the force be with you.
 ===	===
 TAUN WE	Welcome to Tipoca City, Master Jedi. Everything is ready. The Prime Minister expects you.
 OBI-WAN	I'm expected?
-TAUN WE	Of course! He is anxious to see you. After all these years, we were beginning to think you weren't coming. Now please, this way!
 ===	===
 TAUN WE	May I present Lama Su, Prime Minister of Kamino... and this is Master Jedi...
 OBI-WAN	Obi-Wan Kenobi.
@@ -860,22 +636,16 @@ OBI-WAN	Oh, yes. Sido-Dyas.
 LAMA SU	You must be anxious to inspect the units for yourself.
 OBI-WAN	That's why I'm here.
 ===	===
-LAMA SU	We modified their genetic structure to make them less independent than the original host. As a result they are totally obedient, taking any order without question.
-OBI-WAM	Who was the original host?
 LAMA SU	A bounty hunter called Jango Fett. We felt a Jedi would be the perfect choice, but Sido-Dyas hand- picked Jango Fett himself.
 OBI-WAN	Where is this bounty hunter now?
-LAMA SU	Oh, we keep him here. After a few hundred thousand clones, the genetic pattern starts to fade, so we take a fresh supply. He lives here, but he's free to come and go as he pleases.
 ===	===
 LAMA SU	Apart from his pay, which is considerable, Fett demanded only one thing - an unaltered clone for himself. Curious isn't it?
 OBI-WAN	Unaltered?
 LAMA SU	Pure genetic replication. No tampering with the structure to make it more docile... and no growth acceleration...
 OBI-WAN	I would like to meet this Jango Fett.
-TAUN WE	I would be most happy to arrange it, for you.
 ===	===
-OBI-WAN	You mentioned growth acceleration...
 LAMA SU	Oh yes, it's essential. Otherwise, a mature clone would take a lifetime to grow. Now, we can do it in half the time. Those items you saw on the parade ground were started ten years ago, when Sido-dyas first placed the order, and they're already mature...
 OBI-WAN	And these?
-LAMA SU	About five years ago.
 ===	===
 LAMA SU	They're immensely superior to droids, capable of independent thought and action.
 OBI-WAN	Very impressive.
@@ -883,26 +653,15 @@ LAMA SU	I'd hoped you would be pleased.
 OBI-WAN	Tell me, prime minister, when my Master Sido-dyas first contacted you, did he say the order was for... himself... or?
 LAMA SU	Himself? Of course not. This army is for the Republic?
 OBI-WAN	The Repubic?
-LAMA SU	We are also very much agasint this Count Dooku and his seccessionist movement. We are proud to be of help to the Republic.
 ===	===
 TAUN WE	I have arranged for you to meet Jango Fett in the morning. Sleep well.
 OBI-WAN	Arfour, Arfour...
 ===	===
-OBI-WAN	"Arfour, relay this, ""scramble code five,"" to Courscant: care of ""the old folks home."""
-===	===
-OBI-WAN	...I've never heard of a Jedi called Sido-Dyas, have you, Master?
 MACE WINDU	No. Whoever placed that order was not a Jedi, I can assure you.
 OBI-WAN	I have a strong feeling that this bounty hunter is the assassin we're looking for.
 YODA	Who he is working for... discover that, you must.
 OBI-WAN	I will, Master, and I will also find out more about this clone army... May The Force...
-WINDU	A clone army! Ordered by someone in the Senate perhaps... Someone's out to start a war.
-YODA	Inform the chancellor of this, we must.
-WINDU	Who do you think this impostor Sido-Dyas, could be?
 ===	===
-BOBA FETT	Dad! Taun We's here!
-TAUN WE	Welcome back, Jango. Was your trip productive?
-JANGO FETT	Fairly.
-TAUN WE	This is Jedi Master, Obi-Wan Kenobi. He's come to check on our progress.
 JANGO FETT	That right?
 OBI-WAN	Your clones are very impressive. You must be very proud.
 JANGO FETT	I'm just a simple man, trying to make my way in the universe, Master Jedi.
@@ -921,67 +680,26 @@ JANGO	Do you like your army?
 OBI-WAN	It seems to me it's your army - being that they are all clones of you.
 JANGO	They'll do their job well, I'll guarantee that.
 OBI-WAN	I look forward to seeing them in action. Thank you for your time, Jango.
-JANGO	Always a pleasure to meet a Jedi.
-BOBA	What is it, Dad?
 ===	===
 LAMA SU	Tell your Council the first battalions are ready. And remind them that if they need more troops, we will need time to grow them.
 OBI-WAN	I won't forget.
 ===	===
-OBI-WAN	"Guiding light to ""old folks home."""
-===	===
-OBI-WAN	...Starships from the Trade Federation and the Commerce Guilds are taking deliveries of battle droids from the foundries on Geonosis.
 BAIL ORGANA	That's outrageous! The treaty forbids the Trade Federation from building up an army. What are they doing?!
 OBI-WAN	The droid foundry seems to be working at full capacity. I am going to go down and investigate. I will bring Jango Fett back home for interrogation.
-PALPATINE	Those Geonosian foundries are part of the Techno Union. We will call in their representatives and ask them a few very pointed questions.
+DARTH SIDIOUS	Those Geonosian foundries are part of the Techno Union. We will call in their representatives and ask them a few very pointed questions.
 OBI-WAN	One more thing. Jango mentioned he was recruited by someone named Darth Tyranus. Any idea who that might be?
-YODA	With the forename Darth, a Sith he must be.
 MACE WINDU	Our missing apprentice. They are playing their hand at last.
 OBI-WAN	Do you believe he could be the mysterious Sido-Dyas, who made the deal for the clone army?
-YODA	Perhaps too many pieces are missing from this puzzle, there are.
 MACE WINDU	Be careful, Obi-Wan. This investigation is becoming less than routine. Do you need help?
 OBI-WAN	Let me see if I can figure out what's going on first.
-BAIL ORGANA	The Commerce Guilds are preparing for war... there can be no doubt of that.
-PALPATINE	Count Dooku must have made a treaty with them.
-MACE WINDU	We must stop them soon before they're fully ready.
-SENATOR ASK AAK	The debate is over, we need that clone army now!
-BAIL ORGANA	Unfortunately, the debate is not over. The Senate will never be able to approve the use of that army before the separatists attack.
-MAS AMEDDA	This is a crisis! If the Senate votes the Chancellor emergency powers, he could approve the use of the army in a minute.
-PALPATINE	Please, please, I don't wish to have emergency powers. That's too extreme a solution. It's akin to a dictatorship. We must rely on the Jedi. Master Yoda, how many are available to go to Geonosis?
-YODA	Two Hundred,... less or more.
-BAIL ORGANA	With all due respect for the Jedi Order, two hundred will be no match for hundreds of thousands of battle droids.
-MACE WINDU	Patience. We should wait for Obi- Wan to report back. We don't know that Count Dooku has made a treaty with the Corporate Alliance, it's speculation.
-SENATOR ASK AAK	But we must prepare for the worst. I'm going to propose a motion granting emergency powers to the Chancellor at the next session. We must not wait!
-PALPATINE	Out of the question, Senator! You and I are too closely aligned. The issue will become partisan and debates will begin. The proposal must come from a neutral source.
-MAS AMEDDA	If only Senator Amidala were here.
-JAR JAR	Supreme Chancellor... my august colleagues, I would be proud to propose the motion in question. This is a grave situation, and I'm sure Senator Amidala, and the Queen of Naboo would agree.
-SENATOR ASK AAK	Thank you, Representative Binks.
-PALPATINE	If called upon, I will serve. But it will be the saddest day of my life.
 ===	===
-OBI-WAN	...Alliance have pledged their armies to Count Dooku and are forming an... Wait!... ah... attack... I don't... make it... aaaggghhh!
-ANAKIN	I'm going after him!
-PADME	I thought the first thing he said was to retransmit his message to Coruscant.
-ANAKIN	Yeah, you're right, you're right.
-===	===
-OBI-WAN	I was beginning to wonder if you had gotten my message.
 ANAKIN	I retransmitted it as you requested, Master. Then we decided to come and rescue you.
 OBI-WAN	It looks like you're going a good job so far.
-SUN RIT	The felons before you have been convicted of espionage against the Sovereign System of Geonosis. Their sentence of death is to be carried out in this public arena henceforth.
-POGGLE	Let the executions begin!
 ANAKIN	I have a bad feeling about this.
 OBI-WAN	Take the one the left. I'll take the one on the right.
 ANAKIN	What about Padme?
 OBI-WAN	It looks like she's already on top of things.
-NUTE GUNRAY	Foul!! She can't do that... shoot her or something!
-ANAKIN	You okay?
-PADME	Sure! Well, sort of.
-ANAKIN	Jump!!!
-NUTE GUNRAY	This isn't how it's supposed to be! Jango, finish her off.
-COUNT DOOKU	Patiece, Viceroy... she will die. Maybe this is the way it's supposed to end.
 ===	===
-OBI-WAN	Someone's got to - shut down - these droids.
-MACE WINDU	Don't worry! It's being - taken care of!
-===	===
-OBI-WAN	Hold on! Look over there...
 ANAKIN	It's Dooku, go after him! Padme!!! Put the ship down! Down!
 OBI-WAN	No! Forget her. We have to go after Dooku.
 ANAKIN	No we're not!! Land this ship!
@@ -989,32 +707,20 @@ OBI-WAN	Don't let your personal feelings get in the way. We've got a job to do.
 ANAKIN	I don't care!.. Go back.
 OBI-WAN	Anakin! She's all right! Look. Follow that speeder!
 ===	===
-DROID CAPTAIN	Your Excellency!
 COUNT DOOKU	That won't be necessary, Captain. Stand down. And leave them to me.
 OBI-WAN	We move in together - you slowly on the...
 ANAKIN	I'm taking him now!
 OBI-WAN	Anakin, no!
-ANAKIN	You'll pay for all the Jedi you've killed today, Dooku.
 COUNT DOOKU	Kenobi, isn't it? As you can see, my Jedi powers are far beyond yours. Now, back down.
 OBI-WAN	I don't think so.
 COUNT DOOKU	Ah, but if I must. I have spent the last ten years learning to use the power of the Dark Side. It gives me infinitely greater power.
 OBI-WAN	You will have to prove it.
-COUNT DOOKU	Grand Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better...? No, I'm surprised. Has Jedi swordsmanship degenerated so quickly, or are you trying to make fun of me? Which is it? come, come, Master Kenobi. Put me out of my misery. That's brave of you, boy - but foolish. I would have thought you'd have learnt your lesson.
-ANAKIN	I'm a slow learner.
-COUNT DOOKU	You have unusual powers, young Padawan. But not enought to save you this time.
 ANAKIN	Don't bet on it!
 OBI-WAN	Anakin!
-COUNT DOOKU	Master Yoda. At last we shall know who is the most powerful.
-YODA	Count Dooku. No interest in contests, do I have. The end for you, Count, this is.
-COUNT DOOKU	...Not yet...
-PADME	Anakin!
-CLONE CAPTAIN	Resistance is at an end, General. What are your orders ?
 ===	===
 MACE WINDU	Where is your apprentice?
 OBI-WAN	On his way back to Naboo. He is escorting Senator Amidala home. I must admit without the clones, it would not have been a victory.
-YODA	Victory? Victory, you say? Not victory, a defeat, it was... Master Obi-Wan. Begun, the Clone War has!
 ===	===
-OBI-WAN	Hello there!  Come here my little friend.  Don't be afraid. Don't worry, he'll be all right.
 LUKE	What happened?
 OBI-WAN	Rest easy, son, you've had a busy day.  You're fortunate you're still in one piece.
 LUKE	Ben?  Ben Kenobi!  Boy, am I glad to see you!
@@ -1027,11 +733,7 @@ LUKE	You know him!
 OBI-WAN	Well of course, of course I know him.  He's me!  I haven't gone by the name Obi-Wan since oh, before you were born.
 LUKE	Then the droid does belong to you.
 OBI-WAN	Don't seem to remember ever owning a droid.  Very interesting... I think we better get indoors. The Sand People are easily startled but they will soon be back and in greater numbers.
-LUKE	... Threepio!
 ===	===
-C-3PO	Where am I?  I must have taken a bad step...
-LUKE	Can you stand?  We've got to get out of here before the Sand People return.
-C-3PO	I don't think I can make it.  You go on, Master Luke.  There's no sense in you risking yourself on my account.  I'm done for.
 LUKE	No, you're not.  What kind of talk is that?
 OBI-WAN	Quickly, son... they're on the move.
 ===	===
@@ -1041,7 +743,6 @@ LUKE	You fought in the Clone Wars?
 OBI-WAN	Yes, I was once a Jedi Knight the same as your father.
 LUKE	I wish I'd known him.
 OBI-WAN	He was the best star-pilot in the galaxy, and a cunning warrior. I understand you've become quite a good pilot yourself.  And he was a good friend.  Which reminds me... I have something here for you. Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it. He feared you might follow old Obi-Wan on some damned-fool idealistic crusade like your father did.
-C-3PO	Sir, if you'll not be needing me, I'll close down for awhile.
 LUKE	Sure, go ahead. What is it?
 OBI-WAN	Your fathers lightsaber.  This is the weapon of a Jedi Knight. Not as clumsy or as random as a blaster. An elegant weapon for a more civilized time.  For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic.  Before the dark times, before the Empire.
 LUKE	How did my father die?
@@ -1068,12 +769,6 @@ OBI-WAN	And these blast points, too accurate for Sand People.  Only Imperial sto
 LUKE	Why would Imperial troops want to slaughter Jawas? If they traced the robots here, they may have learned who they sold them to.  And that would lead them back home!
 OBI-WAN	Wait, Luke!  It's too dangerous.
 ===	===
-OBI-WAN	There's nothing you could have done, Luke, had you been there. You'd have been killed, too, and the droids would now be in the hands of the Empire.
-LUKE	I want to come with you to Alderaan. There's nothing here for me now.  I want to learn the ways of the Force and become a Jedi like my father.
-===	===
-OBI-WAN	Mos Eisley Spaceport.  You will never find a more wretched hive of scum and villainy.  We must be cautious.
-===	===
-TROOPER	How long have you had these droids?
 LUKE	About three or four seasons.
 OBI-WAN	They're for sale if you want them.
 TROOPER	Let me see your identification.
@@ -1084,26 +779,12 @@ TROOPER	These are not the droids we're looking for.
 OBI-WAN	He can go about his business.
 TROOPER	You can go about your business.
 OBI-WAN	Move along.
-TROOPER	Move along.  Move along.
 ===	===
-C-3PO	I can't abide these Jawas. Disgusting creatures.
 LUKE	Go on, go on.  I can't understand how we got by those troopers.  I thought we were dead.
 OBI-WAN	The Force can have a strong influence on the weak-minded.  You will find it a powerful ally.
 LUKE	Do you really think we're going to find a pilot here that'll take us to Alderaan?
 OBI-WAN	Well, most of the best freighter pilots can be found here.  Only watch your step.  This place can be a little rough.
-LUKE	I'm ready for anything.
-C-3PO	Come along, Artoo.
 ===	===
-BARTENDER	We don't serve their kind here!
-LUKE	What?
-BARTENDER	Your droids. They'll have to wait outside.  We don't want them here.
-LUKE	Listen, why don't you wait out by the speeder.  We don't want any trouble.
-C-3PO	I heartily agree with you sir.
-CREATURE	Negola dewaghi wooldugger?!?
-HUMAN	He doesn't like you.
-LUKE	I'm sorry.
-HUMAN	I don't like you either Don't insult us.  You just watch yourself.  We're wanted men.  I have the death sentence on twelve systems.
-LUKE	I'll be careful than.
 HUMAN	You'll be dead.
 OBI-WAN	This little one isn't worth the effort.  Come let me buy you something...
 BARTENDER	No blasters!  No blaster!
@@ -1117,189 +798,73 @@ HAN	It's the ship that made the Kessel run in less than twelve parsecs! I've out
 OBI-WAN	Only passengers.  Myself, the boy, two droids, and no questions asked.
 HAN	What is it?  Some kind of local trouble?
 OBI-WAN	Let's just say we'd like to avoid any Imperial entanglements.
-HAN	Well, that's the real trick, isn't it?  And it's going to cost you something extra.  Ten thousand in advance.
-LUKE	Ten thousand?  We could almost buy our own ship for that!
-HAN	But who's going to fly it, kid! You?
 LUKE	You bet I could.  I'm not such a bad pilot myself!  We don't have to sit here and listen...
 OBI-WAN	We haven't that much with us. But we could pay you two thousand now, plus fifteen when we reach Alderaan.
 HAN	Seventeen, huh! Okay.  You guys got yourself a ship.  We'll leave as soon as you're ready.  Docking bay Ninety-four.
 OBI-WAN	Ninety-four.
-HAN	Looks like somebody's beginning to take an interest in your handiwork.
-TROOPER	All right, we'll check it out.
-HAN	Seventeen thousand!  Those guys must really be desperate.  This could really save my neck.  Get back to the ship and get her ready.
-===	===
-OBI-WAN	You'll have to sell your speeder.
-LUKE	That's okay.  I'm never coming back to this planet again.
 ===	===
 LUKE	He says it's the best he can do. Since the XP-38 came out, they just arenÕt in demand.
 OBI-WAN	It will be enough. If the ship's as fast as he's boasting, we ought to do well.
 ===	===
 HAN	Here's where the fun begins!
 OBI-WAN	How long before you can make the jump to light speed?
-HAN	It'll take a few moments to get the coordinates from the navi- computer.
-LUKE	Are you kidding?  At the rate they're gaining...
-HAN	Traveling through hyperspace isn't like dusting crops, boy!  Without precise calculations we could fly right through a star or bounce too close to a supernova and that'd end your trip real quick, wouldn't it?
-LUKE	What's that flashing?
-HAN	We're losing our deflector shield. Go strap yourself in, I'm going to make the jump to light speed.
 ===	===
 LUKE	Are you all right?  What's wrong?
 OBI-WAN	I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror and were suddenly silenced.  I fear something terrible has happened. You'd better get on with your exercises.
-HAN	Well, you can forget your troubles with those Imperial slugs.  I told you I'd outrun 'em. Don't everyone thank me at once. Anyway, we should be at Alderaan about oh-two-hundred hours.
-C-3PO	Now be careful, Artoo. He made a fair move.  Screaming about it won't help you.
-HAN	Let him have it. It's not wise to upset a Wookiee.
-C-3PO	But sir, nobody worries about upsetting a droid.
-HAN	That's 'cause droids don't pull people's arms out of their socket when they lose.  Wookiees are known to do that.
 C-3PO	I see your point, sir.  I suggest a new strategy, Artoo.  Let the Wookiee win.
 OBI-WAN	Remember, a Jedi can feel the Force flowing through him.
 LUKE	You mean it controls your actions?
 OBI-WAN	Partially. But it also obeys your commands.
-HAN	Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
-LUKE	You don't believe in the Force, do you?
 HAN	Kid, I've flown from one side of this galaxy to the other.  I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful force controlling everything. There's no mystical energy field that controls my destiny. It's all a lot of simple tricks and nonsense.
 OBI-WAN	I suggest you try it again, Luke. This time, let go your conscious self and act on instinct.
 LUKE	With the blast shield down, I can't even see.  How am I supposed to fight?
 OBI-WAN	Your eyes can deceive you.  Don't trust them. Stretch out with your feelings. You see, you can do it.
 HAN	I call it luck.
 OBI-WAN	In my experience, there's no such thing as luck.
-HAN	Look, going good against remotes is one thing.  Going good against the living?  That's something else. Looks like we're coming up on Alderaan.
 LUKE	You know, I did feel something. I could almost see the remote.
 OBI-WAN	That's good.  You have taken your first step into a larger world.
 ===	===
-HAN	Stand by, Chewie, here we go. Cut in the sublight engines. What the...?  Aw, we've come out of hyperspace into a meteor shower. Some kind of asteroid collision. It's not on any of the charts.
-LUKE	What's going on?
-HAN	Our position is correct, except... no, Alderaan!
-LUKE	What do you mean?  Where is it?
-HAN	Thats what I'm trying to tell you, kid.  It ain't there.  It's been totally blown away.
 LUKE	What?  How?
 OBI-WAN	Destroyed... by the Empire!
-HAN	The entire starfleet couldn't destroy the whole planet.  It'd take a thousand ships with more fire power than I've... There's another ship coming in.
 LUKE	Maybe they know what happened.
 OBI-WAN	It's an Imperial fighter.
 LUKE	It followed us!
 OBI-WAN	No.  It's a short range fighter.
-HAN	There aren't any bases around here.  Where did it come from?
 ===	===
-LUKE	It sure is leaving in a big hurry. If they identify us, we're in big trouble.
 HAN	Not if I can help it.  Chewie... jam it's transmissions.
 OBI-WAN	It'd be as well to let it go. It's too far out of range.
-HAN	Not for long...
 ===	===
-OBI-WAN	A fighter that size couldn't get this deep into space on its own.
-LUKE	Then he must have gotten lost, been part of a convoy or something...
-HAN	Well, he ain't going to be around long enough to tell anyone about us.
-===	===
-LUKE	Look at him.  He's heading for that small moon.
 HAN	I think I can get him before he gets there... he's almost in range.
 OBI-WAN	That's no moon!  It's a space station.
-HAN	It's too big to be a space station.
 LUKE	I have a very bad feeling about this.
 OBI-WAN	Turn the ship around!
-HAN	Yeah, I think your right.  Full reverse!  Chewie, lock in the auxiliary power.
-LUKE	Why are we still moving towards it?
-HAN	We're caught in a tractor beam! It's pulling us in!
-LUKE	But there's gotta be something you can do!
 HAN	There's nothin' I can do about it, kid.  I'm in full power.  I'm going to have to shut down.  But they're not going to get me without a fight!
 OBI-WAN	You can't win.  But there are alternatives to fighting.
 ===	===
-LUKE	Boy, it's lucky you had these compartments.
 HAN	I use them for smuggling.  I never thought I'd be smuggling myself in them.  This is ridiculous.  Even if I could take off, I'd never get past the tractor beam.
 OBI-WAN	Leave that to me!
 HAN	Damn fool. I knew that you were going to say that!
 OBI-WAN	Who's the more foolish... the fool or the fool who follows him?
 ===	===
-GANTRY OFFICER	TX-four-one-two.  Why aren't you at your post?  TX-four-one-two, do you copy? Take over.  We've got a bad transmitter.  I'll see what I can do.
-LUKE	You know, between his howling and your blasting everything in sight, it's a wonder the whole station doesn't know we're here.
-HAN	Bring them on!  I prefer a straight fight to all this sneaking around.
 C-3PO	We found the computer outlet, sir.
 OBI-WAN	Plug in.  He should be able to interpret the entire Imperial computer network.
 C-3PO	He says he's found the main control to the power beam that's holding the ship here.  He'll try to make the precise location appear on the monitor. The tractor beam is coupled to the main reactor in seven locations. A power loss at one of the terminals will allow the ship to leave.
 OBI-WAN	I don't think you boys can help. I must go alone.
-HAN	Whatever you say.  I've done more than I bargained for on this trip already.
 LUKE	I want to go with you.
 OBI-WAN	Be patient, Luke.  Stay and watch over the droids.
 LUKE	But he can...
 OBI-WAN	They must be delivered safely or other star systems will suffer the same fate as Alderaan.  Your destiny lies along a different path from mine.  The Force will be with you ... always!
-HAN	Boy you said it, Chewie. Where did you dig up that old fossil?
-LUKE	Ben is a great man.
-HAN	Yeah, great at getting us into trouble.
-LUKE	I didn't hear you give any ideas...
-HAN	Well, anything would be better than just hanging around waiting for them to pick us up...
-LUKE	Who do you think... What is it?
-C-3PO	"I'm afraid I'm not quite sure, sir. He says ""I found her,"" and keeps repeating, ""She's here."""
-LUKE	Well, who... who has he found?
-C-3PO	Princess Leia.
-LUKE	The princess?  She's here?
-HAN	Princess?
-LUKE	Where... where is she?
-HAN	Princess?  What's going on?
-C-3PO	Level five. Detention block AA- twenty-three.  I'm afraid she's scheduled to be terminated.
-LUKE	Oh, no!  We've got to do something.
-HAN	What are you talking about?
-LUKE	The droid belongs to her.  She's the one in the message.  We've got to help her.
-HAN	Now, look, don't get any funny ideas.  The old man wants us to wait right here.
-LUKE	But he didn't know she was here. Look, will you just find a way back into the detention block?
-HAN	I'm not going anywhere.
-LUKE	They're going to execute her. Look, a few minutes ago you said you didn't want to just wait here to be captured.  Now all you want to do is stay.
-HAN	Marching into the detention area is not what I had in mind.
-LUKE	But they're going to kill her!
-HAN	Better her than me...
-LUKE	She's rich.
-HAN	Rich?
-LUKE	Yes.  Rich, powerful!  Listen, if you were to rescue her, the reward would be...
-HAN	What?
-LUKE	Well more wealth that you can imagine.
-HAN	I don't know, I can imagine quite a bit!
-LUKE	You'll get it!
-HAN	I better!
-LUKE	You will...
-HAN	All right, kid.  But you'd better be right about this!
-LUKE	All right.
-HAN	What's your plan?
-LUKE	Uh... Threepio, hand me those binders there will you? Okay.  Now, I'm going to put these on you. Okay.  Han, you put these on.
-HAN	Don't worry, Chewie.  I think I know what he has in mind.
-C-3PO	Master Luke, sir!  Pardon me for asking... but, ah... what should Artoo and I do if we're discovered here?
-LUKE	Lock the door!
-HAN	And hope they don't have blasters.
-C-3PO	That isn't very reassuring.
 ===	===
-VADER	I've been waiting for you, Obi-Wan. We meet again, at last.  The circle is now complete. When I left you, I was but the learner; now I am the master.
+ANAKIN	I've been waiting for you, Obi-Wan. We meet again, at last.  The circle is now complete. When I left you, I was but the learner; now I am the master.
 OBI-WAN	Only a master of evil, Darth.
-VADER	Your powers are weak, old man.
+ANAKIN	Your powers are weak, old man.
 OBI-WAN	You can't win, Darth.  If you strike me down, I shall become more powerful than you can possibly imagine.
 ===	===
-HAN	Now's our chance!  Go!
-LUKE	No!
-HAN	Come on!
-LEIA	Come on!  Luke, its too late!
 HAN	Blast the door!  Kid!
 OBI-WAN	Run, Luke!  Run!
 ===	===
-LEIA	What's wrong?
-LUKE	Oh, it's Han!  I don't know, I really thought he'd change his mind.
-LEIA	He's got to follow his own path. No one can choose it for him.
-LUKE	I only wish Ben were here.
-BIGGS	Luke!  I don't believe it!  How'd you get here... are you going out with us?!
-LUKE	Biggs!  Of course, I'll be up there with you!  Listen, have I got some stories to tell...
-RED LEADER	Are you... Luke Skywalker?  Have you been checked out on the Incom T-sixty-five?
-BIGGS	Sir, Luke is the best bushpilot in the outer rim territories.
-RED LEADER	I met your father once when I was just a boy.  He was a great pilot. You'll do all right.  If you've got half of your father's skill, you'll do better than all right.
-LUKE	Thank you, sir.  I'll try.
-BIGGS	I've got to get aboard.  Listen, you'll tell me your stories when we come back.  All right?
-LUKE	I told you I'd make it someday, Biggs.
-BIGGS	You did, all right.  It's going to be like old times Luke. We're a couple of shooting stars that'll never be stopped!
-CHIEF	This R2 unit of your seems a bit beat up.  Do you want a new one?
-LUKE	Not on your life!  That little droid and I have been through a lot together. You okay, Artoo?
-CHIEF	Okay, easy she goes!
 C-3PO	Hang on tight, Artoo, you've got to come back. You wouldn't want my life to get boring, would you?
 OBI-WAN	Luke, the Force will be with you.
-===	===
-OBI-WAN	Use the Force, Luke.
-===	===
-OBI-WAN	Let go, Luke.
-===	===
-OBI-WAN	Luke, trust me.
-===	===
-OBI-WAN	Remember, the Force will be with you... always.
 ===	===
 LUKE	I can't do it, Artoo. I can't go on alone.
 OBI-WAN	Yoda will always be with you.
@@ -1328,66 +893,32 @@ OBI-WAN	Your insight serves you well. Bury your feelings deep down, Luke. They d
 LUKE	But you can't let her get involved now, Ben. Vader will destroy her.
 OBI-WAN	She hasn't been trained in the ways of the Jedi the way you have, Luke ... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!
 ===	===
-OBI-WAN	Luke...Luke.
 LUKE	Ben?
 OBI-WAN	You will go to the Dagobah system.
 LUKE	Dagobah system?
 OBI-WAN	There you will learn from Yoda, the Jedi Master who instructed me.
-LUKE	Ben...Ben.
-HAN	Luke! Luke! Don't do this, Luke. Come on, give me a sign here. Not much time.
-LUKE	Ben...Ben...
-HAN	Hang on, kid.
-LUKE	Dagobah system...
-HAN	Whew...
-LUKE	Dagobah...
-HAN	This may smell bad, kid...
-LUKE	Yoda...
-HAN	...but it will keep you warm...til I get the shelter built. (struggling to get Luke in the carcass) Ooh...I thought they smelled bad on the outside!
 ===	===
-LUKE	Look, I'm sure it's delicious. I just don't understand why we can't see Yoda now.
-YODA	Patience! For the Jedi it is time to eat as well. Eat, eat. Hot. Good food, hm? Good, hmm?
-LUKE	How far away is Yoda? Will it take us long to get there?
-YODA	Not far. Yoda not far. Patience. Soon you will be with him. (tasting food from the pot) Rootleaf, I cook. Why wish you become Jedi? Hm?
-LUKE	Mostly because of my father, I guess.
-YODA	Ah, your father. Powerful Jedi was he, powerful Jedi, mmm.
-LUKE	Oh, come on. How could you know my father? You don't even know who I am. (fed up) Oh, I don't even know what I'm doing here. We're wasting our time.
 YODA	I cannot teach him. The boy has no patience.
 OBI-WAN	He will learn patience.
 YODA	Hmmm. Much anger in him, like his father.
 OBI-WAN	Was I any different when you taught me?
-YODA	Hah. He is not ready.
-LUKE	Yoda! I am ready. I...Ben! I can be a Jedi. Ben, tell him I'm ready.
 YODA	Ready, are you? What know you of ready? For eight hundred years have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind. (to the invisible Ben, indicating Luke) This one a long time have I watched. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. (turning to Luke) You are reckless!
 OBI-WAN	So was I, if you'll remember.
-YODA	He is too old. Yes, too old to begin the training.
-LUKE	But I've learned so much.
-YODA	Will he finished what he begins?
-LUKE	I won't fail you -- I'm not afraid.
-YODA	Oh, you will be. You will be.
 ===	===
-YODA	Luke! You must complete the training.
-LUKE	I can't keep the vision out of my head. They're my friends. I've got to help them.
-YODA	You must not go!
 LUKE	But Han and Leia will die if I don't.
 OBI-WAN	You don't know that. Even Yoda cannot see their fate.
 LUKE	But I can help them! I feel the Force!
 OBI-WAN	But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force.
-YODA	Yes, yes. To Obi-Wan you listen. The cave. Remember your failure at the cave!
 LUKE	But I've learned so much since then. Master Yoda, I promise to return and finish what I've begun. You have my word.
 OBI-WAN	It is you and your abilities the Emperor wants. that is why your friends are made to suffer.
 LUKE	And that is why I have to go.
 OBI-WAN	Luke, I don't want to lose you to the Emperor the way I lost Vader.
-LUKE	You won't.
 YODA	Stopped they must be. On this depends. Only a fully trained Jedi Knight with the Force as his ally will conquer Vader and his Emperor. If you end your training now, if you choose the quick and easy path, as Vader did, you will become an agent of evil.
 OBI-WAN	Patience.
-LUKE	And sacrifice Han and Leia?
 YODA	If you honor what they fight for...yes!
 OBI-WAN	If you choose to face Vader, you will do it alone. I cannot interfere.
 LUKE	I understand.  Artoo, fire up the converters.
 OBI-WAN	Luke, don't give in to hate -- that leads to the dark side.
-YODA	Strong is Vader. Mind what you have learned. Save you it can.
-LUKE	I will. And I'll return. I promise.
 YODA	Told you, I did. Reckless is he. Now matters are worse.
 OBI-WAN	That boy is our last hope.
-YODA	No. There is another.
 ===	===
