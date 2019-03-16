@@ -5,11 +5,9 @@
 
 JediChat is a dialogue system that chats like a Star Wars character (do not have to be one of the Jedi masters) in text conversations with you. [Try it out]()!
 
-If you want to further customize JediChat or include another character that you would like to chat with, download this repository and follow the guides below to set things up on your local machine.
+If you want to further customize JediChat or include another character that you would like to chat with, download this repository and follow the guides below to manually set things up on your local machine.
 
 ## Setup
-
-You can manually setup
 
 To download the dependencies, run the following commands:
 
