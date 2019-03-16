@@ -27,7 +27,7 @@ BY_CHAR_DIR = "[Star-Wars-Chat-Bot]data/ByCharacter/"
 TEST_ACCESS = [(SCRIPTS_DIR + f, None) for f in os.listdir(SCRIPTS_DIR)] + \
     [(None, DIALOGUES_DIR + f) for f in os.listdir(DIALOGUES_DIR)] + \
     [(None, CLEAN_DIAL_DIR + f) for f in os.listdir(CLEAN_DIAL_DIR)] + \
-    [(None, BY_CHAR_DIR + f) for f in os.listdir(BY_CHAR_DIR)]
+    [(BY_CHAR_DIR + f, None) for f in os.listdir(BY_CHAR_DIR)]
 
 TEST_DIALOGUES = [DIALOGUES_DIR + f for f in os.listdir(DIALOGUES_DIR)] + \
                  [CLEAN_DIAL_DIR + f for f in os.listdir(CLEAN_DIAL_DIR)] + \
