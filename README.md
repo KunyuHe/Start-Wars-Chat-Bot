@@ -9,8 +9,10 @@ If you want to further customize JediChat or include another character that you 
 
 ## Setup
 
-To download the dependencies, run the following commands:
+To download the dependencies, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
 
 ```(bash)
 pip install -r requirements.txt
 ```
+
+
