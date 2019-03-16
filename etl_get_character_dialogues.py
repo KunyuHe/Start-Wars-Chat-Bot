@@ -8,8 +8,8 @@ Author:      Kunyu He
 """
 
 import os
-import pandas as pd
 import csv
+import pandas as pd
 
 from etl_clean_dialogues import clear_output_directory, process_dialogues
 
