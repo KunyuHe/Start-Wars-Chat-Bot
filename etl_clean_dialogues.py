@@ -21,7 +21,7 @@ OUTPUT_DIR = "[Star-Wars-Chat-Bot]data/CleanDialogues/"
 
 
 #----------------------------------------------------------------------------#
-def process_data_chunk(chunk, file):
+def clean_dialogue_chunk(chunk, file):
     """
     Given a chunk of dataframe (dialogues between two ===\t===), combines
     characters words until the character changes and writes the processed
@@ -44,11 +44,11 @@ def process_data_chunk(chunk, file):
             clean_lst[-1][-1] += " " + row.Dial
 
     with open(OUTPUT_DIR + file.replace(".tsv", "_clean.tsv"), 'a') as f:
-        f.write("===\t===\n")
         pd.DataFrame(clean_lst).to_csv(f, sep="\t", header=False, index=False)
+        f.write("===\t===\n")
 
 
-def clean_dialogue(file):
+def process_dialogues(fn, arg, data):
     """
     Given the name of a dialogue file, reads in the dialogues as a dataframe,
     gets rids of consecutive duplicate separators ("===\t===") first, and
@@ -61,21 +61,15 @@ def clean_dialogue(file):
     Returns:
         (None) append to the output file chunk by chunk
     """
-    data = pd.read_csv(DIALOGUES_DIR + file, delimiter="\t", header=None,
-                       encoding='gbk')
-    data.columns = HEADERS
-    data = data[data.Dial.shift() != data.Dial]
     chunk_lst = []
 
     for row in data.itertuples(index=False):
         if row.Char == "===":
             chunk_df = pd.DataFrame(chunk_lst, columns=HEADERS)
-            process_data_chunk(chunk_df, file)
+            fn(chunk_df, arg)
             chunk_lst = []
         else:
             chunk_lst.append(list(row))
-
-    return data
 
 
 def clear_output_directory(path=OUTPUT_DIR):
@@ -97,4 +91,9 @@ def clear_output_directory(path=OUTPUT_DIR):
 clear_output_directory()
 
 for dialogue_file in os.listdir(DIALOGUES_DIR):
-    clean_dialogue(dialogue_file)
+    data = pd.read_csv(DIALOGUES_DIR + dialogue_file, delimiter="\t",
+                       header=None, encoding='gbk')
+    data.columns = HEADERS
+    data = data[data.Dial.shift() != data.Dial]
+
+    process_dialogues(clean_dialogue_chunk, dialogue_file, data)

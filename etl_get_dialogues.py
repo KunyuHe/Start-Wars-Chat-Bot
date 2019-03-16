@@ -173,7 +173,7 @@ with open(generate_dialogue_path('EpisodeV_script.txt'), 'w') as f:
 # Star Wars Episode VI: Return of the Jedi-----------------------------------#
 script = read_script('EpisodeVI_script.txt')
 with open(generate_dialogue_path('EpisodeVI_script.txt'), 'w') as f:
-    for i in range(60, len(script) - 1):
+    for i in range(65, len(script) - 1):
         line, next_line = script[i], script[i + 1]
 
         if line_type(line, 30) and not re.search(r"^\(", line.lstrip()):
@@ -190,7 +190,7 @@ with open(generate_dialogue_path('EpisodeVI_script.txt'), 'w') as f:
 # Star Wars Episode III: Revenge of the Sith---------------------------------#
 script = read_script('EpisodeIII_script.txt')
 with open(generate_dialogue_path('EpisodeIII_script.txt'), 'w') as f:
-    for line in script:
+    for line in script[30:]:
         if ":" in line and line_type(line, 0) and not line.endswith(":"):
             name, dialogue = line.split(":", 1)
             name = clean_name(name, NAME_DICT)
