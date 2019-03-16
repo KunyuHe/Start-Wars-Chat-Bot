@@ -21,4 +21,11 @@ Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-B
 pip install -r requirements.txt
 ```
 
-## Data Source
+## Prepare & Customize Data
+
+The ETL (Extract-Transform-Load) process is executed by the following python scripts:
+
+* `etl_get_scripts_bs4.py`: parse Star Wars scripts from IMSDb with `BeautifulSoup` and save them into `.txt` files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Scripts)
+* `etl_get_dialogues.py`: 
+* `etl_clean_dialogues.py`:
+* `etl_get_character_dialogues.py`:
