@@ -7,6 +7,12 @@ JediChat is a dialogue system that chats like a Star Wars character (do not have
 
 If you want to further customize JediChat or include another character that you would like to chat with, download this repository and follow the guides below to manually set things up on your local machine.
 
+## Data Source
+
+We train JediChat based on dialogues from Star Wars IV, V, VI, and II, III movie scripts. We download scripts for IV, V and VI from [Gaston Sanchez's repo](https://github.com/gastonstat/StarWars/tree/master/Text_files), and parse the scripts for II and III from the [Internet Movie Script Database (IMSDb)](https://www.imsdb.com/).
+
+All logos, characters, artwork, stories, information, names, and other elements associated thereto, are the sole and exclusive property of [Lucasfilm Limited](https://www.lucasfilm.com/). The content licensing of this repo does NOT apply to the original works and trademarked names.
+
 ## Setup
 
 Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/network/dependencies). To download them, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
@@ -15,4 +21,4 @@ Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-B
 pip install -r requirements.txt
 ```
 
-
+## Data Source
