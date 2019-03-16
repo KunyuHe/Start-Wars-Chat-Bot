@@ -9,6 +9,7 @@ Author:      Kunyu He
 
 import os
 import pandas as pd
+import csv
 
 from etl_clean_dialogues import clear_output_directory, process_dialogues
 
@@ -35,13 +36,11 @@ def get_character_dials(chunk, characters):
     """
     for character in characters:
         target = []
-        for index, char in chunk.Char.iteritems():
-            if char == character and index >= 1:
-                target.extend([index - 1, index])
-        if target:
-            with open(OUTPUT_DIR + character + "_dial.tsv", 'a') as f:
-                chunk.iloc[target].to_csv(f, sep="\t", header=False, index=False)
-                f.write("===\t===\n")
+        with open(OUTPUT_DIR + character + "_dial.txt", 'a') as f:
+            for index, char in chunk.Char.iteritems():
+                if char == character and index >= 1:
+                    f.write(chunk.iloc[index - 1].Dial + "\n" +
+                            chunk.iloc[index].Dial + "\n")
 
 
 #----------------------------------------------------------------------------#
