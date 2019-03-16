@@ -25,7 +25,10 @@ pip install -r requirements.txt
 
 The ETL (Extract-Transform-Load) process is executed by the following python scripts:
 
-* `etl_get_scripts_bs4.py`: parse Star Wars scripts from IMSDb with `BeautifulSoup` and save them into `.txt` files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Scripts)
-* `etl_get_dialogues.py`: extract dialogues from movie scripts segmented by scene in to dialogue files (.tsv) [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Dialogues)
-* `etl_clean_dialogues.py`: clean the dialogue files by combining consecutive sentences by the same character within each scene and store the cleaned dialogue files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/CleanDialogues)
-* `etl_get_character_dialogues.py`: get dialogues that the characters of interest are involved and store the output [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/ByCharacter)
+* `etl_get_scripts_bs4.py`: parse Star Wars scripts from IMSDb with `BeautifulSoup` and save them into `.txt` files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Scripts).
+
+* `etl_get_dialogues.py`: extract dialogues from movie scripts segmented by scene in to dialogue files (.tsv) [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Dialogues).
+
+* `etl_clean_dialogues.py`: clean the dialogue files by combining consecutive sentences by the same character within each scene and store the cleaned dialogue files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/CleanDialogues).
+
+* `etl_get_character_dialogues.py`: get dialogues that the characters of interest are involved and store the output [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/ByCharacter).
