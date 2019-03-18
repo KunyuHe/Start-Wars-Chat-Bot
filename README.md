@@ -20,7 +20,7 @@ In order to get better training outcomes, we combine our data with dialogue data
 Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/network/dependencies). To download them, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
 
 ```(bash)
-$ pip install -r requirements.txt
+$ pip install --user -r requirements.txt
 ```
 
 ## Prepare & Customize Data
