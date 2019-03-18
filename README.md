@@ -13,12 +13,14 @@ We train JediChat based on dialogues from Star Wars IV, V, VI, and II, III movie
 
 All logos, characters, artwork, stories, information, names, and other elements associated thereto, are the sole and exclusive property of [Lucasfilm Limited](https://www.lucasfilm.com/). The content licensing of this repo does NOT apply to the original works and trademarked names.
 
+In order to get better training outcomes, we combine our data with dialogue data from [Cornell Movie--Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). We use both data to train our chatbot so that it responds reasonably.
+
 ## Setup
 
 Check a list of denpendencies [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/network/dependencies). To download them, run the following commands in the repo directory (where you place the downloads) under the environment you prefer:
 
 ```(bash)
-$ pip install -r requirements.txt
+$ pip install --user -r requirements.txt
 ```
 
 ## Prepare & Customize Data
