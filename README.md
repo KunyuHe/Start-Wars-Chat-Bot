@@ -31,6 +31,7 @@ The ETL (Extract-Transform-Load) process is executed by the following python scr
 *   `etl_get_dialogues.py`: extract dialogues from movie scripts segmented by scene in to dialogue files (.tsv) [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Dialogues).
 *   `etl_clean_dialogues.py`: clean the dialogue files by combining consecutive sentences by the same character within each scene and store the cleaned dialogue files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/CleanDialogues).
 *   `etl_get_character_dialogues.py`: get dialogues that the characters of interest are involved and store the output [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/ByCharacter).
+*   `etl_get_training_data.py`: get padded and tokenized questions and answer pickle files for model training [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Dtrain/temp)
 
 If you want to execute these python scripts manually, note that you have to run them in the specific order and no further arguments are needed. Or you can run the prepared shell script with:
 
