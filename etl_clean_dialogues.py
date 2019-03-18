@@ -12,15 +12,42 @@ Author:      Kunyu He
 """
 
 import os
+import string
 import pandas as pd
 
 HEADERS = ["Char", "Dial"]
+CORNELL_HEADER = ["LineID", "CharID", "MovieID", "Char", "Dial"]
 
 DIALOGUES_DIR = "[Star-Wars-Chat-Bot]data/Dialogues/"
 OUTPUT_DIR = "[Star-Wars-Chat-Bot]data/CleanDialogues/"
 
+L1 = ["won't", "let's", "'m", "'re", "'ve", "'ll", "'s", "'d", "can't", "n't",
+      "'em"]
+L2 = ["will not", "would not", "let us", " am", " are", " have", " will",
+      " is", " had", "can not", " not", "them"]
+L3 = ["_", "'", "\"", "\\", "--", "...", ". . ."]
+
 
 #----------------------------------------------------------------------------#
+def clean_dial(row):
+    """
+    Given a row of dialogue, keeps contractions, gets rid of rare punctuations
+    and turn everything to lower case.
+
+    Inputs:
+        - row (string): a row of dialogue
+
+    Returns:
+        (string) dialogue in lower case format
+    """
+    for i, term in enumerate(L1):
+        row = row.replace(term, L2[i])
+    for term in L3:
+        row = row.replace(term, " ")
+
+    return row.translate(str.maketrans("", "", string.punctuation)).lower()
+
+
 def clean_dialogue_chunk(chunk, file):
     """
     Given a chunk of dataframe (dialogues between two ===\t===), combines
@@ -34,16 +61,16 @@ def clean_dialogue_chunk(chunk, file):
     Returns:
         (None) append to the output file
     """
-    chunk['Continues'] = chunk.Char.shift() == chunk.Char
+    chunk["Continues"] = chunk.Char.shift() == chunk.Char
     clean_lst = []
 
     for row in chunk.itertuples(index=False):
         if not row.Continues:
-            clean_lst.append([row.Char, row.Dial])
+            clean_lst.append([row.Char, clean_dial(row.Dial)])
         else:
-            clean_lst[-1][-1] += " " + row.Dial
+            clean_lst[-1][-1] += " " + clean_dial(row.Dial)
 
-    with open(OUTPUT_DIR + file.replace(".tsv", "_clean.tsv"), 'a') as f:
+    with open(OUTPUT_DIR + file.replace(".tsv", "_clean.tsv"), "a") as f:
         pd.DataFrame(clean_lst).to_csv(f, sep="\t", header=False, index=False)
         f.write("===\t===\n")
 
@@ -93,7 +120,7 @@ clear_output_directory()
 
 for dialogue_file in os.listdir(DIALOGUES_DIR):
     data_df = pd.read_csv(DIALOGUES_DIR + dialogue_file, delimiter="\t",
-                          header=None, encoding='gbk')
+                          header=None, encoding="gbk")
     data_df.columns = HEADERS
     data_df = data_df[data_df.Dial.shift() != data_df.Dial]
 
