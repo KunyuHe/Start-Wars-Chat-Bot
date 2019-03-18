@@ -31,7 +31,7 @@ The ETL (Extract-Transform-Load) process is executed by the following python scr
 *   `etl_get_dialogues.py`: extract dialogues from movie scripts segmented by scene in to dialogue files (.tsv) [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/Dialogues).
 *   `etl_clean_dialogues.py`: clean the dialogue files by combining consecutive sentences by the same character within each scene and store the cleaned dialogue files [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/CleanDialogues).
 *   `etl_get_character_dialogues.py`: get dialogues that the characters of interest are involved and store the output [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Ddata/ByCharacter).
-*   `etl_get_training_data.py`: get padded and tokenized questions and answer pickle files for model training [here].(https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Dtrain/temp)
+*   `etl_get_training_data.py`: get padded and tokenized questions and answer pickle files for model training [here](https://github.com/KunyuHe/Star-Wars-Chat-Bot/tree/master/%5BStar-Wars-Chat-Bot%5Dtrain/temp).
 
 If you want to execute these python scripts manually, note that you have to run them in the specific order and no further arguments are needed. Or you can run the prepared shell script with:
 
@@ -44,8 +44,8 @@ If you want to customize and train your JediChat based on dialogues of a charact
 
 ## Model Training & Customize
 
-The model training part is based on [Oswaldo Ludwig's repo Seq2seq-Chatbot-for-Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras). We use a new generative model of chatbot based on `seq2seq modeling`. Further details on this model can be found in Section 3 of the paper [End-to-end Adversarial Learning for Generative Conversational Agents](https://www.researchgate.net/publication/321347271_End-to-end_Adversarial_Learning_for_Generative_Conversational_Agents).
+The model training part is based on Oswaldo Ludwig's repo [Seq2seq-Chatbot-for-Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras). We use a new generative model of chatbot based on `seq2seq modeling`. Further details on this model can be found in Section 3 of the paper [End-to-end Adversarial Learning for Generative Conversational Agents](https://www.researchgate.net/publication/321347271_End-to-end_Adversarial_Learning_for_Generative_Conversational_Agents).
 
 The architecture presented here assumes the same prior distributions for input and output words. Therefore, it shares an embedding layer ([Glove pre-trained word embedding](https://nlp.stanford.edu/projects/glove/?fbclid=IwAR1JVmPTDh37oXeHvdXtyqIEeFd7vcZoaideVsOHK4pnod6rXNGM71NL-8E)) between the encoding and decoding processes through the adoption of a new model.
 
-To chat with our pre-trained Jedi Masters, just run `JediChat.py`. The model we use here is based on our pretrained weights [here](https://www.dropbox.com/s/ss8nnkfzgwazfyy/JediChatPreTrained.h5?dl=0).
+The weights are fine tuned in `train_seq2seq.py`. To chat with our pre-trained Jedi Masters, just run `JediChat.py`. The model we use here is based on our pretrained weights [here](https://www.dropbox.com/s/ss8nnkfzgwazfyy/JediChatPreTrained.h5?dl=0).
